@@ -1,2 +1,31 @@
-# CPC-NA-PALMA-DA-MAO
+# CPC NA PALMA DA MÃO com o Professor Moreira
 
+Aplicativo PWA em HTML, CSS e JavaScript puro.
+
+## Publicação no GitHub Pages
+
+1. Crie um repositório no GitHub.
+2. Copie todos os arquivos e pastas deste projeto para o repositório.
+3. Faça commit e push.
+4. No GitHub, abra **Settings > Pages**.
+5. Em **Build and deployment**, escolha **Deploy from a branch**.
+6. Selecione a branch `main` e a pasta `/ (root)`.
+7. Salve e aguarde a publicação.
+
+## Como adicionar conteúdo
+
+As pastas já foram criadas:
+
+- `pdf/`
+- `resumos/`
+- `mapas/`
+- `casos/`
+- `quizzes/`
+- `comentarios/`
+- `ia/`
+
+A primeira versão exibe páginas de estrutura pronta. Os links reais podem ser adicionados posteriormente no arquivo `js/data.js` e na lógica de `js/app.js`.
+
+## Observação sobre PWA
+
+O funcionamento offline e a instalação exigem acesso por HTTPS. O GitHub Pages já fornece HTTPS.
