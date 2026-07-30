@@ -52,3 +52,7 @@ Resumo, mapa mental, 15 casos, dicionário, 200 flashcards, 100 questões coment
 
 ## CPC 02 (R2)
 Módulo completo sobre efeitos das mudanças nas taxas de câmbio e conversão de demonstrações contábeis, incluindo atualização sobre conversibilidade da Revisão 27.
+
+
+## CPC 03 (R2) — Demonstração dos Fluxos de Caixa
+Módulo completo incluído.

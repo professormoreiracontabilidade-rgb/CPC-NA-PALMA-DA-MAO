@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "O que o CPC 03 estabelece sobre objetivo?",
+    "resposta": "Apresentar alterações históricas de caixa e equivalentes, classificadas em atividades operacionais, de investimento e de financiamento.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa?",
+    "resposta": "Numerário em espécie e depósitos bancários disponíveis.",
+    "categoria": "Caixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "O que o CPC 03 estabelece sobre equivalentes de caixa?",
+    "resposta": "Aplicações de curto prazo, alta liquidez, prontamente conversíveis em montante conhecido e com risco insignificante.",
+    "categoria": "Equivalentes de caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "O que o CPC 03 estabelece sobre prazo típico?",
+    "resposta": "Normalmente três meses ou menos, contados da data da aquisição.",
+    "categoria": "Prazo típico",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "O que o CPC 03 estabelece sobre descoberto bancário?",
+    "resposta": "Pode integrar caixa quando faz parte da gestão de caixa e flutua de devedor para credor.",
+    "categoria": "Descoberto bancário",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "O que o CPC 03 estabelece sobre movimentos internos?",
+    "resposta": "Transferências entre caixa e equivalentes não são fluxos da DFC.",
+    "categoria": "Movimentos internos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade operacional?",
+    "resposta": "Principais atividades geradoras de receita e outras que não sejam investimento ou financiamento.",
+    "categoria": "Atividade operacional",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de investimento?",
+    "resposta": "Aquisição e venda de ativos de longo prazo e investimentos não incluídos em equivalentes.",
+    "categoria": "Atividade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "O que o CPC 03 estabelece sobre atividade de financiamento?",
+    "resposta": "Mudanças no capital próprio e no capital de terceiros.",
+    "categoria": "Atividade de financiamento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "O que o CPC 03 estabelece sobre método direto?",
+    "resposta": "Principais classes de recebimentos e pagamentos brutos.",
+    "categoria": "Método direto",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "O que o CPC 03 estabelece sobre método indireto?",
+    "resposta": "Ajusta o lucro por itens sem caixa, capital de giro e itens de investimento ou financiamento.",
+    "categoria": "Método indireto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "O que o CPC 03 estabelece sobre conciliação no direto?",
+    "resposta": "No Brasil, o método direto exige conciliação entre lucro e fluxo operacional.",
+    "categoria": "Conciliação no direto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "O que o CPC 03 estabelece sobre base líquida?",
+    "resposta": "Permitida apenas nas hipóteses específicas do pronunciamento.",
+    "categoria": "Base líquida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "O que o CPC 03 estabelece sobre moeda estrangeira?",
+    "resposta": "Fluxos são convertidos pela taxa da data do fluxo; taxa aproximada pode ser usada quando adequada.",
+    "categoria": "Moeda estrangeira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "O que o CPC 03 estabelece sobre efeito cambial?",
+    "resposta": "Ganhos não realizados não são fluxos; o efeito sobre caixa é mostrado separadamente.",
+    "categoria": "Efeito cambial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "O que o CPC 03 estabelece sobre juros e dividendos?",
+    "resposta": "Devem ser separados e classificados consistentemente.",
+    "categoria": "Juros e dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "O que o CPC 03 estabelece sobre orientação brasileira?",
+    "resposta": "Encouraja juros recebidos/pagos e dividendos recebidos como operacionais; dividendos pagos como financiamento.",
+    "categoria": "Orientação brasileira",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "O que o CPC 03 estabelece sobre ir e csll?",
+    "resposta": "Normalmente operacionais, salvo identificação específica.",
+    "categoria": "IR e CSLL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "O que o CPC 03 estabelece sobre aquisição ou perda de controle?",
+    "resposta": "Atividade de investimento, apresentada separadamente e líquida do caixa adquirido ou alienado.",
+    "categoria": "Aquisição ou perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "O que o CPC 03 estabelece sobre mudança sem perda de controle?",
+    "resposta": "Atividade de financiamento.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "O que o CPC 03 estabelece sobre transação sem caixa?",
+    "resposta": "Excluída da DFC e divulgada em nota.",
+    "categoria": "Transação sem caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "O que o CPC 03 estabelece sobre passivos de financiamento?",
+    "resposta": "Devem ser conciliadas alterações de caixa e não caixa.",
+    "categoria": "Passivos de financiamento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "O que o CPC 03 estabelece sobre financiamento de fornecedores?",
+    "resposta": "Forfait, confirming ou risco sacado exigem divulgações específicas.",
+    "categoria": "Financiamento de fornecedores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "O que o CPC 03 estabelece sobre componentes do caixa?",
+    "resposta": "Devem ser divulgados e conciliados com o balanço.",
+    "categoria": "Componentes do caixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "O que o CPC 03 estabelece sobre caixa indisponível?",
+    "resposta": "Saldos significativos indisponíveis para o grupo devem ser divulgados.",
+    "categoria": "Caixa indisponível",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "O que o CPC 03 estabelece sobre fluxo por ação?",
+    "resposta": "Não deve ser divulgado.",
+    "categoria": "Fluxo por ação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "O que o CPC 03 estabelece sobre venda de imobilizado?",
+    "resposta": "Entrada de investimento, mesmo que o ganho esteja no resultado.",
+    "categoria": "Venda de imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "O que o CPC 03 estabelece sobre compra de imobilizado?",
+    "resposta": "Saída de investimento apenas na parcela efetivamente paga.",
+    "categoria": "Compra de imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "O que o CPC 03 estabelece sobre depreciação?",
+    "resposta": "Item sem caixa, adicionado no método indireto.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "O que o CPC 03 estabelece sobre capital de giro?",
+    "resposta": "Aumento de ativo operacional reduz caixa; aumento de passivo operacional aumenta caixa.",
+    "categoria": "Capital de giro",
+    "dificuldade": "Difícil"
+  }
+]

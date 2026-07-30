@@ -64,13 +64,21 @@ window.CPCS = [
   {
     "numero": "03",
     "nome": "Demonstração dos Fluxos de Caixa",
-    "palavras": [
-      "dfc",
-      "fluxo de caixa",
-      "operacional",
-      "investimento",
-      "financiamento"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-03-R2-Demonstracao-Fluxos-Caixa.pdf",
+    "resumo": "./resumos/cpc03-resumo.html",
+    "mapa": "./mapas/cpc03-mapa.html",
+    "casos": "./casos/cpc03-casos.html",
+    "dicionario": "./resumos/cpc03-dicionario.html",
+    "flashcards": "./resumos/cpc03-flashcards.html",
+    "quizzes": "./quizzes/cpc03-index.html",
+    "comentarios": "./comentarios/cpc03-questoes.html",
+    "banco": "./questoes/cpc03-banco.html",
+    "simulado": "./quizzes/cpc03-simulado.html",
+    "macetes": "./resumos/cpc03-macetes.html",
+    "erros": "./resumos/cpc03-erros.html",
+    "checklist": "./resumos/cpc03-checklist.html",
+    "palavras": ["dfc", "fluxo de caixa", "método direto", "método indireto", "operacional", "investimento", "financiamento", "risco sacado"]
   },
   {
     "numero": "04",
