@@ -29,3 +29,9 @@ A primeira versão exibe páginas de estrutura pronta. Os links reais podem ser 
 ## Observação sobre PWA
 
 O funcionamento offline e a instalação exigem acesso por HTTPS. O GitHub Pages já fornece HTTPS.
+
+## Conteúdo já integrado
+
+- CPC 00 (R2) - Estrutura Conceitual para Relatório Financeiro
+  - Pronunciamento Oficial em PDF
+  - Caminho: `pdf/CPC-00-R2-Estrutura-Conceitual.pdf`

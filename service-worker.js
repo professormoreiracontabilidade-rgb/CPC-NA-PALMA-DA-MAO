@@ -1,4 +1,4 @@
-const CACHE_NAME = "cpc-na-palma-v1";
+const CACHE_NAME = "cpc-na-palma-v2";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -8,7 +8,8 @@ const APP_SHELL = [
   "./manifest.json",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
-  "./icons/favicon.png"
+  "./icons/favicon.png",
+  "./pdf/CPC-00-R2-Estrutura-Conceitual.pdf"
 ];
 
 self.addEventListener("install", event => {

@@ -2,6 +2,7 @@ window.CPCS = [
   {
     "numero": "00",
     "nome": "Estrutura Conceitual para Relatório Financeiro",
+    "pdf": "./pdf/CPC-00-R2-Estrutura-Conceitual.pdf",
     "palavras": [
       "estrutura conceitual",
       "ativo",

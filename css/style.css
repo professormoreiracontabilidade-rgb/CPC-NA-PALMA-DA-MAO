@@ -174,3 +174,32 @@ body.dark .favorite-btn{background:#182d49}
 @media(display-mode:standalone){
   .hero{padding-top:calc(30px + env(safe-area-inset-top))}
 }
+
+
+.resource-status{
+  justify-self:end;
+  font-size:.68rem;
+  font-weight:900;
+  letter-spacing:.04em;
+  padding:7px 9px;
+  border-radius:999px;
+  color:var(--muted);
+  background:#eef2f7;
+  white-space:nowrap
+}
+.resource-available{
+  border:2px solid rgba(201,31,55,.35);
+  box-shadow:0 8px 22px rgba(201,31,55,.10)
+}
+.resource-available .resource-icon{
+  background:rgba(201,31,55,.12)
+}
+.resource-available .resource-status{
+  color:#fff;
+  background:var(--red)
+}
+body.dark .resource-status{background:#182d49}
+body.dark .resource-available .resource-status{background:var(--red)}
+@media(max-width:420px){
+  .resource-status{font-size:.58rem;padding:6px 7px}
+}

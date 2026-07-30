@@ -6,13 +6,13 @@ const STORAGE = {
 };
 
 const resources = [
-  { title: "Pronunciamento Oficial", subtitle: "PDF oficial do CPC", icon: "📄" },
-  { title: "Resumo do Professor Moreira", subtitle: "Síntese didática e objetiva", icon: "📝" },
-  { title: "Mapa Mental", subtitle: "Revisão visual dos pontos-chave", icon: "🧠" },
-  { title: "Casos Práticos", subtitle: "Aplicações contábeis comentadas", icon: "📚" },
-  { title: "Quizzes", subtitle: "Teste seus conhecimentos", icon: "❓" },
-  { title: "Questões Comentadas", subtitle: "Questões com explicações detalhadas", icon: "📋" },
-  { title: "Pergunte ao Professor Moreira", subtitle: "Estrutura preparada para futura IA", icon: "💬" }
+  { key: "pdf", title: "Pronunciamento Oficial", subtitle: "PDF oficial do CPC", icon: "📄" },
+  { key: "resumo", title: "Resumo do Professor Moreira", subtitle: "Síntese didática e objetiva", icon: "📝" },
+  { key: "mapa", title: "Mapa Mental", subtitle: "Revisão visual dos pontos-chave", icon: "🧠" },
+  { key: "casos", title: "Casos Práticos", subtitle: "Aplicações contábeis comentadas", icon: "📚" },
+  { key: "quizzes", title: "Quizzes", subtitle: "Teste seus conhecimentos", icon: "❓" },
+  { key: "comentarios", title: "Questões Comentadas", subtitle: "Questões com explicações detalhadas", icon: "📋" },
+  { key: "ia", title: "Pergunte ao Professor Moreira", subtitle: "Estrutura preparada para futura IA", icon: "💬" }
 ];
 
 const $ = (selector) => document.querySelector(selector);
@@ -106,18 +106,31 @@ function openCpc(number) {
   $("#dialogName").textContent = activeCpc.nome;
   $("#dialogBadge").textContent = activeCpc.numero;
   $("#dialogFavorite").textContent = read(STORAGE.favorites).includes(number) ? "★" : "☆";
-  $("#resourceGrid").innerHTML = resources.map((resource, index) => `
-    <button class="resource-btn" data-resource="${index}">
-      <span class="resource-icon">${resource.icon}</span>
-      <span><strong>${resource.title}</strong><small>${resource.subtitle}</small></span>
-      <span class="arrow">›</span>
-    </button>`).join("");
+  $("#resourceGrid").innerHTML = resources.map((resource, index) => {
+    const available = Boolean(activeCpc[resource.key]);
+    return `
+      <button class="resource-btn ${available ? "resource-available" : ""}" data-resource="${index}">
+        <span class="resource-icon">${resource.icon}</span>
+        <span>
+          <strong>${resource.title}</strong>
+          <small>${available ? "Disponível agora" : resource.subtitle + " • Em preparação"}</small>
+        </span>
+        <span class="resource-status">${available ? "ABRIR" : "EM BREVE"}</span>
+      </button>`;
+  }).join("");
   updateProgress();
   $("#cpcDialog").showModal();
 }
 
 function openPlaceholder(index) {
   const resource = resources[index];
+  const target = activeCpc?.[resource.key];
+
+  if (target) {
+    window.open(target, "_blank", "noopener,noreferrer");
+    return;
+  }
+
   $("#placeholderIcon").textContent = resource.icon;
   $("#placeholderCpc").textContent = `CPC ${activeCpc.numero}`;
   $("#placeholderTitle").textContent = resource.title;
