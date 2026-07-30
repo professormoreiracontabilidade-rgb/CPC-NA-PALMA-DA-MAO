@@ -45,11 +45,21 @@ window.CPCS = [
   {
     "numero": "02",
     "nome": "Efeitos das Mudanças nas Taxas de Câmbio e Conversão de Demonstrações Contábeis",
-    "palavras": [
-      "câmbio",
-      "moeda estrangeira",
-      "conversão"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-02-R2-Efeitos-Taxas-Cambio-Conversao.pdf",
+    "resumo": "./resumos/cpc02-resumo.html",
+    "mapa": "./mapas/cpc02-mapa.html",
+    "casos": "./casos/cpc02-casos.html",
+    "dicionario": "./resumos/cpc02-dicionario.html",
+    "flashcards": "./resumos/cpc02-flashcards.html",
+    "quizzes": "./quizzes/cpc02-index.html",
+    "comentarios": "./comentarios/cpc02-questoes.html",
+    "banco": "./questoes/cpc02-banco.html",
+    "simulado": "./quizzes/cpc02-simulado.html",
+    "macetes": "./resumos/cpc02-macetes.html",
+    "erros": "./resumos/cpc02-erros.html",
+    "checklist": "./resumos/cpc02-checklist.html",
+    "palavras": ["câmbio", "moeda funcional", "moeda estrangeira", "taxa de fechamento", "variação cambial", "conversão", "entidade no exterior", "item monetário", "conversibilidade"]
   },
   {
     "numero": "03",
