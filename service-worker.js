@@ -1,4 +1,4 @@
-const CACHE_NAME = "cpc-na-palma-v8";
+const CACHE_NAME = "cpc-na-palma-v9";
 const APP_SHELL = [
   "./",
   "./service-worker.js",
@@ -186,7 +186,43 @@ const APP_SHELL = [
   "./resumos/cpc04-flashcards.html",
   "./resumos/cpc04-flashcards.json",
   "./resumos/cpc04-macetes.html",
-  "./resumos/cpc04-resumo.html"
+  "./resumos/cpc04-resumo.html",
+  "./assets/cpc06.css",
+  "./casos/cpc06-casos.html",
+  "./comentarios/cpc06-questoes.html",
+  "./comentarios/cpc06-questoes.json",
+  "./mapas/cpc06-mapa.html",
+  "./pdf/CPC-06-R2-Arrendamentos.pdf",
+  "./questoes/cpc06-banco.html",
+  "./quizzes/cpc06-index.html",
+  "./quizzes/cpc06-quiz-01.html",
+  "./quizzes/cpc06-quiz-02.html",
+  "./quizzes/cpc06-quiz-03.html",
+  "./quizzes/cpc06-quiz-04.html",
+  "./quizzes/cpc06-quiz-05.html",
+  "./quizzes/cpc06-quiz-06.html",
+  "./quizzes/cpc06-quiz-07.html",
+  "./quizzes/cpc06-quiz-08.html",
+  "./quizzes/cpc06-quiz-09.html",
+  "./quizzes/cpc06-quiz-10.html",
+  "./quizzes/cpc06-quiz-11.html",
+  "./quizzes/cpc06-quiz-12.html",
+  "./quizzes/cpc06-quiz-13.html",
+  "./quizzes/cpc06-quiz-14.html",
+  "./quizzes/cpc06-quiz-15.html",
+  "./quizzes/cpc06-quiz-16.html",
+  "./quizzes/cpc06-quiz-17.html",
+  "./quizzes/cpc06-quiz-18.html",
+  "./quizzes/cpc06-quiz-19.html",
+  "./quizzes/cpc06-quiz-20.html",
+  "./quizzes/cpc06-simulado.html",
+  "./resumos/cpc06-checklist.html",
+  "./resumos/cpc06-dicionario.html",
+  "./resumos/cpc06-erros.html",
+  "./resumos/cpc06-flashcards.html",
+  "./resumos/cpc06-flashcards.json",
+  "./resumos/cpc06-macetes.html",
+  "./resumos/cpc06-resumo.html"
 ];
 self.addEventListener("install", event => { event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL))); self.skipWaiting(); });
 self.addEventListener("activate", event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))))); self.clients.claim(); });

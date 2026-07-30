@@ -60,3 +60,7 @@ Módulo completo incluído.
 
 ## CPC 04 (R1) — Ativo Intangível
 Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 06 (R2) - Arrendamentos
+Modulo completo com PDF, resumo, mapa, 30 casos, dicionario, 300 flashcards, 20 quizzes, 200 questoes comentadas, banco, simulado, macetes, erros e checklist.

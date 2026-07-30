@@ -102,11 +102,21 @@ window.CPCS = [
   {
     "numero": "06",
     "nome": "Arrendamentos",
-    "palavras": [
-      "arrendamento",
-      "leasing",
-      "direito de uso"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-06-R2-Arrendamentos.pdf",
+    "resumo": "./resumos/cpc06-resumo.html",
+    "mapa": "./mapas/cpc06-mapa.html",
+    "casos": "./casos/cpc06-casos.html",
+    "dicionario": "./resumos/cpc06-dicionario.html",
+    "flashcards": "./resumos/cpc06-flashcards.html",
+    "quizzes": "./quizzes/cpc06-index.html",
+    "comentarios": "./comentarios/cpc06-questoes.html",
+    "banco": "./questoes/cpc06-banco.html",
+    "simulado": "./quizzes/cpc06-simulado.html",
+    "macetes": "./resumos/cpc06-macetes.html",
+    "erros": "./resumos/cpc06-erros.html",
+    "checklist": "./resumos/cpc06-checklist.html",
+    "palavras": ["arrendamento", "ifrs 16", "direito de uso", "passivo de arrendamento", "arrendatario", "arrendador", "curto prazo", "baixo valor", "sale and leaseback"]
   },
   {
     "numero": "09",
