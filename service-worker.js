@@ -1,4 +1,4 @@
-const CACHE_NAME = "cpc-na-palma-v3";
+const CACHE_NAME = "cpc-na-palma-v4";
 const APP_SHELL = [
   "./",
   "./index.html",

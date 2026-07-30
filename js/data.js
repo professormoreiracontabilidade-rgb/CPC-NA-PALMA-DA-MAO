@@ -11,7 +11,6 @@ window.CPCS = [
     "quizzes": "./quizzes/cpc00-index.html",
     "comentarios": "./comentarios/cpc00-questoes.html",
     "simulado": "./quizzes/cpc00-simulado.html",
-    "ia": "./ia/cpc00-ia.html",
     "palavras": [
       "estrutura conceitual",
       "ativo",
