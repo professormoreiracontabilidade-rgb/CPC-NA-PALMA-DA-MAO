@@ -26,11 +26,21 @@ window.CPCS = [
   {
     "numero": "01",
     "nome": "Redução ao Valor Recuperável de Ativos",
-    "palavras": [
-      "impairment",
-      "valor recuperável",
-      "perda"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-01-R1-Reducao-Valor-Recuperavel-Ativos.pdf",
+    "resumo": "./resumos/cpc01-resumo.html",
+    "mapa": "./mapas/cpc01-mapa.html",
+    "casos": "./casos/cpc01-casos.html",
+    "dicionario": "./resumos/cpc01-dicionario.html",
+    "flashcards": "./resumos/cpc01-flashcards.html",
+    "quizzes": "./quizzes/cpc01-index.html",
+    "comentarios": "./comentarios/cpc01-questoes.html",
+    "banco": "./questoes/cpc01-banco.html",
+    "simulado": "./quizzes/cpc01-simulado.html",
+    "macetes": "./resumos/cpc01-macetes.html",
+    "erros": "./resumos/cpc01-erros.html",
+    "checklist": "./resumos/cpc01-checklist.html",
+    "palavras": ["impairment", "valor recuperável", "valor em uso", "valor justo líquido", "perda por desvalorização", "unidade geradora de caixa", "ugc", "goodwill", "reversão"]
   },
   {
     "numero": "02",

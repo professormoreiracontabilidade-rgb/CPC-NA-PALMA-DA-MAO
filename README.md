@@ -38,3 +38,13 @@ O funcionamento offline e a instalação exigem acesso por HTTPS. O GitHub Pages
 
 ## CPC 00 completo
 Resumo, mapa mental, 15 casos, dicionário, 200 flashcards, 100 questões comentadas, 10 quizzes, simulado final e consulta local.
+
+
+## CPC 01 (R1) — módulo completo
+- PDF oficial
+- Resumo, mapa mental, 30 casos, dicionário
+- 300 flashcards
+- 20 quizzes / 200 questões comentadas
+- Banco de questões e simulado de 100 questões
+- Macetes, erros mais comuns e checklist
+- Cache PWA: cpc-na-palma-v5
