@@ -83,12 +83,21 @@ window.CPCS = [
   {
     "numero": "04",
     "nome": "Ativo Intangível",
-    "palavras": [
-      "intangível",
-      "pesquisa",
-      "desenvolvimento",
-      "amortização"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-04-R1-Ativo-Intangivel.pdf",
+    "resumo": "./resumos/cpc04-resumo.html",
+    "mapa": "./mapas/cpc04-mapa.html",
+    "casos": "./casos/cpc04-casos.html",
+    "dicionario": "./resumos/cpc04-dicionario.html",
+    "flashcards": "./resumos/cpc04-flashcards.html",
+    "quizzes": "./quizzes/cpc04-index.html",
+    "comentarios": "./comentarios/cpc04-questoes.html",
+    "banco": "./questoes/cpc04-banco.html",
+    "simulado": "./quizzes/cpc04-simulado.html",
+    "macetes": "./resumos/cpc04-macetes.html",
+    "erros": "./resumos/cpc04-erros.html",
+    "checklist": "./resumos/cpc04-checklist.html",
+    "palavras": ["intangível", "pesquisa", "desenvolvimento", "amortização", "vida útil", "goodwill", "website", "software", "patente", "marca"]
   },
   {
     "numero": "06",
