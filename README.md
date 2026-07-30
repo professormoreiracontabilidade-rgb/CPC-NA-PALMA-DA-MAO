@@ -35,3 +35,6 @@ O funcionamento offline e a instalação exigem acesso por HTTPS. O GitHub Pages
 - CPC 00 (R2) - Estrutura Conceitual para Relatório Financeiro
   - Pronunciamento Oficial em PDF
   - Caminho: `pdf/CPC-00-R2-Estrutura-Conceitual.pdf`
+
+## CPC 00 completo
+Resumo, mapa mental, 15 casos, dicionário, 200 flashcards, 100 questões comentadas, 10 quizzes, simulado final e consulta local.

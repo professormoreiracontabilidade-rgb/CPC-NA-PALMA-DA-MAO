@@ -3,14 +3,27 @@ window.CPCS = [
     "numero": "00",
     "nome": "Estrutura Conceitual para Relatório Financeiro",
     "pdf": "./pdf/CPC-00-R2-Estrutura-Conceitual.pdf",
+    "resumo": "./resumos/cpc00-resumo.html",
+    "mapa": "./mapas/cpc00-mapa.html",
+    "casos": "./casos/cpc00-casos.html",
+    "flashcards": "./resumos/cpc00-flashcards.html",
+    "dicionario": "./resumos/cpc00-dicionario.html",
+    "quizzes": "./quizzes/cpc00-index.html",
+    "comentarios": "./comentarios/cpc00-questoes.html",
+    "simulado": "./quizzes/cpc00-simulado.html",
+    "ia": "./ia/cpc00-ia.html",
     "palavras": [
       "estrutura conceitual",
       "ativo",
       "passivo",
       "receita",
-      "despesa"
+      "despesa",
+      "relevância",
+      "materialidade",
+      "mensuração"
     ]
   },
+
   {
     "numero": "01",
     "nome": "Redução ao Valor Recuperável de Ativos",

@@ -7,12 +7,15 @@ const STORAGE = {
 
 const resources = [
   { key: "pdf", title: "Pronunciamento Oficial", subtitle: "PDF oficial do CPC", icon: "📄" },
-  { key: "resumo", title: "Resumo do Professor Moreira", subtitle: "Síntese didática e objetiva", icon: "📝" },
-  { key: "mapa", title: "Mapa Mental", subtitle: "Revisão visual dos pontos-chave", icon: "🧠" },
-  { key: "casos", title: "Casos Práticos", subtitle: "Aplicações contábeis comentadas", icon: "📚" },
-  { key: "quizzes", title: "Quizzes", subtitle: "Teste seus conhecimentos", icon: "❓" },
-  { key: "comentarios", title: "Questões Comentadas", subtitle: "Questões com explicações detalhadas", icon: "📋" },
-  { key: "ia", title: "Pergunte ao Professor Moreira", subtitle: "Estrutura preparada para futura IA", icon: "💬" }
+  { key: "resumo", title: "Resumo do Professor Moreira", subtitle: "Resumo completo e didático", icon: "📝" },
+  { key: "mapa", title: "Mapa Mental", subtitle: "Mapa textual dos capítulos", icon: "🧠" },
+  { key: "casos", title: "Casos Práticos", subtitle: "15 aplicações comentadas", icon: "📚" },
+  { key: "flashcards", title: "Flashcards", subtitle: "200 cartões de revisão", icon: "🎯" },
+  { key: "dicionario", title: "Dicionário", subtitle: "Principais conceitos", icon: "📖" },
+  { key: "quizzes", title: "Quizzes", subtitle: "10 quizzes de 10 questões", icon: "❓" },
+  { key: "comentarios", title: "Questões Comentadas", subtitle: "100 questões explicadas", icon: "📋" },
+  { key: "simulado", title: "Simulado Final", subtitle: "50 questões", icon: "🏆" },
+  { key: "ia", title: "Pergunte ao Professor Moreira", subtitle: "Consulta à base local", icon: "💬" }
 ];
 
 const $ = (selector) => document.querySelector(selector);
