@@ -330,11 +330,21 @@ window.CPCS = [
   {
     "numero": "45",
     "nome": "Divulgação de Participações em Outras Entidades",
-    "palavras": [
-      "participações",
-      "divulgação",
-      "outras entidades"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-45-Divulgacao-Participacoes-Outras-Entidades.pdf",
+    "resumo": "./resumos/cpc45-resumo.html",
+    "mapa": "./mapas/cpc45-mapa.html",
+    "casos": "./casos/cpc45-casos.html",
+    "dicionario": "./resumos/cpc45-dicionario.html",
+    "flashcards": "./resumos/cpc45-flashcards.html",
+    "quizzes": "./quizzes/cpc45-index.html",
+    "comentarios": "./comentarios/cpc45-questoes.html",
+    "banco": "./questoes/cpc45-banco.html",
+    "simulado": "./quizzes/cpc45-simulado.html",
+    "macetes": "./resumos/cpc45-macetes.html",
+    "erros": "./resumos/cpc45-erros.html",
+    "checklist": "./resumos/cpc45-checklist.html",
+    "palavras": ["participações em outras entidades", "controladas", "coligadas", "joint ventures", "entidades estruturadas", "não controladores", "exposição máxima", "julgamentos significativos"]
   },
   {
     "numero": "46",
