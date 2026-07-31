@@ -216,66 +216,135 @@ window.CPCS = [
   {
     "numero": "25",
     "nome": "Provisões, Passivos Contingentes e Ativos Contingentes",
-    "palavras": [
-      "provisão",
-      "passivo contingente",
-      "ativo contingente"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-25-Provisoes-Contingencias.pdf",
+    "resumo": "./resumos/cpc25-resumo.html",
+    "mapa": "./mapas/cpc25-mapa.html",
+    "casos": "./casos/cpc25-casos.html",
+    "dicionario": "./resumos/cpc25-dicionario.html",
+    "flashcards": "./resumos/cpc25-flashcards.html",
+    "quizzes": "./quizzes/cpc25-index.html",
+    "comentarios": "./comentarios/cpc25-questoes.html",
+    "banco": "./questoes/cpc25-banco.html",
+    "simulado": "./quizzes/cpc25-simulado.html",
+    "macetes": "./resumos/cpc25-macetes.html",
+    "erros": "./resumos/cpc25-erros.html",
+    "checklist": "./resumos/cpc25-checklist.html",
+    "palavras": ["provisão", "passivo contingente", "ativo contingente", "obrigação presente", "contrato oneroso", "reestruturação", "reembolso"]
   },
   {
     "numero": "26",
     "nome": "Apresentação das Demonstrações Contábeis",
-    "palavras": [
-      "demonstrações contábeis",
-      "balanço",
-      "dre",
-      "apresentação"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-26-R1-Apresentacao-Demonstracoes-Contabeis.pdf",
+    "resumo": "./resumos/cpc26-resumo.html",
+    "mapa": "./mapas/cpc26-mapa.html",
+    "casos": "./casos/cpc26-casos.html",
+    "dicionario": "./resumos/cpc26-dicionario.html",
+    "flashcards": "./resumos/cpc26-flashcards.html",
+    "quizzes": "./quizzes/cpc26-index.html",
+    "comentarios": "./comentarios/cpc26-questoes.html",
+    "banco": "./questoes/cpc26-banco.html",
+    "simulado": "./quizzes/cpc26-simulado.html",
+    "macetes": "./resumos/cpc26-macetes.html",
+    "erros": "./resumos/cpc26-erros.html",
+    "checklist": "./resumos/cpc26-checklist.html",
+    "palavras": ["demonstrações contábeis", "balanço patrimonial", "dre", "dra", "dmpl", "notas explicativas", "materialidade", "continuidade", "comparativos"]
   },
   {
     "numero": "27",
     "nome": "Ativo Imobilizado",
-    "palavras": [
-      "imobilizado",
-      "depreciação",
-      "valor residual",
-      "vida útil"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-27-Ativo-Imobilizado.pdf",
+    "resumo": "./resumos/cpc27-resumo.html",
+    "mapa": "./mapas/cpc27-mapa.html",
+    "casos": "./casos/cpc27-casos.html",
+    "dicionario": "./resumos/cpc27-dicionario.html",
+    "flashcards": "./resumos/cpc27-flashcards.html",
+    "quizzes": "./quizzes/cpc27-index.html",
+    "comentarios": "./comentarios/cpc27-questoes.html",
+    "banco": "./questoes/cpc27-banco.html",
+    "simulado": "./quizzes/cpc27-simulado.html",
+    "macetes": "./resumos/cpc27-macetes.html",
+    "erros": "./resumos/cpc27-erros.html",
+    "checklist": "./resumos/cpc27-checklist.html",
+    "palavras": ["ativo imobilizado", "depreciação", "vida útil", "valor residual", "componentização", "custo", "impairment", "baixa"]
   },
   {
     "numero": "31",
     "nome": "Ativo Não Circulante Mantido para Venda e Operação Descontinuada",
-    "palavras": [
-      "mantido para venda",
-      "operação descontinuada"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-31-Ativo-Nao-Circulante-Mantido-para-Venda.pdf",
+    "resumo": "./resumos/cpc31-resumo.html",
+    "mapa": "./mapas/cpc31-mapa.html",
+    "casos": "./casos/cpc31-casos.html",
+    "dicionario": "./resumos/cpc31-dicionario.html",
+    "flashcards": "./resumos/cpc31-flashcards.html",
+    "quizzes": "./quizzes/cpc31-index.html",
+    "comentarios": "./comentarios/cpc31-questoes.html",
+    "banco": "./questoes/cpc31-banco.html",
+    "simulado": "./quizzes/cpc31-simulado.html",
+    "macetes": "./resumos/cpc31-macetes.html",
+    "erros": "./resumos/cpc31-erros.html",
+    "checklist": "./resumos/cpc31-checklist.html",
+    "palavras": ["mantido para venda", "operação descontinuada", "grupo para alienação", "valor justo menos despesas", "depreciação", "ativo circulante"]
   },
   {
     "numero": "32",
     "nome": "Tributos sobre o Lucro",
-    "palavras": [
-      "tributos sobre lucro",
-      "imposto diferido",
-      "ativo fiscal"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-32-Tributos-sobre-o-Lucro.pdf",
+    "resumo": "./resumos/cpc32-resumo.html",
+    "mapa": "./mapas/cpc32-mapa.html",
+    "casos": "./casos/cpc32-casos.html",
+    "dicionario": "./resumos/cpc32-dicionario.html",
+    "flashcards": "./resumos/cpc32-flashcards.html",
+    "quizzes": "./quizzes/cpc32-index.html",
+    "comentarios": "./comentarios/cpc32-questoes.html",
+    "banco": "./questoes/cpc32-banco.html",
+    "simulado": "./quizzes/cpc32-simulado.html",
+    "macetes": "./resumos/cpc32-macetes.html",
+    "erros": "./resumos/cpc32-erros.html",
+    "checklist": "./resumos/cpc32-checklist.html",
+    "palavras": ["tributos sobre o lucro", "tributo corrente", "tributo diferido", "base fiscal", "diferença temporária", "ativo fiscal diferido", "passivo fiscal diferido", "prejuízo fiscal", "Pilar Dois"]
   },
   {
     "numero": "36",
     "nome": "Demonstrações Consolidadas",
-    "palavras": [
-      "consolidação",
-      "controladora",
-      "controlada"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-36-R3-Demonstracoes-Consolidadas.pdf",
+    "resumo": "./resumos/cpc36-resumo.html",
+    "mapa": "./mapas/cpc36-mapa.html",
+    "casos": "./casos/cpc36-casos.html",
+    "dicionario": "./resumos/cpc36-dicionario.html",
+    "flashcards": "./resumos/cpc36-flashcards.html",
+    "quizzes": "./quizzes/cpc36-index.html",
+    "comentarios": "./comentarios/cpc36-questoes.html",
+    "banco": "./questoes/cpc36-banco.html",
+    "simulado": "./quizzes/cpc36-simulado.html",
+    "macetes": "./resumos/cpc36-macetes.html",
+    "erros": "./resumos/cpc36-erros.html",
+    "checklist": "./resumos/cpc36-checklist.html",
+    "palavras": ["demonstrações consolidadas", "controle", "poder", "retornos variáveis", "controladora", "controlada", "não controladores", "perda de controle", "entidade de investimento"]
   },
   {
     "numero": "45",
     "nome": "Divulgação de Participações em Outras Entidades",
-    "palavras": [
-      "participações",
-      "divulgação",
-      "outras entidades"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-45-Divulgacao-Participacoes-Outras-Entidades.pdf",
+    "resumo": "./resumos/cpc45-resumo.html",
+    "mapa": "./mapas/cpc45-mapa.html",
+    "casos": "./casos/cpc45-casos.html",
+    "dicionario": "./resumos/cpc45-dicionario.html",
+    "flashcards": "./resumos/cpc45-flashcards.html",
+    "quizzes": "./quizzes/cpc45-index.html",
+    "comentarios": "./comentarios/cpc45-questoes.html",
+    "banco": "./questoes/cpc45-banco.html",
+    "simulado": "./quizzes/cpc45-simulado.html",
+    "macetes": "./resumos/cpc45-macetes.html",
+    "erros": "./resumos/cpc45-erros.html",
+    "checklist": "./resumos/cpc45-checklist.html",
+    "palavras": ["participações em outras entidades", "controladas", "coligadas", "joint ventures", "entidades estruturadas", "não controladores", "exposição máxima", "julgamentos significativos"]
   },
   {
     "numero": "46",
@@ -304,5 +373,24 @@ window.CPCS = [
       "perda esperada",
       "classificação"
     ]
+  },
+  {
+    "numero": "28",
+    "nome": "Propriedade para Investimento",
+    "ativo": true,
+    "pdf": "./pdf/CPC-28-Propriedade-para-Investimento.pdf",
+    "resumo": "./resumos/cpc28-resumo.html",
+    "mapa": "./mapas/cpc28-mapa.html",
+    "casos": "./casos/cpc28-casos.html",
+    "dicionario": "./resumos/cpc28-dicionario.html",
+    "flashcards": "./resumos/cpc28-flashcards.html",
+    "quizzes": "./quizzes/cpc28-index.html",
+    "comentarios": "./comentarios/cpc28-questoes.html",
+    "banco": "./questoes/cpc28-banco.html",
+    "simulado": "./quizzes/cpc28-simulado.html",
+    "macetes": "./resumos/cpc28-macetes.html",
+    "erros": "./resumos/cpc28-erros.html",
+    "checklist": "./resumos/cpc28-checklist.html",
+    "palavras": ["propriedade para investimento", "valor justo", "aluguel", "valorização", "transferência", "imóvel", "método do custo"]
   }
 ];
