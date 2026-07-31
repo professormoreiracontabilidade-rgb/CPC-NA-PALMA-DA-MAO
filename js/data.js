@@ -22,7 +22,6 @@ window.CPCS = [
       "mensuração"
     ]
   },
-
   {
     "numero": "01",
     "nome": "Redução ao Valor Recuperável de Ativos",
@@ -271,6 +270,25 @@ window.CPCS = [
     "palavras": ["ativo imobilizado", "depreciação", "vida útil", "valor residual", "componentização", "custo", "impairment", "baixa"]
   },
   {
+    "numero": "28",
+    "nome": "Propriedade para Investimento",
+    "ativo": true,
+    "pdf": "./pdf/CPC-28-Propriedade-para-Investimento.pdf",
+    "resumo": "./resumos/cpc28-resumo.html",
+    "mapa": "./mapas/cpc28-mapa.html",
+    "casos": "./casos/cpc28-casos.html",
+    "dicionario": "./resumos/cpc28-dicionario.html",
+    "flashcards": "./resumos/cpc28-flashcards.html",
+    "quizzes": "./quizzes/cpc28-index.html",
+    "comentarios": "./comentarios/cpc28-questoes.html",
+    "banco": "./questoes/cpc28-banco.html",
+    "simulado": "./quizzes/cpc28-simulado.html",
+    "macetes": "./resumos/cpc28-macetes.html",
+    "erros": "./resumos/cpc28-erros.html",
+    "checklist": "./resumos/cpc28-checklist.html",
+    "palavras": ["propriedade para investimento", "valor justo", "aluguel", "valorização", "transferência", "imóvel", "método do custo"]
+  },
+  {
     "numero": "31",
     "nome": "Ativo Não Circulante Mantido para Venda e Operação Descontinuada",
     "ativo": true,
@@ -330,7 +348,7 @@ window.CPCS = [
   {
     "numero": "45",
     "nome": "Divulgação de Participações em Outras Entidades",
-    "ativo": true,
+    "ativo": false,
     "pdf": "./pdf/CPC-45-Divulgacao-Participacoes-Outras-Entidades.pdf",
     "resumo": "./resumos/cpc45-resumo.html",
     "mapa": "./mapas/cpc45-mapa.html",
@@ -349,7 +367,7 @@ window.CPCS = [
   {
     "numero": "46",
     "nome": "Mensuração do Valor Justo",
-    "ativo": true,
+    "ativo": false,
     "pdf": "./pdf/CPC-46-Mensuracao-Valor-Justo.pdf",
     "resumo": "./resumos/cpc46-resumo.html",
     "mapa": "./mapas/cpc46-mapa.html",
@@ -368,39 +386,39 @@ window.CPCS = [
   {
     "numero": "47",
     "nome": "Receita de Contrato com Cliente",
-    "palavras": [
-      "receita",
-      "contrato",
-      "cliente",
-      "obrigação de desempenho"
-    ]
+    "ativo": false,
+    "pdf": "./pdf/CPC-47-Receita-Contrato-Cliente.pdf",
+    "resumo": "./resumos/cpc47-resumo.html",
+    "mapa": "./mapas/cpc47-mapa.html",
+    "casos": "./casos/cpc47-casos.html",
+    "dicionario": "./resumos/cpc47-dicionario.html",
+    "flashcards": "./resumos/cpc47-flashcards.html",
+    "quizzes": "./quizzes/cpc47-index.html",
+    "comentarios": "./comentarios/cpc47-questoes.html",
+    "banco": "./questoes/cpc47-banco.html",
+    "simulado": "./quizzes/cpc47-simulado.html",
+    "macetes": "./resumos/cpc47-macetes.html",
+    "erros": "./resumos/cpc47-erros.html",
+    "checklist": "./resumos/cpc47-checklist.html",
+    "palavras": ["receita", "contrato com cliente", "obrigação de performance", "preço da transação", "contraprestação variável", "ativo contratual", "passivo contratual", "recebível", "cinco etapas"]
   },
   {
     "numero": "48",
     "nome": "Instrumentos Financeiros",
-    "palavras": [
-      "instrumentos financeiros",
-      "perda esperada",
-      "classificação"
-    ]
-  },
-  {
-    "numero": "28",
-    "nome": "Propriedade para Investimento",
-    "ativo": true,
-    "pdf": "./pdf/CPC-28-Propriedade-para-Investimento.pdf",
-    "resumo": "./resumos/cpc28-resumo.html",
-    "mapa": "./mapas/cpc28-mapa.html",
-    "casos": "./casos/cpc28-casos.html",
-    "dicionario": "./resumos/cpc28-dicionario.html",
-    "flashcards": "./resumos/cpc28-flashcards.html",
-    "quizzes": "./quizzes/cpc28-index.html",
-    "comentarios": "./comentarios/cpc28-questoes.html",
-    "banco": "./questoes/cpc28-banco.html",
-    "simulado": "./quizzes/cpc28-simulado.html",
-    "macetes": "./resumos/cpc28-macetes.html",
-    "erros": "./resumos/cpc28-erros.html",
-    "checklist": "./resumos/cpc28-checklist.html",
-    "palavras": ["propriedade para investimento", "valor justo", "aluguel", "valorização", "transferência", "imóvel", "método do custo"]
+    "ativo": false,
+    "pdf": "./pdf/CPC-48-Instrumentos-Financeiros.pdf",
+    "resumo": "./resumos/cpc48-resumo.html",
+    "mapa": "./mapas/cpc48-mapa.html",
+    "casos": "./casos/cpc48-casos.html",
+    "dicionario": "./resumos/cpc48-dicionario.html",
+    "flashcards": "./resumos/cpc48-flashcards.html",
+    "quizzes": "./quizzes/cpc48-index.html",
+    "comentarios": "./comentarios/cpc48-questoes.html",
+    "banco": "./questoes/cpc48-banco.html",
+    "simulado": "./quizzes/cpc48-simulado.html",
+    "macetes": "./resumos/cpc48-macetes.html",
+    "erros": "./resumos/cpc48-erros.html",
+    "checklist": "./resumos/cpc48-checklist.html",
+    "palavras": ["instrumentos financeiros", "ativo financeiro", "passivo financeiro", "custo amortizado", "valor justo", "SPPI", "perdas de crédito esperadas", "hedge", "desreconhecimento"]
   }
 ];

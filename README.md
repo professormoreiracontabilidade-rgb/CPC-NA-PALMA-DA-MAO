@@ -120,3 +120,17 @@ Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 2
 
 ## CPC 46 — Mensuração do Valor Justo
 Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 47 — Receita de Contrato com Cliente
+Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 48 — Instrumentos Financeiros
+Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## Ajuste dos cartões
+- CPC 28 recuperado e reposicionado entre os CPCs 27 e 31.
+- Cartões dos CPCs 45, 46, 47 e 48 ocultados temporariamente.
+- Os arquivos internos desses CPCs foram preservados.
