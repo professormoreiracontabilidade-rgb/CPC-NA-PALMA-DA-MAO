@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A depreciação continua normalmente.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 2,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "O ativo é mensurado pelo maior valor.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 3,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "Abandono é mantido para venda.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 4,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 5,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 6,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 7,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 8,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 9,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 10,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 11,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 12,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "Não há necessidade de comprador.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 13,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 14,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 15,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 16,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 17,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "A venda pode ser apenas possível.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 18,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 19,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "A venda pode ser apenas possível.",
+      "O ativo é mensurado pelo maior valor.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 20,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "A venda pode ser apenas possível.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 21,
+    "tema": "Componente da entidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre componente da entidade.",
+    "alternativas": [
+      "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+      "O ativo é mensurado pelo maior valor.",
+      "Abandono é mantido para venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Operações e fluxos de caixa claramente distinguíveis do restante da entidade. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 22,
+    "tema": "Linha separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre linha separada.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Importante linha de negócios pode caracterizar operação descontinuada.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante linha de negócios pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 23,
+    "tema": "Área geográfica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre área geográfica.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda pode ser apenas possível.",
+      "Importante área geográfica pode caracterizar operação descontinuada.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante área geográfica pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 24,
+    "tema": "Controlada para revenda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre controlada para revenda.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Controlada adquirida exclusivamente para revenda é operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 25,
+    "tema": "DRE",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre dre.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Comparativos não são reapresentados.",
+      "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: O resultado da operação descontinuada é apresentado em linha única, líquido de tributos. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 26,
+    "tema": "Resultado da venda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre resultado da venda.",
+    "alternativas": [
+      "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Comparativos não são reapresentados.",
+      "A depreciação continua normalmente.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O ganho ou perda líquido da alienação integra a linha da operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 27,
+    "tema": "Notas explicativas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre notas explicativas.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Detalhes da linha única devem ser apresentados preferencialmente em notas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 28,
+    "tema": "Reapresentação comparativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre reapresentação comparativa.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "O ativo é mensurado pelo maior valor.",
+      "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Períodos anteriores devem ser reapresentados para refletir operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 29,
+    "tema": "Divulgação do ativo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre divulgação do ativo.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A venda pode ser apenas possível.",
+      "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 30,
+    "tema": "Segmento operacional",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre segmento operacional.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Deve ser divulgado o segmento ao qual o ativo pertence."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Deve ser divulgado o segmento ao qual o ativo pertence. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 31,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "A depreciação continua normalmente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 32,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 33,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 34,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A depreciação continua normalmente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 35,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 36,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "A depreciação continua normalmente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 37,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 38,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Comparativos não são reapresentados.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 39,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 40,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 41,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador.",
+      "O ativo é mensurado pelo maior valor.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 42,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 43,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 44,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A depreciação continua normalmente.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 45,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "A depreciação continua normalmente.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 46,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda pode ser apenas possível.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 47,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 48,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 49,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 50,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 51,
+    "tema": "Componente da entidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre componente da entidade.",
+    "alternativas": [
+      "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Operações e fluxos de caixa claramente distinguíveis do restante da entidade. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 52,
+    "tema": "Linha separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre linha separada.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "Importante linha de negócios pode caracterizar operação descontinuada.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante linha de negócios pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 53,
+    "tema": "Área geográfica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre área geográfica.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "A venda pode ser apenas possível.",
+      "Importante área geográfica pode caracterizar operação descontinuada.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante área geográfica pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 54,
+    "tema": "Controlada para revenda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre controlada para revenda.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Controlada adquirida exclusivamente para revenda é operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 55,
+    "tema": "DRE",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre dre.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador.",
+      "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: O resultado da operação descontinuada é apresentado em linha única, líquido de tributos. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 56,
+    "tema": "Resultado da venda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre resultado da venda.",
+    "alternativas": [
+      "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+      "A venda pode ser apenas possível.",
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O ganho ou perda líquido da alienação integra a linha da operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 57,
+    "tema": "Notas explicativas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre notas explicativas.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Detalhes da linha única devem ser apresentados preferencialmente em notas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 58,
+    "tema": "Reapresentação comparativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre reapresentação comparativa.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Períodos anteriores devem ser reapresentados para refletir operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 59,
+    "tema": "Divulgação do ativo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre divulgação do ativo.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 60,
+    "tema": "Segmento operacional",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre segmento operacional.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Deve ser divulgado o segmento ao qual o ativo pertence."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Deve ser divulgado o segmento ao qual o ativo pertence. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 61,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "Abandono é mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 62,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 63,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 64,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A venda pode ser apenas possível.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 65,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "A venda pode ser apenas possível.",
+      "O ativo é mensurado pelo maior valor.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 66,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 67,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 68,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 69,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "A venda pode ser apenas possível.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 70,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 71,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O prazo esperado é sempre superior a três anos.",
+      "O ativo é mensurado pelo maior valor.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 72,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 73,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 74,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 75,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 76,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 77,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 78,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "Não há necessidade de comprador.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 79,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 80,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Abandono é mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A depreciação continua normalmente.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 81,
+    "tema": "Componente da entidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre componente da entidade.",
+    "alternativas": [
+      "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Operações e fluxos de caixa claramente distinguíveis do restante da entidade. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 82,
+    "tema": "Linha separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre linha separada.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Importante linha de negócios pode caracterizar operação descontinuada.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante linha de negócios pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 83,
+    "tema": "Área geográfica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre área geográfica.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador.",
+      "Importante área geográfica pode caracterizar operação descontinuada.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante área geográfica pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 84,
+    "tema": "Controlada para revenda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre controlada para revenda.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "A venda pode ser apenas possível.",
+      "A depreciação continua normalmente.",
+      "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Controlada adquirida exclusivamente para revenda é operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 85,
+    "tema": "DRE",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre dre.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos.",
+      "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: O resultado da operação descontinuada é apresentado em linha única, líquido de tributos. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 86,
+    "tema": "Resultado da venda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre resultado da venda.",
+    "alternativas": [
+      "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O ganho ou perda líquido da alienação integra a linha da operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 87,
+    "tema": "Notas explicativas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre notas explicativas.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Detalhes da linha única devem ser apresentados preferencialmente em notas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 88,
+    "tema": "Reapresentação comparativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre reapresentação comparativa.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Períodos anteriores devem ser reapresentados para refletir operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 89,
+    "tema": "Divulgação do ativo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre divulgação do ativo.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 90,
+    "tema": "Segmento operacional",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre segmento operacional.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Deve ser divulgado o segmento ao qual o ativo pertence."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Deve ser divulgado o segmento ao qual o ativo pertence. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 91,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 92,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 93,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 94,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 95,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A depreciação continua normalmente.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 96,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 97,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 98,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 99,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor.",
+      "A venda pode ser apenas possível.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 100,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 101,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 102,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "A venda pode ser apenas possível.",
+      "A depreciação continua normalmente.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 103,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 104,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 105,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 106,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor.",
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 107,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 108,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 109,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 110,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "O ativo é mensurado pelo maior valor.",
+      "Abandono é mantido para venda.",
+      "Não há necessidade de comprador.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 111,
+    "tema": "Componente da entidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre componente da entidade.",
+    "alternativas": [
+      "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+      "A depreciação continua normalmente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Operações e fluxos de caixa claramente distinguíveis do restante da entidade. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 112,
+    "tema": "Linha separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre linha separada.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Importante linha de negócios pode caracterizar operação descontinuada.",
+      "A depreciação continua normalmente.",
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante linha de negócios pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 113,
+    "tema": "Área geográfica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre área geográfica.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "A depreciação continua normalmente.",
+      "Importante área geográfica pode caracterizar operação descontinuada.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante área geográfica pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 114,
+    "tema": "Controlada para revenda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre controlada para revenda.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Não há necessidade de comprador.",
+      "O ativo é mensurado pelo maior valor.",
+      "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Controlada adquirida exclusivamente para revenda é operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 115,
+    "tema": "DRE",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre dre.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Abandono é mantido para venda.",
+      "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: O resultado da operação descontinuada é apresentado em linha única, líquido de tributos. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 116,
+    "tema": "Resultado da venda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre resultado da venda.",
+    "alternativas": [
+      "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O ganho ou perda líquido da alienação integra a linha da operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 117,
+    "tema": "Notas explicativas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre notas explicativas.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Detalhes da linha única devem ser apresentados preferencialmente em notas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 118,
+    "tema": "Reapresentação comparativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre reapresentação comparativa.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "O ativo é mensurado pelo maior valor.",
+      "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+      "A venda pode ser apenas possível.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Períodos anteriores devem ser reapresentados para refletir operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 119,
+    "tema": "Divulgação do ativo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre divulgação do ativo.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 120,
+    "tema": "Segmento operacional",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre segmento operacional.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "Deve ser divulgado o segmento ao qual o ativo pertence."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Deve ser divulgado o segmento ao qual o ativo pertence. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 121,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "A depreciação continua normalmente.",
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 122,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 123,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "O ativo é mensurado pelo maior valor.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 124,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 125,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Não há necessidade de comprador.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 126,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A depreciação continua normalmente.",
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 127,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 128,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "A venda pode ser apenas possível.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 129,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 130,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 131,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Abandono é mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 132,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 133,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Comparativos não são reapresentados.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "Não há necessidade de comprador.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 134,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 135,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A venda pode ser apenas possível.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 136,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 137,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "Comparativos não são reapresentados.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 138,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 139,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 140,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A depreciação continua normalmente.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 141,
+    "tema": "Componente da entidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre componente da entidade.",
+    "alternativas": [
+      "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Operações e fluxos de caixa claramente distinguíveis do restante da entidade. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 142,
+    "tema": "Linha separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre linha separada.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Importante linha de negócios pode caracterizar operação descontinuada.",
+      "Comparativos não são reapresentados.",
+      "A venda pode ser apenas possível.",
+      "O ativo é mensurado pelo maior valor."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante linha de negócios pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 143,
+    "tema": "Área geográfica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre área geográfica.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A venda pode ser apenas possível.",
+      "Importante área geográfica pode caracterizar operação descontinuada.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante área geográfica pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 144,
+    "tema": "Controlada para revenda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre controlada para revenda.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Controlada adquirida exclusivamente para revenda é operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 145,
+    "tema": "DRE",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre dre.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A depreciação continua normalmente.",
+      "Abandono é mantido para venda.",
+      "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: O resultado da operação descontinuada é apresentado em linha única, líquido de tributos. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 146,
+    "tema": "Resultado da venda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre resultado da venda.",
+    "alternativas": [
+      "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O ganho ou perda líquido da alienação integra a linha da operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 147,
+    "tema": "Notas explicativas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre notas explicativas.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+      "A venda pode ser apenas possível.",
+      "O ativo é mensurado pelo maior valor.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Detalhes da linha única devem ser apresentados preferencialmente em notas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 148,
+    "tema": "Reapresentação comparativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre reapresentação comparativa.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+      "O ativo é mensurado pelo maior valor.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Períodos anteriores devem ser reapresentados para refletir operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 149,
+    "tema": "Divulgação do ativo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre divulgação do ativo.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 150,
+    "tema": "Segmento operacional",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre segmento operacional.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "O ativo é mensurado pelo maior valor.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Deve ser divulgado o segmento ao qual o ativo pertence."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Deve ser divulgado o segmento ao qual o ativo pertence. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 151,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "A depreciação continua normalmente.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 152,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 153,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "A depreciação continua normalmente.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 154,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 155,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 156,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "A depreciação continua normalmente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 157,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 158,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda pode ser apenas possível.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "Não há necessidade de comprador.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 159,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 160,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda.",
+      "Não há necessidade de comprador.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 161,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 162,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 163,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "Abandono é mantido para venda.",
+      "O ativo é mensurado pelo maior valor.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 164,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "A depreciação continua normalmente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 165,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 166,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 167,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "Comparativos não são reapresentados.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 168,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 169,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Não há necessidade de comprador.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "Passivos relacionados não são apresentados separadamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 170,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente.",
+      "Comparativos não são reapresentados.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 171,
+    "tema": "Componente da entidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre componente da entidade.",
+    "alternativas": [
+      "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+      "O ativo é mensurado pelo maior valor.",
+      "Abandono é mantido para venda.",
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Operações e fluxos de caixa claramente distinguíveis do restante da entidade. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 172,
+    "tema": "Linha separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre linha separada.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Importante linha de negócios pode caracterizar operação descontinuada.",
+      "Abandono é mantido para venda.",
+      "Não há necessidade de comprador.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante linha de negócios pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 173,
+    "tema": "Área geográfica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre área geográfica.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Importante área geográfica pode caracterizar operação descontinuada.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Importante área geográfica pode caracterizar operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 174,
+    "tema": "Controlada para revenda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre controlada para revenda.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "Não há necessidade de comprador.",
+      "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+      "A depreciação continua normalmente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Controlada adquirida exclusivamente para revenda é operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 175,
+    "tema": "DRE",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre dre.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "A depreciação continua normalmente.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: O resultado da operação descontinuada é apresentado em linha única, líquido de tributos. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 176,
+    "tema": "Resultado da venda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre resultado da venda.",
+    "alternativas": [
+      "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador.",
+      "A venda pode ser apenas possível.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O ganho ou perda líquido da alienação integra a linha da operação descontinuada. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 177,
+    "tema": "Notas explicativas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre notas explicativas.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Detalhes da linha única devem ser apresentados preferencialmente em notas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 178,
+    "tema": "Reapresentação comparativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre reapresentação comparativa.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+      "A venda pode ser apenas possível.",
+      "O prazo esperado é sempre superior a três anos."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Períodos anteriores devem ser reapresentados para refletir operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 179,
+    "tema": "Divulgação do ativo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre divulgação do ativo.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "Comparativos não são reapresentados.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 180,
+    "tema": "Segmento operacional",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre segmento operacional.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Não há necessidade de comprador.",
+      "Comparativos não são reapresentados.",
+      "Deve ser divulgado o segmento ao qual o ativo pertence."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Deve ser divulgado o segmento ao qual o ativo pertence. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 181,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 182,
+    "tema": "Classificação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre classificação.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 183,
+    "tema": "Recuperação por venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre recuperação por venda.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Não há necessidade de comprador.",
+      "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 184,
+    "tema": "Disponibilidade imediata",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre disponibilidade imediata.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve estar disponível para venda imediata em suas condições atuais. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 185,
+    "tema": "Venda altamente provável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre venda altamente provável.",
+    "alternativas": [
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A depreciação continua normalmente.",
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 186,
+    "tema": "Compromisso da administração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre compromisso da administração.",
+    "alternativas": [
+      "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Abandono é mantido para venda."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: O nível hierárquico competente deve estar comprometido com o plano de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 187,
+    "tema": "Programa ativo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre programa ativo.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+      "Não há necessidade de comprador.",
+      "O ativo é mensurado pelo maior valor.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: A entidade deve iniciar ações para localizar comprador e concluir a venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 188,
+    "tema": "Preço razoável",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre preço razoável.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+      "Abandono é mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 189,
+    "tema": "Prazo de um ano",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre prazo de um ano.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Abandono é mantido para venda.",
+      "O prazo esperado é sempre superior a três anos.",
+      "A venda deve, em regra, ser concluída em até um ano.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: A venda deve, em regra, ser concluída em até um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 190,
+    "tema": "Exceção ao prazo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre exceção ao prazo.",
+    "alternativas": [
+      "O prazo esperado é sempre superior a três anos.",
+      "Comparativos não são reapresentados.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Não há necessidade de comprador.",
+      "Eventos fora do controle podem justificar prazo superior a um ano."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Eventos fora do controle podem justificar prazo superior a um ano. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 191,
+    "tema": "Aquisição para revenda",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre aquisição para revenda.",
+    "alternativas": [
+      "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+      "A venda pode ser apenas possível.",
+      "Comparativos não são reapresentados.",
+      "O ativo é mensurado pelo maior valor.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 192,
+    "tema": "Mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre mensuração.",
+    "alternativas": [
+      "A depreciação continua normalmente.",
+      "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+      "Comparativos não são reapresentados.",
+      "Abandono é mantido para venda.",
+      "Operação descontinuada fica misturada às continuadas."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Usa-se o menor entre valor contábil e valor justo menos despesas de venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 193,
+    "tema": "Valor presente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre valor presente.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Componentes de despesas de venda podem ser ajustados a valor presente.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: Componentes de despesas de venda podem ser ajustados a valor presente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 194,
+    "tema": "Depreciação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre depreciação.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Cessa quando o ativo é classificado como mantido para venda.",
+      "Todo ativo não circulante pode ser classificado imediatamente."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Cessa quando o ativo é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 195,
+    "tema": "Impairment",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Não há necessidade de comprador.",
+      "A depreciação continua normalmente.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Abandono é mantido para venda.",
+      "Continuam aplicáveis as regras de perda do valor recuperável."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Continuam aplicáveis as regras de perda do valor recuperável. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 196,
+    "tema": "Apresentação separada",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre apresentação separada.",
+    "alternativas": [
+      "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+      "Comparativos não são reapresentados.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "O ativo é mensurado pelo maior valor.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativos e passivos relacionados do grupo para alienação são apresentados separadamente. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 197,
+    "tema": "Grupo para alienação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre grupo para alienação.",
+    "alternativas": [
+      "Passivos relacionados não são apresentados separadamente.",
+      "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+      "Não há necessidade de comprador.",
+      "Abandono é mantido para venda.",
+      "Comparativos não são reapresentados."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 31: Conjunto de ativos e passivos a serem alienados em uma única transação. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 198,
+    "tema": "Desistência da venda",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre desistência da venda.",
+    "alternativas": [
+      "A venda pode ser apenas possível.",
+      "Todo ativo não circulante pode ser classificado imediatamente.",
+      "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+      "O prazo esperado é sempre superior a três anos.",
+      "Não há necessidade de comprador."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 31: O ativo deixa a classificação e é remensurado conforme a regra específica. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 199,
+    "tema": "Abandono",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre abandono.",
+    "alternativas": [
+      "O ativo é mensurado pelo maior valor.",
+      "Operação descontinuada fica misturada às continuadas.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "Ativo a ser abandonado não é classificado como mantido para venda.",
+      "A venda pode ser apenas possível."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 31: Ativo a ser abandonado não é classificado como mantido para venda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  },
+  {
+    "id": 200,
+    "tema": "Operação descontinuada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 31, assinale a alternativa correta sobre operação descontinuada.",
+    "alternativas": [
+      "Comparativos não são reapresentados.",
+      "Passivos relacionados não são apresentados separadamente.",
+      "A venda pode ser apenas possível.",
+      "A depreciação continua normalmente.",
+      "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 31: Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda. As demais opções confundem classificação, mensuração, depreciação ou apresentação."
+  }
+]

@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 31 determina sobre objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 31 determina sobre classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 31 determina sobre recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 31 determina sobre disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 31 determina sobre venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 31 determina sobre compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 31 determina sobre programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 31 determina sobre preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 31 determina sobre prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 31 determina sobre exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 31 determina sobre aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 31 determina sobre mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 31 determina sobre valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 31 determina sobre depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 31 determina sobre impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 31 determina sobre apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 31 determina sobre grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 31 determina sobre desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 31 determina sobre abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 31 determina sobre operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 31 determina sobre componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 31 determina sobre linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 31 determina sobre área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 31 determina sobre controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 31 determina sobre dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 31 determina sobre resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 31 determina sobre notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 31 determina sobre reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 31 determina sobre divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 31 determina sobre segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "Como deve ser tratado classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "Como deve ser tratado recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "Como deve ser tratado disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "Como deve ser tratado venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "Como deve ser tratado compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "Como deve ser tratado programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "Como deve ser tratado preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "Como deve ser tratado prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como deve ser tratado exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Como deve ser tratado aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Como deve ser tratado mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "Como deve ser tratado valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como deve ser tratado depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como deve ser tratado impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser tratado apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser tratado grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser tratado desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser tratado abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser tratado operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser tratado componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser tratado linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser tratado área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser tratado controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser tratado dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser tratado resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser tratado notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser tratado reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser tratado divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser tratado segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Qual é a regra essencial sobre classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual é a regra essencial sobre recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual é a regra essencial sobre disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual é a regra essencial sobre venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Qual é a regra essencial sobre compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Qual é a regra essencial sobre programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Qual é a regra essencial sobre preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Qual é a regra essencial sobre prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Qual é a regra essencial sobre exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Qual é a regra essencial sobre aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual é a regra essencial sobre mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual é a regra essencial sobre valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Qual é a regra essencial sobre depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Qual é a regra essencial sobre impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Qual é a regra essencial sobre apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual é a regra essencial sobre grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual é a regra essencial sobre desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual é a regra essencial sobre abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual é a regra essencial sobre operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual é a regra essencial sobre componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual é a regra essencial sobre linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual é a regra essencial sobre área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual é a regra essencial sobre controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual é a regra essencial sobre dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual é a regra essencial sobre resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual é a regra essencial sobre notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual é a regra essencial sobre reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual é a regra essencial sobre divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é a regra essencial sobre segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Em prova, qual afirmação correta se aplica a classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Em prova, qual afirmação correta se aplica a recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Em prova, qual afirmação correta se aplica a disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Em prova, qual afirmação correta se aplica a venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Em prova, qual afirmação correta se aplica a compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Em prova, qual afirmação correta se aplica a programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Em prova, qual afirmação correta se aplica a preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Em prova, qual afirmação correta se aplica a prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Em prova, qual afirmação correta se aplica a exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Em prova, qual afirmação correta se aplica a aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Em prova, qual afirmação correta se aplica a depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Em prova, qual afirmação correta se aplica a apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Em prova, qual afirmação correta se aplica a grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Em prova, qual afirmação correta se aplica a desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Em prova, qual afirmação correta se aplica a abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Em prova, qual afirmação correta se aplica a operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Em prova, qual afirmação correta se aplica a componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Em prova, qual afirmação correta se aplica a linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Em prova, qual afirmação correta se aplica a área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Em prova, qual afirmação correta se aplica a notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Em prova, qual afirmação correta se aplica a segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "O que o CPC 31 determina sobre objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "O que o CPC 31 determina sobre classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "O que o CPC 31 determina sobre recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "O que o CPC 31 determina sobre disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "O que o CPC 31 determina sobre venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "O que o CPC 31 determina sobre compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "O que o CPC 31 determina sobre programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "O que o CPC 31 determina sobre preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "O que o CPC 31 determina sobre prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "O que o CPC 31 determina sobre exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "O que o CPC 31 determina sobre aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "O que o CPC 31 determina sobre mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "O que o CPC 31 determina sobre valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "O que o CPC 31 determina sobre depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "O que o CPC 31 determina sobre impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "O que o CPC 31 determina sobre apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "O que o CPC 31 determina sobre grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "O que o CPC 31 determina sobre desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "O que o CPC 31 determina sobre abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "O que o CPC 31 determina sobre operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "O que o CPC 31 determina sobre componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "O que o CPC 31 determina sobre linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "O que o CPC 31 determina sobre área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "O que o CPC 31 determina sobre controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "O que o CPC 31 determina sobre dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "O que o CPC 31 determina sobre resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "O que o CPC 31 determina sobre notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "O que o CPC 31 determina sobre reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "O que o CPC 31 determina sobre divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "O que o CPC 31 determina sobre segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "Como deve ser tratado classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "Como deve ser tratado recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "Como deve ser tratado disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "Como deve ser tratado venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Como deve ser tratado compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "Como deve ser tratado programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "Como deve ser tratado preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "Como deve ser tratado prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "Como deve ser tratado exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "Como deve ser tratado aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "Como deve ser tratado mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "Como deve ser tratado valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "Como deve ser tratado depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "Como deve ser tratado impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "Como deve ser tratado apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "Como deve ser tratado grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "Como deve ser tratado desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "Como deve ser tratado abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "Como deve ser tratado operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "Como deve ser tratado componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "Como deve ser tratado linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "Como deve ser tratado área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "Como deve ser tratado controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "Como deve ser tratado dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "Como deve ser tratado resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "Como deve ser tratado notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "Como deve ser tratado reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "Como deve ser tratado divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "Como deve ser tratado segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "Qual é a regra essencial sobre classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "Qual é a regra essencial sobre recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "Qual é a regra essencial sobre disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "Qual é a regra essencial sobre venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "Qual é a regra essencial sobre compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "Qual é a regra essencial sobre programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "Qual é a regra essencial sobre preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "Qual é a regra essencial sobre prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "Qual é a regra essencial sobre exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "Qual é a regra essencial sobre aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "Qual é a regra essencial sobre mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "Qual é a regra essencial sobre valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "Qual é a regra essencial sobre depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "Qual é a regra essencial sobre impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "Qual é a regra essencial sobre apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "Qual é a regra essencial sobre grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "Qual é a regra essencial sobre desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "Qual é a regra essencial sobre abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "Qual é a regra essencial sobre operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "Qual é a regra essencial sobre componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual é a regra essencial sobre linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual é a regra essencial sobre área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "Qual é a regra essencial sobre controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "Qual é a regra essencial sobre dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "Qual é a regra essencial sobre resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "Qual é a regra essencial sobre notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "Qual é a regra essencial sobre reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "Qual é a regra essencial sobre divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "Qual é a regra essencial sobre segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "Em prova, qual afirmação correta se aplica a classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "Em prova, qual afirmação correta se aplica a recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "Em prova, qual afirmação correta se aplica a disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "Em prova, qual afirmação correta se aplica a venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "Em prova, qual afirmação correta se aplica a compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "Em prova, qual afirmação correta se aplica a programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "Em prova, qual afirmação correta se aplica a preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "Em prova, qual afirmação correta se aplica a prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "Em prova, qual afirmação correta se aplica a exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Em prova, qual afirmação correta se aplica a aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Em prova, qual afirmação correta se aplica a depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Em prova, qual afirmação correta se aplica a apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Em prova, qual afirmação correta se aplica a grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Em prova, qual afirmação correta se aplica a desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Em prova, qual afirmação correta se aplica a abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Em prova, qual afirmação correta se aplica a operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Em prova, qual afirmação correta se aplica a componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Em prova, qual afirmação correta se aplica a linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Em prova, qual afirmação correta se aplica a área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Em prova, qual afirmação correta se aplica a notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Em prova, qual afirmação correta se aplica a segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "O que o CPC 31 determina sobre objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "O que o CPC 31 determina sobre classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "O que o CPC 31 determina sobre recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "O que o CPC 31 determina sobre disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "O que o CPC 31 determina sobre venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "O que o CPC 31 determina sobre compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "O que o CPC 31 determina sobre programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "O que o CPC 31 determina sobre preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "O que o CPC 31 determina sobre prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "O que o CPC 31 determina sobre exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "O que o CPC 31 determina sobre aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "O que o CPC 31 determina sobre mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "O que o CPC 31 determina sobre valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "O que o CPC 31 determina sobre depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "O que o CPC 31 determina sobre impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "O que o CPC 31 determina sobre apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "O que o CPC 31 determina sobre grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "O que o CPC 31 determina sobre desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "O que o CPC 31 determina sobre abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "O que o CPC 31 determina sobre operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "O que o CPC 31 determina sobre componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "O que o CPC 31 determina sobre linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "O que o CPC 31 determina sobre área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "O que o CPC 31 determina sobre controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "O que o CPC 31 determina sobre dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "O que o CPC 31 determina sobre resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "O que o CPC 31 determina sobre notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "O que o CPC 31 determina sobre reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "O que o CPC 31 determina sobre divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "O que o CPC 31 determina sobre segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Prescrever a contabilização de ativos não circulantes mantidos para venda e a apresentação e divulgação de operações descontinuadas.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "Como deve ser tratado classificação?",
+    "resposta": "O ativo não circulante mantido para venda é apresentado separadamente no ativo circulante.",
+    "categoria": "Classificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "Como deve ser tratado recuperação por venda?",
+    "resposta": "O valor contábil deve ser recuperado principalmente por venda, e não pelo uso contínuo.",
+    "categoria": "Recuperação por venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "Como deve ser tratado disponibilidade imediata?",
+    "resposta": "O ativo deve estar disponível para venda imediata em suas condições atuais.",
+    "categoria": "Disponibilidade imediata",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "Como deve ser tratado venda altamente provável?",
+    "resposta": "Exige plano comprometido, busca ativa de comprador, preço razoável e conclusão esperada em até um ano.",
+    "categoria": "Venda altamente provável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "Como deve ser tratado compromisso da administração?",
+    "resposta": "O nível hierárquico competente deve estar comprometido com o plano de venda.",
+    "categoria": "Compromisso da administração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "Como deve ser tratado programa ativo?",
+    "resposta": "A entidade deve iniciar ações para localizar comprador e concluir a venda.",
+    "categoria": "Programa ativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "Como deve ser tratado preço razoável?",
+    "resposta": "O ativo deve ser anunciado por preço razoável em relação ao valor justo corrente.",
+    "categoria": "Preço razoável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "Como deve ser tratado prazo de um ano?",
+    "resposta": "A venda deve, em regra, ser concluída em até um ano.",
+    "categoria": "Prazo de um ano",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Como deve ser tratado exceção ao prazo?",
+    "resposta": "Eventos fora do controle podem justificar prazo superior a um ano.",
+    "categoria": "Exceção ao prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Como deve ser tratado aquisição para revenda?",
+    "resposta": "Pode ser classificada na aquisição se os critérios forem satisfeitos ou esperados em curto prazo.",
+    "categoria": "Aquisição para revenda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Como deve ser tratado mensuração?",
+    "resposta": "Usa-se o menor entre valor contábil e valor justo menos despesas de venda.",
+    "categoria": "Mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Como deve ser tratado valor presente?",
+    "resposta": "Componentes de despesas de venda podem ser ajustados a valor presente.",
+    "categoria": "Valor presente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Como deve ser tratado depreciação?",
+    "resposta": "Cessa quando o ativo é classificado como mantido para venda.",
+    "categoria": "Depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Como deve ser tratado impairment?",
+    "resposta": "Continuam aplicáveis as regras de perda do valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Como deve ser tratado apresentação separada?",
+    "resposta": "Ativos e passivos relacionados do grupo para alienação são apresentados separadamente.",
+    "categoria": "Apresentação separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Como deve ser tratado grupo para alienação?",
+    "resposta": "Conjunto de ativos e passivos a serem alienados em uma única transação.",
+    "categoria": "Grupo para alienação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Como deve ser tratado desistência da venda?",
+    "resposta": "O ativo deixa a classificação e é remensurado conforme a regra específica.",
+    "categoria": "Desistência da venda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Como deve ser tratado abandono?",
+    "resposta": "Ativo a ser abandonado não é classificado como mantido para venda.",
+    "categoria": "Abandono",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Como deve ser tratado operação descontinuada?",
+    "resposta": "Componente baixado ou mantido para venda que representa linha importante, área geográfica, plano coordenado ou controlada para revenda.",
+    "categoria": "Operação descontinuada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Como deve ser tratado componente da entidade?",
+    "resposta": "Operações e fluxos de caixa claramente distinguíveis do restante da entidade.",
+    "categoria": "Componente da entidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Como deve ser tratado linha separada?",
+    "resposta": "Importante linha de negócios pode caracterizar operação descontinuada.",
+    "categoria": "Linha separada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Como deve ser tratado área geográfica?",
+    "resposta": "Importante área geográfica pode caracterizar operação descontinuada.",
+    "categoria": "Área geográfica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Como deve ser tratado controlada para revenda?",
+    "resposta": "Controlada adquirida exclusivamente para revenda é operação descontinuada.",
+    "categoria": "Controlada para revenda",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Como deve ser tratado dre?",
+    "resposta": "O resultado da operação descontinuada é apresentado em linha única, líquido de tributos.",
+    "categoria": "DRE",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Como deve ser tratado resultado da venda?",
+    "resposta": "O ganho ou perda líquido da alienação integra a linha da operação descontinuada.",
+    "categoria": "Resultado da venda",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Como deve ser tratado notas explicativas?",
+    "resposta": "Detalhes da linha única devem ser apresentados preferencialmente em notas.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Como deve ser tratado reapresentação comparativa?",
+    "resposta": "Períodos anteriores devem ser reapresentados para refletir operações descontinuadas.",
+    "categoria": "Reapresentação comparativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Como deve ser tratado divulgação do ativo?",
+    "resposta": "Inclui descrição, fatos, circunstâncias, forma e prazo esperado da venda.",
+    "categoria": "Divulgação do ativo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Como deve ser tratado segmento operacional?",
+    "resposta": "Deve ser divulgado o segmento ao qual o ativo pertence.",
+    "categoria": "Segmento operacional",
+    "dificuldade": "Difícil"
+  }
+]

@@ -273,10 +273,21 @@ window.CPCS = [
   {
     "numero": "31",
     "nome": "Ativo Não Circulante Mantido para Venda e Operação Descontinuada",
-    "palavras": [
-      "mantido para venda",
-      "operação descontinuada"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-31-Ativo-Nao-Circulante-Mantido-para-Venda.pdf",
+    "resumo": "./resumos/cpc31-resumo.html",
+    "mapa": "./mapas/cpc31-mapa.html",
+    "casos": "./casos/cpc31-casos.html",
+    "dicionario": "./resumos/cpc31-dicionario.html",
+    "flashcards": "./resumos/cpc31-flashcards.html",
+    "quizzes": "./quizzes/cpc31-index.html",
+    "comentarios": "./comentarios/cpc31-questoes.html",
+    "banco": "./questoes/cpc31-banco.html",
+    "simulado": "./quizzes/cpc31-simulado.html",
+    "macetes": "./resumos/cpc31-macetes.html",
+    "erros": "./resumos/cpc31-erros.html",
+    "checklist": "./resumos/cpc31-checklist.html",
+    "palavras": ["mantido para venda", "operação descontinuada", "grupo para alienação", "valor justo menos despesas", "depreciação", "ativo circulante"]
   },
   {
     "numero": "32",
