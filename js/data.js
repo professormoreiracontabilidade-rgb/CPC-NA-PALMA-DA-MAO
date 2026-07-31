@@ -332,5 +332,24 @@ window.CPCS = [
       "perda esperada",
       "classificação"
     ]
+  },
+  {
+    "numero": "28",
+    "nome": "Propriedade para Investimento",
+    "ativo": true,
+    "pdf": "./pdf/CPC-28-Propriedade-para-Investimento.pdf",
+    "resumo": "./resumos/cpc28-resumo.html",
+    "mapa": "./mapas/cpc28-mapa.html",
+    "casos": "./casos/cpc28-casos.html",
+    "dicionario": "./resumos/cpc28-dicionario.html",
+    "flashcards": "./resumos/cpc28-flashcards.html",
+    "quizzes": "./quizzes/cpc28-index.html",
+    "comentarios": "./comentarios/cpc28-questoes.html",
+    "banco": "./questoes/cpc28-banco.html",
+    "simulado": "./quizzes/cpc28-simulado.html",
+    "macetes": "./resumos/cpc28-macetes.html",
+    "erros": "./resumos/cpc28-erros.html",
+    "checklist": "./resumos/cpc28-checklist.html",
+    "palavras": ["propriedade para investimento", "valor justo", "aluguel", "valorização", "transferência", "imóvel", "método do custo"]
   }
 ];
