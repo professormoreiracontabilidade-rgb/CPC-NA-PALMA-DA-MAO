@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 23 determina sobre objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 23 determina sobre política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 23 determina sobre estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 23 determina sobre erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 23 determina sobre aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 23 determina sobre reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 23 determina sobre aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 23 determina sobre seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 23 determina sobre hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 23 determina sobre uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 23 determina sobre mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 23 determina sobre mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 23 determina sobre não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 23 determina sobre adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 23 determina sobre regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 23 determina sobre disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 23 determina sobre limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 23 determina sobre ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 23 determina sobre mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 23 determina sobre estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 23 determina sobre vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 23 determina sobre base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 23 determina sobre dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 23 determina sobre erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 23 determina sobre erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 23 determina sobre fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 23 determina sobre impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 23 determina sobre proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "Como deve ser tratado política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "Como deve ser tratado estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "Como deve ser tratado erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "Como deve ser tratado aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "Como deve ser tratado reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "Como deve ser tratado aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "Como deve ser tratado seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como deve ser tratado hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Como deve ser tratado uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Como deve ser tratado mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "Como deve ser tratado mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como deve ser tratado não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como deve ser tratado adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser tratado regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser tratado disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser tratado limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser tratado ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser tratado mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser tratado estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser tratado vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser tratado base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser tratado dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser tratado erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser tratado erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser tratado fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser tratado impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser tratado proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser tratado divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Como deve ser tratado divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como deve ser tratado divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual é a regra essencial de objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual é a regra essencial de política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual é a regra essencial de estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Qual é a regra essencial de erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Qual é a regra essencial de aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Qual é a regra essencial de reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Qual é a regra essencial de aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Qual é a regra essencial de seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Qual é a regra essencial de hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual é a regra essencial de uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual é a regra essencial de mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Qual é a regra essencial de mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Qual é a regra essencial de não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Qual é a regra essencial de adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual é a regra essencial de regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual é a regra essencial de disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual é a regra essencial de limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual é a regra essencial de ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual é a regra essencial de mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual é a regra essencial de estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual é a regra essencial de vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual é a regra essencial de base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual é a regra essencial de dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual é a regra essencial de erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual é a regra essencial de erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual é a regra essencial de fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual é a regra essencial de impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é a regra essencial de proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual é a regra essencial de divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é a regra essencial de divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual é a regra essencial de divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Em prova, qual afirmação correta se aplica a política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Em prova, qual afirmação correta se aplica a estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Em prova, qual afirmação correta se aplica a erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Em prova, qual afirmação correta se aplica a aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Em prova, qual afirmação correta se aplica a aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Em prova, qual afirmação correta se aplica a seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Em prova, qual afirmação correta se aplica a hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Em prova, qual afirmação correta se aplica a uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Em prova, qual afirmação correta se aplica a não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Em prova, qual afirmação correta se aplica a adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Em prova, qual afirmação correta se aplica a regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Em prova, qual afirmação correta se aplica a disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Em prova, qual afirmação correta se aplica a limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Em prova, qual afirmação correta se aplica a estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Em prova, qual afirmação correta se aplica a vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Em prova, qual afirmação correta se aplica a base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Em prova, qual afirmação correta se aplica a erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Em prova, qual afirmação correta se aplica a erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Em prova, qual afirmação correta se aplica a fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Em prova, qual afirmação correta se aplica a proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "O que o CPC 23 determina sobre objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "O que o CPC 23 determina sobre política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "O que o CPC 23 determina sobre estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "O que o CPC 23 determina sobre erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "O que o CPC 23 determina sobre aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "O que o CPC 23 determina sobre reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "O que o CPC 23 determina sobre aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "O que o CPC 23 determina sobre seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "O que o CPC 23 determina sobre hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "O que o CPC 23 determina sobre uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "O que o CPC 23 determina sobre mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "O que o CPC 23 determina sobre mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "O que o CPC 23 determina sobre não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "O que o CPC 23 determina sobre adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "O que o CPC 23 determina sobre regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "O que o CPC 23 determina sobre disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "O que o CPC 23 determina sobre limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "O que o CPC 23 determina sobre ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "O que o CPC 23 determina sobre mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "O que o CPC 23 determina sobre estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "O que o CPC 23 determina sobre vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "O que o CPC 23 determina sobre base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "O que o CPC 23 determina sobre dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "O que o CPC 23 determina sobre erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "O que o CPC 23 determina sobre erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "O que o CPC 23 determina sobre fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "O que o CPC 23 determina sobre impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "O que o CPC 23 determina sobre proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "Como deve ser tratado política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "Como deve ser tratado estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "Como deve ser tratado erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "Como deve ser tratado aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "Como deve ser tratado reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "Como deve ser tratado aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "Como deve ser tratado seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "Como deve ser tratado hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "Como deve ser tratado uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "Como deve ser tratado mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "Como deve ser tratado mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "Como deve ser tratado não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "Como deve ser tratado adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "Como deve ser tratado regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "Como deve ser tratado disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "Como deve ser tratado limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "Como deve ser tratado ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "Como deve ser tratado mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "Como deve ser tratado estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "Como deve ser tratado vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "Como deve ser tratado base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "Como deve ser tratado dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "Como deve ser tratado erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "Como deve ser tratado erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "Como deve ser tratado fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "Como deve ser tratado impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "Como deve ser tratado proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "Como deve ser tratado divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "Como deve ser tratado divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "Como deve ser tratado divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "Qual é a regra essencial de objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "Qual é a regra essencial de política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "Qual é a regra essencial de estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "Qual é a regra essencial de erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "Qual é a regra essencial de aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "Qual é a regra essencial de reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "Qual é a regra essencial de aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "Qual é a regra essencial de seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "Qual é a regra essencial de hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "Qual é a regra essencial de uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "Qual é a regra essencial de mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "Qual é a regra essencial de mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "Qual é a regra essencial de não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "Qual é a regra essencial de adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "Qual é a regra essencial de regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual é a regra essencial de disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual é a regra essencial de limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "Qual é a regra essencial de ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "Qual é a regra essencial de mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "Qual é a regra essencial de estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "Qual é a regra essencial de vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "Qual é a regra essencial de base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "Qual é a regra essencial de dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "Qual é a regra essencial de erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "Qual é a regra essencial de erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "Qual é a regra essencial de fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "Qual é a regra essencial de impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "Qual é a regra essencial de proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "Qual é a regra essencial de divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "Qual é a regra essencial de divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "Qual é a regra essencial de divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "Em prova, qual afirmação correta se aplica a política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "Em prova, qual afirmação correta se aplica a estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Em prova, qual afirmação correta se aplica a erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Em prova, qual afirmação correta se aplica a aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Em prova, qual afirmação correta se aplica a aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Em prova, qual afirmação correta se aplica a seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Em prova, qual afirmação correta se aplica a hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Em prova, qual afirmação correta se aplica a uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Em prova, qual afirmação correta se aplica a não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Em prova, qual afirmação correta se aplica a adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Em prova, qual afirmação correta se aplica a regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Em prova, qual afirmação correta se aplica a disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Em prova, qual afirmação correta se aplica a limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Em prova, qual afirmação correta se aplica a estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Em prova, qual afirmação correta se aplica a vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Em prova, qual afirmação correta se aplica a base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "Em prova, qual afirmação correta se aplica a erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "Em prova, qual afirmação correta se aplica a erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "Em prova, qual afirmação correta se aplica a fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "Em prova, qual afirmação correta se aplica a proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "O que o CPC 23 determina sobre objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "O que o CPC 23 determina sobre política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "O que o CPC 23 determina sobre estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "O que o CPC 23 determina sobre erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "O que o CPC 23 determina sobre aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "O que o CPC 23 determina sobre reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "O que o CPC 23 determina sobre aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "O que o CPC 23 determina sobre seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "O que o CPC 23 determina sobre hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "O que o CPC 23 determina sobre uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "O que o CPC 23 determina sobre mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "O que o CPC 23 determina sobre mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "O que o CPC 23 determina sobre não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "O que o CPC 23 determina sobre adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "O que o CPC 23 determina sobre regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "O que o CPC 23 determina sobre disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "O que o CPC 23 determina sobre limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "O que o CPC 23 determina sobre ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "O que o CPC 23 determina sobre mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "O que o CPC 23 determina sobre estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "O que o CPC 23 determina sobre vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "O que o CPC 23 determina sobre base de mensuração?",
+    "resposta": "Mudança na base de avaliação é mudança de política, não de estimativa.",
+    "categoria": "Base de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "O que o CPC 23 determina sobre dúvida entre política e estimativa?",
+    "resposta": "Quando difícil distinguir, trata-se como mudança de estimativa.",
+    "categoria": "Dúvida entre política e estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "O que o CPC 23 determina sobre erro material?",
+    "resposta": "Deve ser corrigido retrospectivamente no primeiro conjunto autorizado após a descoberta.",
+    "categoria": "Erro material",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "O que o CPC 23 determina sobre erro corrente?",
+    "resposta": "Deve ser corrigido antes da autorização das demonstrações.",
+    "categoria": "Erro corrente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "O que o CPC 23 determina sobre fraude?",
+    "resposta": "Pode constituir erro de período anterior.",
+    "categoria": "Fraude",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "O que o CPC 23 determina sobre impraticabilidade?",
+    "resposta": "Existe quando, após esforços razoáveis, não é possível determinar ou aplicar os efeitos.",
+    "categoria": "Impraticabilidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "O que o CPC 23 determina sobre proibição de hindsight?",
+    "resposta": "Não se usa percepção posterior para reconstruir intenções ou estimativas passadas.",
+    "categoria": "Proibição de hindsight",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de política?",
+    "resposta": "Inclui natureza, razões e montantes dos ajustes quando aplicável.",
+    "categoria": "Divulgação de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de estimativa?",
+    "resposta": "Inclui natureza e montante do efeito corrente e futuro, salvo impraticabilidade.",
+    "categoria": "Divulgação de estimativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "O que o CPC 23 determina sobre divulgação de erro?",
+    "resposta": "Inclui natureza, valores corrigidos e circunstâncias quando a reapresentação é impraticável.",
+    "categoria": "Divulgação de erro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Definir critérios para seleção e mudança de políticas contábeis, mudanças de estimativas e retificação de erros.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Como deve ser tratado política contábil?",
+    "resposta": "Princípios, bases, convenções, regras e práticas específicas usadas na elaboração das demonstrações.",
+    "categoria": "Política contábil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Como deve ser tratado estimativa contábil?",
+    "resposta": "Montante monetário sujeito à incerteza de mensuração.",
+    "categoria": "Estimativa contábil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Como deve ser tratado erro de período anterior?",
+    "resposta": "Omissão ou incorreção decorrente da falta de uso ou uso incorreto de informação confiável disponível.",
+    "categoria": "Erro de período anterior",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Como deve ser tratado aplicação retrospectiva?",
+    "resposta": "Aplicação de nova política como se sempre tivesse sido utilizada.",
+    "categoria": "Aplicação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Como deve ser tratado reapresentação retrospectiva?",
+    "resposta": "Correção como se o erro nunca tivesse ocorrido.",
+    "categoria": "Reapresentação retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Como deve ser tratado aplicação prospectiva?",
+    "resposta": "Aplicação da mudança a partir da data da alteração.",
+    "categoria": "Aplicação prospectiva",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Como deve ser tratado seleção de política?",
+    "resposta": "Deve seguir pronunciamento específico; na ausência, usa-se julgamento com informação relevante e confiável.",
+    "categoria": "Seleção de política",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Como deve ser tratado hierarquia?",
+    "resposta": "Primeiro normas semelhantes e relacionadas; depois definições e conceitos da Estrutura Conceitual.",
+    "categoria": "Hierarquia",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Como deve ser tratado uniformidade?",
+    "resposta": "Políticas devem ser aplicadas uniformemente a transações semelhantes.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Como deve ser tratado mudança obrigatória?",
+    "resposta": "Ocorre quando exigida por pronunciamento, interpretação ou orientação.",
+    "categoria": "Mudança obrigatória",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Como deve ser tratado mudança voluntária?",
+    "resposta": "Só é admitida se produzir informação confiável e mais relevante.",
+    "categoria": "Mudança voluntária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Como deve ser tratado não é mudança de política?",
+    "resposta": "Política para transação nova ou materialmente diferente não é mudança de política.",
+    "categoria": "Não é mudança de política",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Como deve ser tratado adoção antecipada?",
+    "resposta": "Não é considerada mudança voluntária.",
+    "categoria": "Adoção antecipada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Como deve ser tratado regra retrospectiva?",
+    "resposta": "Mudança de política é normalmente aplicada retrospectivamente.",
+    "categoria": "Regra retrospectiva",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Como deve ser tratado disposição transitória?",
+    "resposta": "Na adoção inicial, seguem-se as regras de transição da norma específica.",
+    "categoria": "Disposição transitória",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Como deve ser tratado limitação retrospectiva?",
+    "resposta": "Quando impraticável, aplica-se desde o período mais antigo praticável.",
+    "categoria": "Limitação retrospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Como deve ser tratado ajuste no patrimônio líquido?",
+    "resposta": "Efeitos de períodos anteriores ajustam o saldo de abertura do componente afetado.",
+    "categoria": "Ajuste no patrimônio líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Como deve ser tratado mudança de estimativa?",
+    "resposta": "Decorre de nova informação, experiência ou alteração de circunstâncias.",
+    "categoria": "Mudança de estimativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Como deve ser tratado estimativa prospectiva?",
+    "resposta": "O efeito é reconhecido no período corrente e, quando aplicável, nos períodos futuros.",
+    "categoria": "Estimativa prospectiva",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Como deve ser tratado vida útil?",
+    "resposta": "Revisão de vida útil é mudança de estimativa.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  }
+]

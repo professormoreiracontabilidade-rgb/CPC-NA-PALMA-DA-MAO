@@ -76,3 +76,7 @@ Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 2
 
 ## CPC 18 (R3) — Investimento em Coligada e em Empreendimento Controlado em Conjunto
 Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 23 — Políticas Contábeis, Mudança de Estimativa e Retificação de Erro
+Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.

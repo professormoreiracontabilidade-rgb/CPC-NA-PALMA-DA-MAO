@@ -178,11 +178,21 @@ window.CPCS = [
   {
     "numero": "23",
     "nome": "Políticas Contábeis, Mudança de Estimativa e Retificação de Erro",
-    "palavras": [
-      "política contábil",
-      "estimativa",
-      "erro"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-23-Politicas-Estimativas-Erros.pdf",
+    "resumo": "./resumos/cpc23-resumo.html",
+    "mapa": "./mapas/cpc23-mapa.html",
+    "casos": "./casos/cpc23-casos.html",
+    "dicionario": "./resumos/cpc23-dicionario.html",
+    "flashcards": "./resumos/cpc23-flashcards.html",
+    "quizzes": "./quizzes/cpc23-index.html",
+    "comentarios": "./comentarios/cpc23-questoes.html",
+    "banco": "./questoes/cpc23-banco.html",
+    "simulado": "./quizzes/cpc23-simulado.html",
+    "macetes": "./resumos/cpc23-macetes.html",
+    "erros": "./resumos/cpc23-erros.html",
+    "checklist": "./resumos/cpc23-checklist.html",
+    "palavras": ["política contábil", "estimativa contábil", "erro", "retrospectiva", "prospectiva", "reapresentação", "impraticabilidade", "materialidade"]
   },
   {
     "numero": "24",
