@@ -254,12 +254,21 @@ window.CPCS = [
   {
     "numero": "27",
     "nome": "Ativo Imobilizado",
-    "palavras": [
-      "imobilizado",
-      "depreciação",
-      "valor residual",
-      "vida útil"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-27-Ativo-Imobilizado.pdf",
+    "resumo": "./resumos/cpc27-resumo.html",
+    "mapa": "./mapas/cpc27-mapa.html",
+    "casos": "./casos/cpc27-casos.html",
+    "dicionario": "./resumos/cpc27-dicionario.html",
+    "flashcards": "./resumos/cpc27-flashcards.html",
+    "quizzes": "./quizzes/cpc27-index.html",
+    "comentarios": "./comentarios/cpc27-questoes.html",
+    "banco": "./questoes/cpc27-banco.html",
+    "simulado": "./quizzes/cpc27-simulado.html",
+    "macetes": "./resumos/cpc27-macetes.html",
+    "erros": "./resumos/cpc27-erros.html",
+    "checklist": "./resumos/cpc27-checklist.html",
+    "palavras": ["ativo imobilizado", "depreciação", "vida útil", "valor residual", "componentização", "custo", "impairment", "baixa"]
   },
   {
     "numero": "31",

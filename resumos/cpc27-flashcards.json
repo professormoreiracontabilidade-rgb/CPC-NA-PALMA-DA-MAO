@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 27 determina sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 27 determina sobre ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 27 determina sobre reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 27 determina sobre sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 27 determina sobre manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 27 determina sobre substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 27 determina sobre inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 27 determina sobre mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 27 determina sobre preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 27 determina sobre custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 27 determina sobre desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 27 determina sobre custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 27 determina sobre cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 27 determina sobre receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 27 determina sobre ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 27 determina sobre pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 27 determina sobre permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 27 determina sobre método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 27 determina sobre reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 27 determina sobre componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 27 determina sobre valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 27 determina sobre início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 27 determina sobre fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 27 determina sobre ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 27 determina sobre vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 27 determina sobre valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 27 determina sobre revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 27 determina sobre método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 27 determina sobre saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 27 determina sobre unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 27 determina sobre método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "O que o CPC 27 determina sobre terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "O que o CPC 27 determina sobre impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "O que o CPC 27 determina sobre indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "O que o CPC 27 determina sobre baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "O que o CPC 27 determina sobre ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "O que o CPC 27 determina sobre venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "O que o CPC 27 determina sobre divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como deve ser tratado ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Como deve ser tratado reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Como deve ser tratado sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "Como deve ser tratado manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como deve ser tratado substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como deve ser tratado inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser tratado mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser tratado preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser tratado custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser tratado desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser tratado custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser tratado cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser tratado receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser tratado ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser tratado pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser tratado permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser tratado método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser tratado reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser tratado componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser tratado valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser tratado início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Como deve ser tratado fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como deve ser tratado ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Como deve ser tratado vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Como deve ser tratado valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Como deve ser tratado revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Como deve ser tratado método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Como deve ser tratado saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Como deve ser tratado unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Como deve ser tratado método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Como deve ser tratado terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Como deve ser tratado impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Como deve ser tratado indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Como deve ser tratado baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Como deve ser tratado ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Como deve ser tratado venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual é a regra essencial sobre ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual é a regra essencial sobre reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual é a regra essencial sobre sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual é a regra essencial sobre manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual é a regra essencial sobre substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual é a regra essencial sobre inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual é a regra essencial sobre mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual é a regra essencial sobre preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual é a regra essencial sobre custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual é a regra essencial sobre desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual é a regra essencial sobre custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual é a regra essencial sobre cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é a regra essencial sobre receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual é a regra essencial sobre ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é a regra essencial sobre pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual é a regra essencial sobre permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Qual é a regra essencial sobre método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Qual é a regra essencial sobre reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual é a regra essencial sobre componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Qual é a regra essencial sobre valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual é a regra essencial sobre início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Qual é a regra essencial sobre fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual é a regra essencial sobre ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual é a regra essencial sobre vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Qual é a regra essencial sobre valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Qual é a regra essencial sobre revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Qual é a regra essencial sobre método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Qual é a regra essencial sobre saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Qual é a regra essencial sobre unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Qual é a regra essencial sobre método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Qual é a regra essencial sobre terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Qual é a regra essencial sobre impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Qual é a regra essencial sobre indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Qual é a regra essencial sobre baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Qual é a regra essencial sobre ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Qual é a regra essencial sobre venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Qual é a regra essencial sobre divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Em prova, qual afirmação correta se aplica a sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Em prova, qual afirmação correta se aplica a manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Em prova, qual afirmação correta se aplica a substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Em prova, qual afirmação correta se aplica a inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "Em prova, qual afirmação correta se aplica a preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Em prova, qual afirmação correta se aplica a custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "Em prova, qual afirmação correta se aplica a desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "Em prova, qual afirmação correta se aplica a custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "Em prova, qual afirmação correta se aplica a cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "Em prova, qual afirmação correta se aplica a receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "Em prova, qual afirmação correta se aplica a pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "Em prova, qual afirmação correta se aplica a permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "Em prova, qual afirmação correta se aplica a componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "Em prova, qual afirmação correta se aplica a início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "Em prova, qual afirmação correta se aplica a fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "Em prova, qual afirmação correta se aplica a vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "Em prova, qual afirmação correta se aplica a revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "Em prova, qual afirmação correta se aplica a saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "Em prova, qual afirmação correta se aplica a unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "Em prova, qual afirmação correta se aplica a terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "Em prova, qual afirmação correta se aplica a indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "Em prova, qual afirmação correta se aplica a baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "Em prova, qual afirmação correta se aplica a venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "O que o CPC 27 determina sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "O que o CPC 27 determina sobre ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "O que o CPC 27 determina sobre reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "O que o CPC 27 determina sobre sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "O que o CPC 27 determina sobre manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "O que o CPC 27 determina sobre substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "O que o CPC 27 determina sobre inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "O que o CPC 27 determina sobre mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "O que o CPC 27 determina sobre preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "O que o CPC 27 determina sobre custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "O que o CPC 27 determina sobre desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "O que o CPC 27 determina sobre custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "O que o CPC 27 determina sobre cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "O que o CPC 27 determina sobre receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "O que o CPC 27 determina sobre ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "O que o CPC 27 determina sobre pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "O que o CPC 27 determina sobre permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "O que o CPC 27 determina sobre método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "O que o CPC 27 determina sobre reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "O que o CPC 27 determina sobre componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "O que o CPC 27 determina sobre valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "O que o CPC 27 determina sobre início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "O que o CPC 27 determina sobre fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "O que o CPC 27 determina sobre ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "O que o CPC 27 determina sobre vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "O que o CPC 27 determina sobre valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "O que o CPC 27 determina sobre revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "O que o CPC 27 determina sobre método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "O que o CPC 27 determina sobre saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "O que o CPC 27 determina sobre unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "O que o CPC 27 determina sobre método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "O que o CPC 27 determina sobre terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "O que o CPC 27 determina sobre impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "O que o CPC 27 determina sobre indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "O que o CPC 27 determina sobre baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "O que o CPC 27 determina sobre ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "O que o CPC 27 determina sobre venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "O que o CPC 27 determina sobre divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "Como deve ser tratado ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "Como deve ser tratado reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "Como deve ser tratado sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "Como deve ser tratado manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "Como deve ser tratado substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "Como deve ser tratado inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "Como deve ser tratado mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "Como deve ser tratado preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "Como deve ser tratado custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "Como deve ser tratado desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "Como deve ser tratado custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "Como deve ser tratado cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "Como deve ser tratado receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "Como deve ser tratado ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "Como deve ser tratado pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "Como deve ser tratado permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "Como deve ser tratado método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "Como deve ser tratado reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "Como deve ser tratado componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "Como deve ser tratado valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "Como deve ser tratado início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "Como deve ser tratado fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "Como deve ser tratado ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "Como deve ser tratado vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "Como deve ser tratado valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "Como deve ser tratado revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "Como deve ser tratado método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "Como deve ser tratado saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "Como deve ser tratado unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Como deve ser tratado método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Como deve ser tratado terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Como deve ser tratado impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Como deve ser tratado indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Como deve ser tratado baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Como deve ser tratado ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Como deve ser tratado venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Qual é a regra essencial sobre ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Qual é a regra essencial sobre reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Qual é a regra essencial sobre sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Qual é a regra essencial sobre manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Qual é a regra essencial sobre substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Qual é a regra essencial sobre inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Qual é a regra essencial sobre mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Qual é a regra essencial sobre preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Qual é a regra essencial sobre custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Qual é a regra essencial sobre desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Qual é a regra essencial sobre custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "Qual é a regra essencial sobre cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "Qual é a regra essencial sobre receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "Qual é a regra essencial sobre ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "Qual é a regra essencial sobre pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "Qual é a regra essencial sobre permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "Qual é a regra essencial sobre método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "Qual é a regra essencial sobre reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "Qual é a regra essencial sobre componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "Qual é a regra essencial sobre valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "Qual é a regra essencial sobre início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "Qual é a regra essencial sobre fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "Qual é a regra essencial sobre ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "Qual é a regra essencial sobre vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "Qual é a regra essencial sobre valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "Qual é a regra essencial sobre revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "Qual é a regra essencial sobre método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "Qual é a regra essencial sobre saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "Qual é a regra essencial sobre unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "Qual é a regra essencial sobre método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "Qual é a regra essencial sobre terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "Qual é a regra essencial sobre impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "Qual é a regra essencial sobre indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "Qual é a regra essencial sobre baixa?",
+    "resposta": "Ocorre na alienação ou quando não há benefícios futuros esperados.",
+    "categoria": "Baixa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "Qual é a regra essencial sobre ganho ou perda na baixa?",
+    "resposta": "Diferença entre valor líquido da alienação e valor contábil.",
+    "categoria": "Ganho ou perda na baixa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "Qual é a regra essencial sobre venda de ativo alugado?",
+    "resposta": "Pode haver transferência para estoque quando passa a ser mantido para venda na atividade normal.",
+    "categoria": "Venda de ativo alugado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "Qual é a regra essencial sobre divulgação?",
+    "resposta": "Inclui critérios, métodos, vidas úteis, saldos, conciliações, restrições e compromissos.",
+    "categoria": "Divulgação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer o tratamento contábil do ativo imobilizado, incluindo reconhecimento, mensuração, depreciação, impairment e baixa.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo imobilizado?",
+    "resposta": "Item tangível mantido para produção, fornecimento, aluguel ou administração e esperado para uso por mais de um período.",
+    "categoria": "Ativo imobilizado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reconhecimento?",
+    "resposta": "O custo é reconhecido quando benefícios futuros são prováveis e o custo pode ser mensurado confiavelmente.",
+    "categoria": "Reconhecimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "Em prova, qual afirmação correta se aplica a sobressalentes?",
+    "resposta": "São imobilizado quando usados por mais de um período ou apenas em conexão com item do imobilizado.",
+    "categoria": "Sobressalentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "Em prova, qual afirmação correta se aplica a manutenção periódica?",
+    "resposta": "É reconhecida no resultado quando incorrida.",
+    "categoria": "Manutenção periódica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "Em prova, qual afirmação correta se aplica a substituição de partes?",
+    "resposta": "É capitalizada se atender aos critérios, com baixa da parte substituída.",
+    "categoria": "Substituição de partes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "Em prova, qual afirmação correta se aplica a inspeção importante?",
+    "resposta": "Seu custo pode ser capitalizado e a inspeção anterior deve ser baixada.",
+    "categoria": "Inspeção importante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mensuração inicial?",
+    "resposta": "O item reconhecido como ativo é mensurado pelo custo.",
+    "categoria": "Mensuração inicial",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "Em prova, qual afirmação correta se aplica a preço de aquisição?",
+    "resposta": "Integra o custo, líquido de descontos, acrescido de tributos não recuperáveis.",
+    "categoria": "Preço de aquisição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "Em prova, qual afirmação correta se aplica a custos diretamente atribuíveis?",
+    "resposta": "Incluem preparação do local, frete, instalação, testes e honorários profissionais.",
+    "categoria": "Custos diretamente atribuíveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "Em prova, qual afirmação correta se aplica a desmontagem e restauração?",
+    "resposta": "A estimativa inicial integra o custo quando houver obrigação.",
+    "categoria": "Desmontagem e restauração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "Em prova, qual afirmação correta se aplica a custos excluídos?",
+    "resposta": "Abertura de instalação, propaganda, treinamento, administração e realocação não integram o custo.",
+    "categoria": "Custos excluídos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "Em prova, qual afirmação correta se aplica a cessação da capitalização?",
+    "resposta": "O reconhecimento de custos cessa quando o ativo está no local e condição pretendidos.",
+    "categoria": "Cessação da capitalização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Em prova, qual afirmação correta se aplica a receitas em testes?",
+    "resposta": "Receitas e custos de itens produzidos durante testes vão ao resultado.",
+    "categoria": "Receitas em testes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo construído internamente?",
+    "resposta": "Segue os mesmos princípios, sem lucro interno nem desperdício anormal.",
+    "categoria": "Ativo construído internamente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Em prova, qual afirmação correta se aplica a pagamento a prazo?",
+    "resposta": "O custo é o equivalente à vista; diferença é juros, salvo capitalização permitida.",
+    "categoria": "Pagamento a prazo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Em prova, qual afirmação correta se aplica a permuta?",
+    "resposta": "Usa valor justo, salvo ausência de natureza comercial ou impossibilidade de mensuração confiável.",
+    "categoria": "Permuta",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método do custo?",
+    "resposta": "Custo menos depreciação e perdas por impairment acumuladas.",
+    "categoria": "Método do custo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reavaliação?",
+    "resposta": "Somente quando permitida por lei e aplicada à classe inteira.",
+    "categoria": "Reavaliação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Em prova, qual afirmação correta se aplica a componetização?",
+    "resposta": "Componentes significativos são depreciados separadamente.",
+    "categoria": "Componetização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor depreciável?",
+    "resposta": "Custo ou valor substituto menos valor residual.",
+    "categoria": "Valor depreciável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Em prova, qual afirmação correta se aplica a início da depreciação?",
+    "resposta": "Quando o ativo está disponível para uso.",
+    "categoria": "Início da depreciação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Em prova, qual afirmação correta se aplica a fim da depreciação?",
+    "resposta": "Na classificação como mantido para venda ou baixa, o que ocorrer primeiro.",
+    "categoria": "Fim da depreciação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ociosidade?",
+    "resposta": "Não interrompe a depreciação, salvo método baseado em uso sem produção.",
+    "categoria": "Ociosidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Em prova, qual afirmação correta se aplica a vida útil?",
+    "resposta": "Período de uso esperado ou unidades de produção esperadas.",
+    "categoria": "Vida útil",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor residual?",
+    "resposta": "Estimativa líquida de venda ao fim da vida útil.",
+    "categoria": "Valor residual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Em prova, qual afirmação correta se aplica a revisão anual?",
+    "resposta": "Vida útil, valor residual e método são revisados ao menos anualmente.",
+    "categoria": "Revisão anual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método linear?",
+    "resposta": "Gera despesa constante se o residual não mudar.",
+    "categoria": "Método linear",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Em prova, qual afirmação correta se aplica a saldos decrescentes?",
+    "resposta": "Gera despesa decrescente.",
+    "categoria": "Saldos decrescentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Em prova, qual afirmação correta se aplica a unidades produzidas?",
+    "resposta": "Baseia a depreciação no uso ou produção.",
+    "categoria": "Unidades produzidas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método baseado em receita?",
+    "resposta": "Não é apropriado.",
+    "categoria": "Método baseado em receita",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Em prova, qual afirmação correta se aplica a terrenos?",
+    "resposta": "Normalmente não são depreciados; edifícios são depreciáveis.",
+    "categoria": "Terrenos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impairment?",
+    "resposta": "Aplica-se o CPC 01 para perda e reversão por valor recuperável.",
+    "categoria": "Impairment",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Em prova, qual afirmação correta se aplica a indenização?",
+    "resposta": "É reconhecida no resultado quando se torna recebível.",
+    "categoria": "Indenização",
+    "dificuldade": "Difícil"
+  }
+]
