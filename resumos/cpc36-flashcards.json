@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 36 determina sobre objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 36 determina sobre demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 36 determina sobre controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 36 determina sobre controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 36 determina sobre grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 36 determina sobre controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 36 determina sobre poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 36 determina sobre atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 36 determina sobre retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 36 determina sobre ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 36 determina sobre avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 36 determina sobre controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 36 determina sobre direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 36 determina sobre direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 36 determina sobre direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 36 determina sobre maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 36 determina sobre poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 36 determina sobre maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 36 determina sobre dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 36 determina sobre principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 36 determina sobre início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 36 determina sobre fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 36 determina sobre políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 36 determina sobre procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 36 determina sobre saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 36 determina sobre receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 36 determina sobre resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 36 determina sobre datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 36 determina sobre participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 36 determina sobre resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 36 determina sobre mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "O que o CPC 36 determina sobre perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "O que o CPC 36 determina sobre participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "O que o CPC 36 determina sobre ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "O que o CPC 36 determina sobre entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "O que o CPC 36 determina sobre exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "O que o CPC 36 determina sobre controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "O que o CPC 36 determina sobre reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "O que o CPC 36 determina sobre divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Como deve ser tratado demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Como deve ser tratado controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "Como deve ser tratado controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como deve ser tratado grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como deve ser tratado controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser tratado poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser tratado atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser tratado retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser tratado ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser tratado avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser tratado controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser tratado direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser tratado direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser tratado direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser tratado maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser tratado poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser tratado maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser tratado dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser tratado principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser tratado início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Como deve ser tratado fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como deve ser tratado políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Como deve ser tratado procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Como deve ser tratado saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Como deve ser tratado receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Como deve ser tratado resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Como deve ser tratado datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Como deve ser tratado participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Como deve ser tratado resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Como deve ser tratado mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Como deve ser tratado perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Como deve ser tratado participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Como deve ser tratado ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Como deve ser tratado entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Como deve ser tratado exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Como deve ser tratado controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Como deve ser tratado reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual é a regra essencial sobre demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual é a regra essencial sobre controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual é a regra essencial sobre controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual é a regra essencial sobre grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual é a regra essencial sobre controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual é a regra essencial sobre poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual é a regra essencial sobre atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual é a regra essencial sobre retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual é a regra essencial sobre ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual é a regra essencial sobre avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é a regra essencial sobre controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual é a regra essencial sobre direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é a regra essencial sobre direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual é a regra essencial sobre direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Qual é a regra essencial sobre maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Qual é a regra essencial sobre poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual é a regra essencial sobre maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Qual é a regra essencial sobre dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual é a regra essencial sobre principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Qual é a regra essencial sobre início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual é a regra essencial sobre fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual é a regra essencial sobre políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Qual é a regra essencial sobre procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Qual é a regra essencial sobre saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Qual é a regra essencial sobre receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Qual é a regra essencial sobre resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Qual é a regra essencial sobre datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Qual é a regra essencial sobre participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Qual é a regra essencial sobre resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Qual é a regra essencial sobre mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Qual é a regra essencial sobre perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Qual é a regra essencial sobre participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Qual é a regra essencial sobre ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Qual é a regra essencial sobre entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Qual é a regra essencial sobre exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Qual é a regra essencial sobre controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Qual é a regra essencial sobre reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Qual é a regra essencial sobre divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Em prova, qual afirmação correta se aplica a demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Em prova, qual afirmação correta se aplica a grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Em prova, qual afirmação correta se aplica a poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "Em prova, qual afirmação correta se aplica a atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "Em prova, qual afirmação correta se aplica a retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "Em prova, qual afirmação correta se aplica a avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "Em prova, qual afirmação correta se aplica a direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "Em prova, qual afirmação correta se aplica a direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "Em prova, qual afirmação correta se aplica a direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "Em prova, qual afirmação correta se aplica a maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "Em prova, qual afirmação correta se aplica a poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "Em prova, qual afirmação correta se aplica a maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "Em prova, qual afirmação correta se aplica a principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "Em prova, qual afirmação correta se aplica a início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "Em prova, qual afirmação correta se aplica a fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "Em prova, qual afirmação correta se aplica a políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "Em prova, qual afirmação correta se aplica a procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "Em prova, qual afirmação correta se aplica a saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "Em prova, qual afirmação correta se aplica a receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "Em prova, qual afirmação correta se aplica a datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "Em prova, qual afirmação correta se aplica a participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "Em prova, qual afirmação correta se aplica a perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "Em prova, qual afirmação correta se aplica a participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "Em prova, qual afirmação correta se aplica a entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "Em prova, qual afirmação correta se aplica a exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "Em prova, qual afirmação correta se aplica a reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "O que o CPC 36 determina sobre objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "O que o CPC 36 determina sobre demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "O que o CPC 36 determina sobre controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "O que o CPC 36 determina sobre controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "O que o CPC 36 determina sobre grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "O que o CPC 36 determina sobre controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "O que o CPC 36 determina sobre poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "O que o CPC 36 determina sobre atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "O que o CPC 36 determina sobre retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "O que o CPC 36 determina sobre ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "O que o CPC 36 determina sobre avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "O que o CPC 36 determina sobre controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "O que o CPC 36 determina sobre direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "O que o CPC 36 determina sobre direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "O que o CPC 36 determina sobre direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "O que o CPC 36 determina sobre maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "O que o CPC 36 determina sobre poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "O que o CPC 36 determina sobre maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "O que o CPC 36 determina sobre dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "O que o CPC 36 determina sobre principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "O que o CPC 36 determina sobre início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "O que o CPC 36 determina sobre fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "O que o CPC 36 determina sobre políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "O que o CPC 36 determina sobre procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "O que o CPC 36 determina sobre saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "O que o CPC 36 determina sobre receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "O que o CPC 36 determina sobre resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "O que o CPC 36 determina sobre datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "O que o CPC 36 determina sobre participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "O que o CPC 36 determina sobre resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "O que o CPC 36 determina sobre mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "O que o CPC 36 determina sobre perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "O que o CPC 36 determina sobre participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "O que o CPC 36 determina sobre ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "O que o CPC 36 determina sobre entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "O que o CPC 36 determina sobre exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "O que o CPC 36 determina sobre controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "O que o CPC 36 determina sobre reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "O que o CPC 36 determina sobre divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "Como deve ser tratado demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "Como deve ser tratado controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "Como deve ser tratado controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "Como deve ser tratado grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "Como deve ser tratado controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "Como deve ser tratado poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "Como deve ser tratado atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "Como deve ser tratado retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "Como deve ser tratado ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "Como deve ser tratado avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "Como deve ser tratado controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "Como deve ser tratado direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "Como deve ser tratado direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "Como deve ser tratado direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "Como deve ser tratado maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "Como deve ser tratado poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "Como deve ser tratado maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "Como deve ser tratado dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "Como deve ser tratado principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "Como deve ser tratado início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "Como deve ser tratado fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "Como deve ser tratado políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "Como deve ser tratado procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "Como deve ser tratado saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Como deve ser tratado receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Como deve ser tratado resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Como deve ser tratado datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Como deve ser tratado participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Como deve ser tratado resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Como deve ser tratado mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Como deve ser tratado perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Como deve ser tratado participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Como deve ser tratado ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Como deve ser tratado entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Como deve ser tratado exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Como deve ser tratado controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Como deve ser tratado reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Qual é a regra essencial sobre demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Qual é a regra essencial sobre controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Qual é a regra essencial sobre controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Qual é a regra essencial sobre grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Qual é a regra essencial sobre controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "Qual é a regra essencial sobre poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "Qual é a regra essencial sobre atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "Qual é a regra essencial sobre retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "Qual é a regra essencial sobre ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "Qual é a regra essencial sobre avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "Qual é a regra essencial sobre controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "Qual é a regra essencial sobre direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "Qual é a regra essencial sobre direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "Qual é a regra essencial sobre direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "Qual é a regra essencial sobre maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "Qual é a regra essencial sobre poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "Qual é a regra essencial sobre maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "Qual é a regra essencial sobre dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "Qual é a regra essencial sobre principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "Qual é a regra essencial sobre início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "Qual é a regra essencial sobre fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "Qual é a regra essencial sobre políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "Qual é a regra essencial sobre procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "Qual é a regra essencial sobre saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "Qual é a regra essencial sobre receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "Qual é a regra essencial sobre resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "Qual é a regra essencial sobre datas das demonstrações?",
+    "resposta": "Devem ser as mesmas ou com defasagem limitada e ajustes apropriados.",
+    "categoria": "Datas das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "Qual é a regra essencial sobre participação de não controladores?",
+    "resposta": "É apresentada separadamente dentro do patrimônio líquido.",
+    "categoria": "Participação de não controladores",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "Qual é a regra essencial sobre resultado dos não controladores?",
+    "resposta": "Resultado e ORA são atribuídos aos controladores e não controladores.",
+    "categoria": "Resultado dos não controladores",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "Qual é a regra essencial sobre mudança sem perda de controle?",
+    "resposta": "É transação patrimonial, sem ganho ou perda no resultado.",
+    "categoria": "Mudança sem perda de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "Qual é a regra essencial sobre perda de controle?",
+    "resposta": "Exige baixa de ativos e passivos da ex-controlada.",
+    "categoria": "Perda de controle",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "Qual é a regra essencial sobre participação remanescente?",
+    "resposta": "É remensurada ao valor justo na data da perda de controle.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "Qual é a regra essencial sobre ganho ou perda?",
+    "resposta": "Na perda de controle, reconhece-se o ganho ou perda correspondente.",
+    "categoria": "Ganho ou perda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "Qual é a regra essencial sobre entidade de investimento?",
+    "resposta": "Obtém recursos de investidores, investe para retorno e avalia substancialmente pelo valor justo.",
+    "categoria": "Entidade de investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "Qual é a regra essencial sobre exceção de entidade de investimento?",
+    "resposta": "Em regra, mensura controladas ao valor justo por meio do resultado.",
+    "categoria": "Exceção de entidade de investimento",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "Qual é a regra essencial sobre controlada prestadora de serviços?",
+    "resposta": "Entidade de investimento consolida controlada que presta serviços relacionados às atividades de investimento.",
+    "categoria": "Controlada prestadora de serviços",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "Qual é a regra essencial sobre reavaliação da condição?",
+    "resposta": "Mudanças nos fatos exigem reavaliar se a entidade é entidade de investimento.",
+    "categoria": "Reavaliação da condição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "Qual é a regra essencial sobre divulgação?",
+    "resposta": "As divulgações sobre participações em outras entidades seguem também o CPC 45.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer princípios para apresentação e elaboração de demonstrações consolidadas quando uma entidade controla uma ou mais entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "Em prova, qual afirmação correta se aplica a demonstrações consolidadas?",
+    "resposta": "Demonstrações do grupo econômico apresentadas como se fossem de uma única entidade econômica.",
+    "categoria": "Demonstrações consolidadas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controladora?",
+    "resposta": "Entidade que controla uma ou mais controladas.",
+    "categoria": "Controladora",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controlada?",
+    "resposta": "Entidade controlada por outra entidade.",
+    "categoria": "Controlada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "Em prova, qual afirmação correta se aplica a grupo econômico?",
+    "resposta": "Controladora e todas as suas controladas.",
+    "categoria": "Grupo econômico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controle?",
+    "resposta": "Existe quando o investidor tem poder, retornos variáveis e capacidade de usar o poder para afetar os retornos.",
+    "categoria": "Controle",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Em prova, qual afirmação correta se aplica a poder?",
+    "resposta": "Direitos existentes que dão capacidade atual de dirigir as atividades relevantes.",
+    "categoria": "Poder",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Em prova, qual afirmação correta se aplica a atividades relevantes?",
+    "resposta": "Atividades que afetam significativamente os retornos da investida.",
+    "categoria": "Atividades relevantes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Em prova, qual afirmação correta se aplica a retornos variáveis?",
+    "resposta": "Retornos que podem variar conforme o desempenho da investida, positivos, negativos ou ambos.",
+    "categoria": "Retornos variáveis",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ligação poder-retornos?",
+    "resposta": "O investidor precisa poder usar seu poder para afetar o valor de seus retornos.",
+    "categoria": "Ligação poder-retornos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Em prova, qual afirmação correta se aplica a avaliação contínua?",
+    "resposta": "O controle deve ser reavaliado quando fatos e circunstâncias mudarem.",
+    "categoria": "Avaliação contínua",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controle coletivo?",
+    "resposta": "Quando investidores precisam agir em conjunto, nenhum controla individualmente.",
+    "categoria": "Controle coletivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Em prova, qual afirmação correta se aplica a direitos substantivos?",
+    "resposta": "Direitos praticavelmente exercíveis quando decisões relevantes precisam ser tomadas.",
+    "categoria": "Direitos substantivos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Em prova, qual afirmação correta se aplica a direitos de proteção?",
+    "resposta": "Protegem interesses sem conferir poder.",
+    "categoria": "Direitos de proteção",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Em prova, qual afirmação correta se aplica a direitos de voto potenciais?",
+    "resposta": "São considerados quando substantivos.",
+    "categoria": "Direitos de voto potenciais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Em prova, qual afirmação correta se aplica a maioria dos votos?",
+    "resposta": "Normalmente confere poder se os direitos forem substantivos e dirigirem atividades relevantes.",
+    "categoria": "Maioria dos votos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Em prova, qual afirmação correta se aplica a poder sem maioria?",
+    "resposta": "Pode existir por acordos contratuais, dispersão dos demais acionistas ou direitos potenciais.",
+    "categoria": "Poder sem maioria",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Em prova, qual afirmação correta se aplica a maioria sem poder?",
+    "resposta": "Pode ocorrer quando direitos não são substantivos ou outra parte dirige as atividades relevantes.",
+    "categoria": "Maioria sem poder",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dependência econômica?",
+    "resposta": "Sozinha, não significa controle.",
+    "categoria": "Dependência econômica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Em prova, qual afirmação correta se aplica a principal e agente?",
+    "resposta": "Agente não controla a investida ao exercer poder delegado.",
+    "categoria": "Principal e agente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Em prova, qual afirmação correta se aplica a início da consolidação?",
+    "resposta": "Começa quando o investidor obtém o controle.",
+    "categoria": "Início da consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Em prova, qual afirmação correta se aplica a fim da consolidação?",
+    "resposta": "Cessa quando o investidor perde o controle.",
+    "categoria": "Fim da consolidação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Em prova, qual afirmação correta se aplica a políticas uniformes?",
+    "resposta": "Transações semelhantes devem usar políticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Em prova, qual afirmação correta se aplica a procedimentos de consolidação?",
+    "resposta": "Somam-se itens semelhantes e eliminam-se investimento, patrimônio e transações intragrupo.",
+    "categoria": "Procedimentos de consolidação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Em prova, qual afirmação correta se aplica a saldos intragrupo?",
+    "resposta": "Devem ser eliminados integralmente.",
+    "categoria": "Saldos intragrupo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Em prova, qual afirmação correta se aplica a receitas e despesas intragrupo?",
+    "resposta": "Devem ser eliminadas integralmente.",
+    "categoria": "Receitas e despesas intragrupo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultados não realizados?",
+    "resposta": "Lucros e perdas intragrupo em ativos devem ser eliminados.",
+    "categoria": "Resultados não realizados",
+    "dificuldade": "Difícil"
+  }
+]

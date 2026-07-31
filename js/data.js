@@ -311,11 +311,21 @@ window.CPCS = [
   {
     "numero": "36",
     "nome": "Demonstrações Consolidadas",
-    "palavras": [
-      "consolidação",
-      "controladora",
-      "controlada"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-36-R3-Demonstracoes-Consolidadas.pdf",
+    "resumo": "./resumos/cpc36-resumo.html",
+    "mapa": "./mapas/cpc36-mapa.html",
+    "casos": "./casos/cpc36-casos.html",
+    "dicionario": "./resumos/cpc36-dicionario.html",
+    "flashcards": "./resumos/cpc36-flashcards.html",
+    "quizzes": "./quizzes/cpc36-index.html",
+    "comentarios": "./comentarios/cpc36-questoes.html",
+    "banco": "./questoes/cpc36-banco.html",
+    "simulado": "./quizzes/cpc36-simulado.html",
+    "macetes": "./resumos/cpc36-macetes.html",
+    "erros": "./resumos/cpc36-erros.html",
+    "checklist": "./resumos/cpc36-checklist.html",
+    "palavras": ["demonstrações consolidadas", "controle", "poder", "retornos variáveis", "controladora", "controlada", "não controladores", "perda de controle", "entidade de investimento"]
   },
   {
     "numero": "45",
