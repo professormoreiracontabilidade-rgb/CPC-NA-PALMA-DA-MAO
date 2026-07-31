@@ -292,11 +292,21 @@ window.CPCS = [
   {
     "numero": "32",
     "nome": "Tributos sobre o Lucro",
-    "palavras": [
-      "tributos sobre lucro",
-      "imposto diferido",
-      "ativo fiscal"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-32-Tributos-sobre-o-Lucro.pdf",
+    "resumo": "./resumos/cpc32-resumo.html",
+    "mapa": "./mapas/cpc32-mapa.html",
+    "casos": "./casos/cpc32-casos.html",
+    "dicionario": "./resumos/cpc32-dicionario.html",
+    "flashcards": "./resumos/cpc32-flashcards.html",
+    "quizzes": "./quizzes/cpc32-index.html",
+    "comentarios": "./comentarios/cpc32-questoes.html",
+    "banco": "./questoes/cpc32-banco.html",
+    "simulado": "./quizzes/cpc32-simulado.html",
+    "macetes": "./resumos/cpc32-macetes.html",
+    "erros": "./resumos/cpc32-erros.html",
+    "checklist": "./resumos/cpc32-checklist.html",
+    "palavras": ["tributos sobre o lucro", "tributo corrente", "tributo diferido", "base fiscal", "diferença temporária", "ativo fiscal diferido", "passivo fiscal diferido", "prejuízo fiscal", "Pilar Dois"]
   },
   {
     "numero": "36",
