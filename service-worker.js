@@ -1,4 +1,4 @@
-const CACHE_NAME = "cpc-na-palma-v23";
+const CACHE_NAME = "cpc-na-palma-v24";
 const APP_SHELL = [
   "./",
   "./service-worker.js",
@@ -726,7 +726,43 @@ const APP_SHELL = [
   "./resumos/cpc46-flashcards.html",
   "./resumos/cpc46-flashcards.json",
   "./resumos/cpc46-macetes.html",
-  "./resumos/cpc46-resumo.html"
+  "./resumos/cpc46-resumo.html",
+  "./assets/cpc47.css",
+  "./casos/cpc47-casos.html",
+  "./comentarios/cpc47-questoes.html",
+  "./comentarios/cpc47-questoes.json",
+  "./mapas/cpc47-mapa.html",
+  "./pdf/CPC-47-Receita-Contrato-Cliente.pdf",
+  "./questoes/cpc47-banco.html",
+  "./quizzes/cpc47-index.html",
+  "./quizzes/cpc47-quiz-01.html",
+  "./quizzes/cpc47-quiz-02.html",
+  "./quizzes/cpc47-quiz-03.html",
+  "./quizzes/cpc47-quiz-04.html",
+  "./quizzes/cpc47-quiz-05.html",
+  "./quizzes/cpc47-quiz-06.html",
+  "./quizzes/cpc47-quiz-07.html",
+  "./quizzes/cpc47-quiz-08.html",
+  "./quizzes/cpc47-quiz-09.html",
+  "./quizzes/cpc47-quiz-10.html",
+  "./quizzes/cpc47-quiz-11.html",
+  "./quizzes/cpc47-quiz-12.html",
+  "./quizzes/cpc47-quiz-13.html",
+  "./quizzes/cpc47-quiz-14.html",
+  "./quizzes/cpc47-quiz-15.html",
+  "./quizzes/cpc47-quiz-16.html",
+  "./quizzes/cpc47-quiz-17.html",
+  "./quizzes/cpc47-quiz-18.html",
+  "./quizzes/cpc47-quiz-19.html",
+  "./quizzes/cpc47-quiz-20.html",
+  "./quizzes/cpc47-simulado.html",
+  "./resumos/cpc47-checklist.html",
+  "./resumos/cpc47-dicionario.html",
+  "./resumos/cpc47-erros.html",
+  "./resumos/cpc47-flashcards.html",
+  "./resumos/cpc47-flashcards.json",
+  "./resumos/cpc47-macetes.html",
+  "./resumos/cpc47-resumo.html"
 ];
 self.addEventListener("install", event => { event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(APP_SHELL))); self.skipWaiting(); });
 self.addEventListener("activate", event => { event.waitUntil(caches.keys().then(keys => Promise.all(keys.filter(key => key !== CACHE_NAME).map(key => caches.delete(key))))); self.clients.claim(); });

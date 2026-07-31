@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 47 determina sobre objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 47 determina sobre princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 47 determina sobre cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 47 determina sobre contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 47 determina sobre critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 47 determina sobre contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 47 determina sobre combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 47 determina sobre modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 47 determina sobre contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 47 determina sobre obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 47 determina sobre bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 47 determina sobre série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 47 determina sobre transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 47 determina sobre ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 47 determina sobre momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 47 determina sobre indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 47 determina sobre mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 47 determina sobre progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 47 determina sobre preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 47 determina sobre contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 47 determina sobre valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 47 determina sobre valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 47 determina sobre restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 47 determina sobre passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 47 determina sobre financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 47 determina sobre expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 47 determina sobre contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 47 determina sobre pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 47 determina sobre alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 47 determina sobre preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 47 determina sobre estimativa do preço individual?",
+    "resposta": "Pode usar mercado ajustado, custo mais margem ou abordagem residual.",
+    "categoria": "Estimativa do preço individual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "O que o CPC 47 determina sobre desconto?",
+    "resposta": "Normalmente alocado proporcionalmente, salvo evidência de atribuição específica.",
+    "categoria": "Desconto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "O que o CPC 47 determina sobre contraprestação variável específica?",
+    "resposta": "Pode ser alocada integralmente a obrigação específica se os critérios forem atendidos.",
+    "categoria": "Contraprestação variável específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "O que o CPC 47 determina sobre alteração do preço?",
+    "resposta": "É alocada da mesma forma adotada no início do contrato.",
+    "categoria": "Alteração do preço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "O que o CPC 47 determina sobre custo incremental?",
+    "resposta": "Custo que só ocorre se o contrato for obtido, como comissão.",
+    "categoria": "Custo incremental",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "O que o CPC 47 determina sobre ativo de custo incremental?",
+    "resposta": "Reconhecido quando se espera recuperá-lo.",
+    "categoria": "Ativo de custo incremental",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "O que o CPC 47 determina sobre expediente para custo?",
+    "resposta": "Pode ser despesa se a amortização esperada for de um ano ou menos.",
+    "categoria": "Expediente para custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "O que o CPC 47 determina sobre custo para cumprir contrato?",
+    "resposta": "É ativo se direto, gerar recursos futuros e for recuperável.",
+    "categoria": "Custo para cumprir contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "O que o CPC 47 determina sobre amortização?",
+    "resposta": "Ativos de custos contratuais são amortizados conforme a transferência dos bens ou serviços.",
+    "categoria": "Amortização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "O que o CPC 47 determina sobre redução ao valor recuperável?",
+    "resposta": "Reconhecida quando o valor contábil supera os benefícios líquidos esperados.",
+    "categoria": "Redução ao valor recuperável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "O que o CPC 47 determina sobre ativo contratual?",
+    "resposta": "Direito à contraprestação condicionado a algo além da passagem do tempo.",
+    "categoria": "Ativo contratual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "O que o CPC 47 determina sobre recebível?",
+    "resposta": "Direito incondicional à contraprestação.",
+    "categoria": "Recebível",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "O que o CPC 47 determina sobre passivo contratual?",
+    "resposta": "Obrigação de transferir bens ou serviços por contraprestação já recebida ou devida.",
+    "categoria": "Passivo contratual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "O que o CPC 47 determina sobre apresentação?",
+    "resposta": "Direitos e obrigações são apresentados como ativo contratual, recebível ou passivo contratual.",
+    "categoria": "Apresentação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "O que o CPC 47 determina sobre divulgação?",
+    "resposta": "Inclui desagregação da receita, saldos, obrigações, julgamentos e ativos de custos contratuais.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser tratado princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser tratado cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser tratado contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser tratado critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser tratado contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser tratado combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser tratado modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser tratado contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser tratado obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser tratado bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser tratado série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser tratado transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser tratado ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser tratado momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Como deve ser tratado indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como deve ser tratado mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Como deve ser tratado progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Como deve ser tratado preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Como deve ser tratado contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Como deve ser tratado valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Como deve ser tratado valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Como deve ser tratado restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Como deve ser tratado passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Como deve ser tratado financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Como deve ser tratado expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Como deve ser tratado contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Como deve ser tratado pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Como deve ser tratado alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Como deve ser tratado preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Como deve ser tratado estimativa do preço individual?",
+    "resposta": "Pode usar mercado ajustado, custo mais margem ou abordagem residual.",
+    "categoria": "Estimativa do preço individual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Como deve ser tratado desconto?",
+    "resposta": "Normalmente alocado proporcionalmente, salvo evidência de atribuição específica.",
+    "categoria": "Desconto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Como deve ser tratado contraprestação variável específica?",
+    "resposta": "Pode ser alocada integralmente a obrigação específica se os critérios forem atendidos.",
+    "categoria": "Contraprestação variável específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Como deve ser tratado alteração do preço?",
+    "resposta": "É alocada da mesma forma adotada no início do contrato.",
+    "categoria": "Alteração do preço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Como deve ser tratado custo incremental?",
+    "resposta": "Custo que só ocorre se o contrato for obtido, como comissão.",
+    "categoria": "Custo incremental",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Como deve ser tratado ativo de custo incremental?",
+    "resposta": "Reconhecido quando se espera recuperá-lo.",
+    "categoria": "Ativo de custo incremental",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Como deve ser tratado expediente para custo?",
+    "resposta": "Pode ser despesa se a amortização esperada for de um ano ou menos.",
+    "categoria": "Expediente para custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Como deve ser tratado custo para cumprir contrato?",
+    "resposta": "É ativo se direto, gerar recursos futuros e for recuperável.",
+    "categoria": "Custo para cumprir contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Como deve ser tratado amortização?",
+    "resposta": "Ativos de custos contratuais são amortizados conforme a transferência dos bens ou serviços.",
+    "categoria": "Amortização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Como deve ser tratado redução ao valor recuperável?",
+    "resposta": "Reconhecida quando o valor contábil supera os benefícios líquidos esperados.",
+    "categoria": "Redução ao valor recuperável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Como deve ser tratado ativo contratual?",
+    "resposta": "Direito à contraprestação condicionado a algo além da passagem do tempo.",
+    "categoria": "Ativo contratual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Como deve ser tratado recebível?",
+    "resposta": "Direito incondicional à contraprestação.",
+    "categoria": "Recebível",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Como deve ser tratado passivo contratual?",
+    "resposta": "Obrigação de transferir bens ou serviços por contraprestação já recebida ou devida.",
+    "categoria": "Passivo contratual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Como deve ser tratado apresentação?",
+    "resposta": "Direitos e obrigações são apresentados como ativo contratual, recebível ou passivo contratual.",
+    "categoria": "Apresentação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "Inclui desagregação da receita, saldos, obrigações, julgamentos e ativos de custos contratuais.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é a regra essencial sobre princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual é a regra essencial sobre cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Qual é a regra essencial sobre contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Qual é a regra essencial sobre critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual é a regra essencial sobre contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Qual é a regra essencial sobre combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual é a regra essencial sobre modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Qual é a regra essencial sobre contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual é a regra essencial sobre obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual é a regra essencial sobre bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Qual é a regra essencial sobre série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Qual é a regra essencial sobre transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Qual é a regra essencial sobre ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Qual é a regra essencial sobre momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Qual é a regra essencial sobre indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Qual é a regra essencial sobre mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Qual é a regra essencial sobre progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Qual é a regra essencial sobre preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Qual é a regra essencial sobre contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Qual é a regra essencial sobre valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Qual é a regra essencial sobre valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Qual é a regra essencial sobre restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Qual é a regra essencial sobre passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Qual é a regra essencial sobre financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Qual é a regra essencial sobre expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Qual é a regra essencial sobre contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Qual é a regra essencial sobre pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Qual é a regra essencial sobre alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Qual é a regra essencial sobre preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Qual é a regra essencial sobre estimativa do preço individual?",
+    "resposta": "Pode usar mercado ajustado, custo mais margem ou abordagem residual.",
+    "categoria": "Estimativa do preço individual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Qual é a regra essencial sobre desconto?",
+    "resposta": "Normalmente alocado proporcionalmente, salvo evidência de atribuição específica.",
+    "categoria": "Desconto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "Qual é a regra essencial sobre contraprestação variável específica?",
+    "resposta": "Pode ser alocada integralmente a obrigação específica se os critérios forem atendidos.",
+    "categoria": "Contraprestação variável específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Qual é a regra essencial sobre alteração do preço?",
+    "resposta": "É alocada da mesma forma adotada no início do contrato.",
+    "categoria": "Alteração do preço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "Qual é a regra essencial sobre custo incremental?",
+    "resposta": "Custo que só ocorre se o contrato for obtido, como comissão.",
+    "categoria": "Custo incremental",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "Qual é a regra essencial sobre ativo de custo incremental?",
+    "resposta": "Reconhecido quando se espera recuperá-lo.",
+    "categoria": "Ativo de custo incremental",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "Qual é a regra essencial sobre expediente para custo?",
+    "resposta": "Pode ser despesa se a amortização esperada for de um ano ou menos.",
+    "categoria": "Expediente para custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "Qual é a regra essencial sobre custo para cumprir contrato?",
+    "resposta": "É ativo se direto, gerar recursos futuros e for recuperável.",
+    "categoria": "Custo para cumprir contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "Qual é a regra essencial sobre amortização?",
+    "resposta": "Ativos de custos contratuais são amortizados conforme a transferência dos bens ou serviços.",
+    "categoria": "Amortização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "Qual é a regra essencial sobre redução ao valor recuperável?",
+    "resposta": "Reconhecida quando o valor contábil supera os benefícios líquidos esperados.",
+    "categoria": "Redução ao valor recuperável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "Qual é a regra essencial sobre ativo contratual?",
+    "resposta": "Direito à contraprestação condicionado a algo além da passagem do tempo.",
+    "categoria": "Ativo contratual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "Qual é a regra essencial sobre recebível?",
+    "resposta": "Direito incondicional à contraprestação.",
+    "categoria": "Recebível",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "Qual é a regra essencial sobre passivo contratual?",
+    "resposta": "Obrigação de transferir bens ou serviços por contraprestação já recebida ou devida.",
+    "categoria": "Passivo contratual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "Qual é a regra essencial sobre apresentação?",
+    "resposta": "Direitos e obrigações são apresentados como ativo contratual, recebível ou passivo contratual.",
+    "categoria": "Apresentação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "Qual é a regra essencial sobre divulgação?",
+    "resposta": "Inclui desagregação da receita, saldos, obrigações, julgamentos e ativos de custos contratuais.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "Em prova, qual afirmação correta se aplica a princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "Em prova, qual afirmação correta se aplica a cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "Em prova, qual afirmação correta se aplica a contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "Em prova, qual afirmação correta se aplica a critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "Em prova, qual afirmação correta se aplica a contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "Em prova, qual afirmação correta se aplica a combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "Em prova, qual afirmação correta se aplica a modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "Em prova, qual afirmação correta se aplica a contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "Em prova, qual afirmação correta se aplica a obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "Em prova, qual afirmação correta se aplica a bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "Em prova, qual afirmação correta se aplica a série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "Em prova, qual afirmação correta se aplica a transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "Em prova, qual afirmação correta se aplica a momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "Em prova, qual afirmação correta se aplica a indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "Em prova, qual afirmação correta se aplica a progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "Em prova, qual afirmação correta se aplica a preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "Em prova, qual afirmação correta se aplica a contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "Em prova, qual afirmação correta se aplica a valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "Em prova, qual afirmação correta se aplica a restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "Em prova, qual afirmação correta se aplica a passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "Em prova, qual afirmação correta se aplica a financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "Em prova, qual afirmação correta se aplica a expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "Em prova, qual afirmação correta se aplica a contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "Em prova, qual afirmação correta se aplica a pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "Em prova, qual afirmação correta se aplica a alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "Em prova, qual afirmação correta se aplica a preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "Em prova, qual afirmação correta se aplica a estimativa do preço individual?",
+    "resposta": "Pode usar mercado ajustado, custo mais margem ou abordagem residual.",
+    "categoria": "Estimativa do preço individual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "Em prova, qual afirmação correta se aplica a desconto?",
+    "resposta": "Normalmente alocado proporcionalmente, salvo evidência de atribuição específica.",
+    "categoria": "Desconto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "Em prova, qual afirmação correta se aplica a contraprestação variável específica?",
+    "resposta": "Pode ser alocada integralmente a obrigação específica se os critérios forem atendidos.",
+    "categoria": "Contraprestação variável específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "Em prova, qual afirmação correta se aplica a alteração do preço?",
+    "resposta": "É alocada da mesma forma adotada no início do contrato.",
+    "categoria": "Alteração do preço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "Em prova, qual afirmação correta se aplica a custo incremental?",
+    "resposta": "Custo que só ocorre se o contrato for obtido, como comissão.",
+    "categoria": "Custo incremental",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo de custo incremental?",
+    "resposta": "Reconhecido quando se espera recuperá-lo.",
+    "categoria": "Ativo de custo incremental",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "Em prova, qual afirmação correta se aplica a expediente para custo?",
+    "resposta": "Pode ser despesa se a amortização esperada for de um ano ou menos.",
+    "categoria": "Expediente para custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "Em prova, qual afirmação correta se aplica a custo para cumprir contrato?",
+    "resposta": "É ativo se direto, gerar recursos futuros e for recuperável.",
+    "categoria": "Custo para cumprir contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "Em prova, qual afirmação correta se aplica a amortização?",
+    "resposta": "Ativos de custos contratuais são amortizados conforme a transferência dos bens ou serviços.",
+    "categoria": "Amortização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "Em prova, qual afirmação correta se aplica a redução ao valor recuperável?",
+    "resposta": "Reconhecida quando o valor contábil supera os benefícios líquidos esperados.",
+    "categoria": "Redução ao valor recuperável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo contratual?",
+    "resposta": "Direito à contraprestação condicionado a algo além da passagem do tempo.",
+    "categoria": "Ativo contratual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "Em prova, qual afirmação correta se aplica a recebível?",
+    "resposta": "Direito incondicional à contraprestação.",
+    "categoria": "Recebível",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "Em prova, qual afirmação correta se aplica a passivo contratual?",
+    "resposta": "Obrigação de transferir bens ou serviços por contraprestação já recebida ou devida.",
+    "categoria": "Passivo contratual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "Em prova, qual afirmação correta se aplica a apresentação?",
+    "resposta": "Direitos e obrigações são apresentados como ativo contratual, recebível ou passivo contratual.",
+    "categoria": "Apresentação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "Em prova, qual afirmação correta se aplica a divulgação?",
+    "resposta": "Inclui desagregação da receita, saldos, obrigações, julgamentos e ativos de custos contratuais.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "O que o CPC 47 determina sobre objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "O que o CPC 47 determina sobre princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "O que o CPC 47 determina sobre cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "O que o CPC 47 determina sobre contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "O que o CPC 47 determina sobre critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "O que o CPC 47 determina sobre contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "O que o CPC 47 determina sobre combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "O que o CPC 47 determina sobre modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "O que o CPC 47 determina sobre contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "O que o CPC 47 determina sobre obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "O que o CPC 47 determina sobre bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "O que o CPC 47 determina sobre série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "O que o CPC 47 determina sobre transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "O que o CPC 47 determina sobre ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "O que o CPC 47 determina sobre momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "O que o CPC 47 determina sobre indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "O que o CPC 47 determina sobre mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "O que o CPC 47 determina sobre progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "O que o CPC 47 determina sobre preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "O que o CPC 47 determina sobre contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "O que o CPC 47 determina sobre valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "O que o CPC 47 determina sobre valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "O que o CPC 47 determina sobre restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "O que o CPC 47 determina sobre passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "O que o CPC 47 determina sobre financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "O que o CPC 47 determina sobre expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "O que o CPC 47 determina sobre contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "O que o CPC 47 determina sobre pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "O que o CPC 47 determina sobre alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "O que o CPC 47 determina sobre preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "O que o CPC 47 determina sobre estimativa do preço individual?",
+    "resposta": "Pode usar mercado ajustado, custo mais margem ou abordagem residual.",
+    "categoria": "Estimativa do preço individual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "O que o CPC 47 determina sobre desconto?",
+    "resposta": "Normalmente alocado proporcionalmente, salvo evidência de atribuição específica.",
+    "categoria": "Desconto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "O que o CPC 47 determina sobre contraprestação variável específica?",
+    "resposta": "Pode ser alocada integralmente a obrigação específica se os critérios forem atendidos.",
+    "categoria": "Contraprestação variável específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "O que o CPC 47 determina sobre alteração do preço?",
+    "resposta": "É alocada da mesma forma adotada no início do contrato.",
+    "categoria": "Alteração do preço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "O que o CPC 47 determina sobre custo incremental?",
+    "resposta": "Custo que só ocorre se o contrato for obtido, como comissão.",
+    "categoria": "Custo incremental",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "O que o CPC 47 determina sobre ativo de custo incremental?",
+    "resposta": "Reconhecido quando se espera recuperá-lo.",
+    "categoria": "Ativo de custo incremental",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "O que o CPC 47 determina sobre expediente para custo?",
+    "resposta": "Pode ser despesa se a amortização esperada for de um ano ou menos.",
+    "categoria": "Expediente para custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "O que o CPC 47 determina sobre custo para cumprir contrato?",
+    "resposta": "É ativo se direto, gerar recursos futuros e for recuperável.",
+    "categoria": "Custo para cumprir contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "O que o CPC 47 determina sobre amortização?",
+    "resposta": "Ativos de custos contratuais são amortizados conforme a transferência dos bens ou serviços.",
+    "categoria": "Amortização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "O que o CPC 47 determina sobre redução ao valor recuperável?",
+    "resposta": "Reconhecida quando o valor contábil supera os benefícios líquidos esperados.",
+    "categoria": "Redução ao valor recuperável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "O que o CPC 47 determina sobre ativo contratual?",
+    "resposta": "Direito à contraprestação condicionado a algo além da passagem do tempo.",
+    "categoria": "Ativo contratual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "O que o CPC 47 determina sobre recebível?",
+    "resposta": "Direito incondicional à contraprestação.",
+    "categoria": "Recebível",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "O que o CPC 47 determina sobre passivo contratual?",
+    "resposta": "Obrigação de transferir bens ou serviços por contraprestação já recebida ou devida.",
+    "categoria": "Passivo contratual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "O que o CPC 47 determina sobre apresentação?",
+    "resposta": "Direitos e obrigações são apresentados como ativo contratual, recebível ou passivo contratual.",
+    "categoria": "Apresentação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "O que o CPC 47 determina sobre divulgação?",
+    "resposta": "Inclui desagregação da receita, saldos, obrigações, julgamentos e ativos de custos contratuais.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Como deve ser tratado princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Como deve ser tratado cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Como deve ser tratado contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Como deve ser tratado critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Como deve ser tratado contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Como deve ser tratado combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Como deve ser tratado modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Como deve ser tratado contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Como deve ser tratado obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Como deve ser tratado bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Como deve ser tratado série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Como deve ser tratado transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Como deve ser tratado ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Como deve ser tratado momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "Como deve ser tratado indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "Como deve ser tratado mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "Como deve ser tratado progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "Como deve ser tratado preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "Como deve ser tratado contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "Como deve ser tratado valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "Como deve ser tratado valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "Como deve ser tratado restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "Como deve ser tratado passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "Como deve ser tratado financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "Como deve ser tratado expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "Como deve ser tratado contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "Como deve ser tratado pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "Como deve ser tratado alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "Como deve ser tratado preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "Como deve ser tratado estimativa do preço individual?",
+    "resposta": "Pode usar mercado ajustado, custo mais margem ou abordagem residual.",
+    "categoria": "Estimativa do preço individual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "Como deve ser tratado desconto?",
+    "resposta": "Normalmente alocado proporcionalmente, salvo evidência de atribuição específica.",
+    "categoria": "Desconto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "Como deve ser tratado contraprestação variável específica?",
+    "resposta": "Pode ser alocada integralmente a obrigação específica se os critérios forem atendidos.",
+    "categoria": "Contraprestação variável específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "Como deve ser tratado alteração do preço?",
+    "resposta": "É alocada da mesma forma adotada no início do contrato.",
+    "categoria": "Alteração do preço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "Como deve ser tratado custo incremental?",
+    "resposta": "Custo que só ocorre se o contrato for obtido, como comissão.",
+    "categoria": "Custo incremental",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "Como deve ser tratado ativo de custo incremental?",
+    "resposta": "Reconhecido quando se espera recuperá-lo.",
+    "categoria": "Ativo de custo incremental",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "Como deve ser tratado expediente para custo?",
+    "resposta": "Pode ser despesa se a amortização esperada for de um ano ou menos.",
+    "categoria": "Expediente para custo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "Como deve ser tratado custo para cumprir contrato?",
+    "resposta": "É ativo se direto, gerar recursos futuros e for recuperável.",
+    "categoria": "Custo para cumprir contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "Como deve ser tratado amortização?",
+    "resposta": "Ativos de custos contratuais são amortizados conforme a transferência dos bens ou serviços.",
+    "categoria": "Amortização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "Como deve ser tratado redução ao valor recuperável?",
+    "resposta": "Reconhecida quando o valor contábil supera os benefícios líquidos esperados.",
+    "categoria": "Redução ao valor recuperável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "Como deve ser tratado ativo contratual?",
+    "resposta": "Direito à contraprestação condicionado a algo além da passagem do tempo.",
+    "categoria": "Ativo contratual",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "Como deve ser tratado recebível?",
+    "resposta": "Direito incondicional à contraprestação.",
+    "categoria": "Recebível",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "Como deve ser tratado passivo contratual?",
+    "resposta": "Obrigação de transferir bens ou serviços por contraprestação já recebida ou devida.",
+    "categoria": "Passivo contratual",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "Como deve ser tratado apresentação?",
+    "resposta": "Direitos e obrigações são apresentados como ativo contratual, recebível ou passivo contratual.",
+    "categoria": "Apresentação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "Inclui desagregação da receita, saldos, obrigações, julgamentos e ativos de custos contratuais.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer princípios para informar natureza, valor, época e incerteza das receitas e fluxos de caixa de contratos com clientes.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "Qual é a regra essencial sobre princípio básico?",
+    "resposta": "Reconhecer receita para representar a transferência de bens ou serviços pelo valor da contraprestação esperada.",
+    "categoria": "Princípio básico",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "Qual é a regra essencial sobre cliente?",
+    "resposta": "Parte que contrata bens ou serviços que são produto das atividades normais da entidade.",
+    "categoria": "Cliente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "Qual é a regra essencial sobre contrato?",
+    "resposta": "Acordo que cria direitos e obrigações exigíveis.",
+    "categoria": "Contrato",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "Qual é a regra essencial sobre critérios do contrato?",
+    "resposta": "Aprovação, direitos identificáveis, termos de pagamento, substância comercial e recebimento provável.",
+    "categoria": "Critérios do contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "Qual é a regra essencial sobre contrato não atendido?",
+    "resposta": "Contraprestação recebida permanece como passivo até atender aos critérios ou ocorrer hipótese específica.",
+    "categoria": "Contrato não atendido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "Qual é a regra essencial sobre combinação de contratos?",
+    "resposta": "Contratos próximos com o mesmo cliente podem ser combinados quando negociados em conjunto ou interdependentes.",
+    "categoria": "Combinação de contratos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "Qual é a regra essencial sobre modificação de contrato?",
+    "resposta": "Alteração aprovada no alcance ou preço do contrato.",
+    "categoria": "Modificação de contrato",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "Qual é a regra essencial sobre contrato separado?",
+    "resposta": "Modificação é separada quando adiciona bens ou serviços distintos por preço de venda individual adequado.",
+    "categoria": "Contrato separado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Qual é a regra essencial sobre obrigação de performance?",
+    "resposta": "Promessa de transferir bem ou serviço distinto, ou série distinta com mesmo padrão de transferência.",
+    "categoria": "Obrigação de performance",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Qual é a regra essencial sobre bem ou serviço distinto?",
+    "resposta": "Cliente pode se beneficiar e a promessa é separadamente identificável.",
+    "categoria": "Bem ou serviço distinto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Qual é a regra essencial sobre série de bens ou serviços?",
+    "resposta": "Itens distintos, substancialmente iguais, transferidos com o mesmo padrão.",
+    "categoria": "Série de bens ou serviços",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Qual é a regra essencial sobre transferência de controle?",
+    "resposta": "Receita é reconhecida quando ou à medida que o cliente obtém controle.",
+    "categoria": "Transferência de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Qual é a regra essencial sobre ao longo do tempo?",
+    "resposta": "Aplica-se quando o cliente recebe benefícios simultaneamente, controla o ativo em formação ou não há uso alternativo com direito a pagamento.",
+    "categoria": "Ao longo do tempo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Qual é a regra essencial sobre momento específico?",
+    "resposta": "Quando os critérios de reconhecimento ao longo do tempo não forem atendidos.",
+    "categoria": "Momento específico",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Qual é a regra essencial sobre indicadores de controle?",
+    "resposta": "Direito a pagamento, titularidade, posse, riscos e benefícios e aceite do cliente.",
+    "categoria": "Indicadores de controle",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Qual é a regra essencial sobre mensuração do progresso?",
+    "resposta": "Usa método de produto ou insumo, aplicado consistentemente.",
+    "categoria": "Mensuração do progresso",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Qual é a regra essencial sobre progresso não mensurável?",
+    "resposta": "Receita é limitada aos custos recuperáveis até que o progresso possa ser mensurado.",
+    "categoria": "Progresso não mensurável",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Qual é a regra essencial sobre preço da transação?",
+    "resposta": "Contraprestação esperada, excluídos valores cobrados em nome de terceiros.",
+    "categoria": "Preço da transação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Qual é a regra essencial sobre contraprestação variável?",
+    "resposta": "Pode decorrer de descontos, bônus, penalidades, retornos e concessões.",
+    "categoria": "Contraprestação variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Qual é a regra essencial sobre valor esperado?",
+    "resposta": "Média ponderada de probabilidades, útil para muitos contratos semelhantes.",
+    "categoria": "Valor esperado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Qual é a regra essencial sobre valor mais provável?",
+    "resposta": "Resultado único mais provável, útil quando há apenas dois resultados.",
+    "categoria": "Valor mais provável",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Qual é a regra essencial sobre restrição variável?",
+    "resposta": "Só incluir valor altamente provável de não causar reversão significativa.",
+    "categoria": "Restrição variável",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Qual é a regra essencial sobre passivo de restituição?",
+    "resposta": "Reconhecido quando se espera devolver contraprestação ao cliente.",
+    "categoria": "Passivo de restituição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Qual é a regra essencial sobre financiamento significativo?",
+    "resposta": "Ajusta a contraprestação para refletir o valor do dinheiro no tempo.",
+    "categoria": "Financiamento significativo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Qual é a regra essencial sobre expediente de um ano?",
+    "resposta": "Pode dispensar ajuste financeiro quando o intervalo é de um ano ou menos.",
+    "categoria": "Expediente de um ano",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Qual é a regra essencial sobre contraprestação não monetária?",
+    "resposta": "Mensurada pelo valor justo ou, se não estimável, pelo preço de venda individual.",
+    "categoria": "Contraprestação não monetária",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Qual é a regra essencial sobre pagamento ao cliente?",
+    "resposta": "Em regra reduz a receita, salvo aquisição de bem ou serviço distinto.",
+    "categoria": "Pagamento ao cliente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Qual é a regra essencial sobre alocação?",
+    "resposta": "Preço da transação é alocado às obrigações com base nos preços de venda individuais.",
+    "categoria": "Alocação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Qual é a regra essencial sobre preço de venda individual?",
+    "resposta": "Preço pelo qual o bem ou serviço seria vendido separadamente.",
+    "categoria": "Preço de venda individual",
+    "dificuldade": "Difícil"
+  }
+]

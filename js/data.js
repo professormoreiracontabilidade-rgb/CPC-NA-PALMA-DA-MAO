@@ -368,12 +368,21 @@ window.CPCS = [
   {
     "numero": "47",
     "nome": "Receita de Contrato com Cliente",
-    "palavras": [
-      "receita",
-      "contrato",
-      "cliente",
-      "obrigação de desempenho"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-47-Receita-Contrato-Cliente.pdf",
+    "resumo": "./resumos/cpc47-resumo.html",
+    "mapa": "./mapas/cpc47-mapa.html",
+    "casos": "./casos/cpc47-casos.html",
+    "dicionario": "./resumos/cpc47-dicionario.html",
+    "flashcards": "./resumos/cpc47-flashcards.html",
+    "quizzes": "./quizzes/cpc47-index.html",
+    "comentarios": "./comentarios/cpc47-questoes.html",
+    "banco": "./questoes/cpc47-banco.html",
+    "simulado": "./quizzes/cpc47-simulado.html",
+    "macetes": "./resumos/cpc47-macetes.html",
+    "erros": "./resumos/cpc47-erros.html",
+    "checklist": "./resumos/cpc47-checklist.html",
+    "palavras": ["receita", "contrato com cliente", "obrigação de performance", "preço da transação", "contraprestação variável", "ativo contratual", "passivo contratual", "recebível", "cinco etapas"]
   },
   {
     "numero": "48",
