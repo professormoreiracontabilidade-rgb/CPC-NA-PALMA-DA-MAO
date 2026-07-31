@@ -121,11 +121,21 @@ window.CPCS = [
   {
     "numero": "09",
     "nome": "Demonstração do Valor Adicionado",
-    "palavras": [
-      "dva",
-      "valor adicionado",
-      "riqueza"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-09-R1-Demonstracao-Valor-Adicionado.pdf",
+    "resumo": "./resumos/cpc09-resumo.html",
+    "mapa": "./mapas/cpc09-mapa.html",
+    "casos": "./casos/cpc09-casos.html",
+    "dicionario": "./resumos/cpc09-dicionario.html",
+    "flashcards": "./resumos/cpc09-flashcards.html",
+    "quizzes": "./quizzes/cpc09-index.html",
+    "comentarios": "./comentarios/cpc09-questoes.html",
+    "banco": "./questoes/cpc09-banco.html",
+    "simulado": "./quizzes/cpc09-simulado.html",
+    "macetes": "./resumos/cpc09-macetes.html",
+    "erros": "./resumos/cpc09-erros.html",
+    "checklist": "./resumos/cpc09-checklist.html",
+    "palavras": ["dva", "valor adicionado", "riqueza", "insumos de terceiros", "distribuição da riqueza"]
   },
   {
     "numero": "16",
