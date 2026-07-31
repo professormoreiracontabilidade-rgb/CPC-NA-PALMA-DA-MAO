@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 26 determina sobre objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 26 determina sobre demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 26 determina sobre materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 26 determina sobre notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 26 determina sobre resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 26 determina sobre outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 26 determina sobre resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 26 determina sobre finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 26 determina sobre conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 26 determina sobre igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 26 determina sobre apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 26 determina sobre declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 26 determina sobre política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 26 determina sobre desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 26 determina sobre continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 26 determina sobre horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 26 determina sobre regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 26 determina sobre materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 26 determina sobre obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 26 determina sobre compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 26 determina sobre frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 26 determina sobre comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 26 determina sobre terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 26 determina sobre consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 26 determina sobre identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 26 determina sobre informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 26 determina sobre ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 26 determina sobre passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 26 determina sobre ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 26 determina sobre impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 26 determina sobre balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "O que o CPC 26 determina sobre dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "O que o CPC 26 determina sobre itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "O que o CPC 26 determina sobre despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "O que o CPC 26 determina sobre dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "O que o CPC 26 determina sobre dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "O que o CPC 26 determina sobre estrutura das notas?",
+    "resposta": "Base de elaboração, políticas materiais, informações requeridas e outras relevantes.",
+    "categoria": "Estrutura das notas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "O que o CPC 26 determina sobre políticas contábeis materiais?",
+    "resposta": "Devem ser divulgadas quando necessárias para compreender as demonstrações.",
+    "categoria": "Políticas contábeis materiais",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "O que o CPC 26 determina sobre julgamentos?",
+    "resposta": "Devem ser divulgados julgamentos relevantes na aplicação das políticas.",
+    "categoria": "Julgamentos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "O que o CPC 26 determina sobre incerteza de estimativas?",
+    "resposta": "Devem ser divulgadas premissas com risco significativo de ajuste material.",
+    "categoria": "Incerteza de estimativas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "O que o CPC 26 determina sobre capital?",
+    "resposta": "A entidade divulga objetivos, políticas e processos de gestão do capital.",
+    "categoria": "Capital",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "O que o CPC 26 determina sobre dividendos?",
+    "resposta": "Dividendo proposto ou declarado antes da autorização e não reconhecido deve ser divulgado.",
+    "categoria": "Dividendos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "O que o CPC 26 determina sobre domicílio?",
+    "resposta": "Devem ser divulgados domicílio, forma jurídica, país e endereço da sede.",
+    "categoria": "Domicílio",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "O que o CPC 26 determina sobre prazo de duração?",
+    "resposta": "Deve ser divulgado quando a entidade tiver prazo de duração limitado.",
+    "categoria": "Prazo de duração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como deve ser apresentado objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser apresentado demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser apresentado materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser apresentado notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser apresentado resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser apresentado outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser apresentado resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser apresentado finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser apresentado conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser apresentado igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser apresentado apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser apresentado declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser apresentado política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser apresentado desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser apresentado continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser apresentado horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Como deve ser apresentado regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como deve ser apresentado materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Como deve ser apresentado obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Como deve ser apresentado compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Como deve ser apresentado frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Como deve ser apresentado comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Como deve ser apresentado terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Como deve ser apresentado consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Como deve ser apresentado identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Como deve ser apresentado informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Como deve ser apresentado ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Como deve ser apresentado passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Como deve ser apresentado ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Como deve ser apresentado impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Como deve ser apresentado balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Como deve ser apresentado dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Como deve ser apresentado itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Como deve ser apresentado despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Como deve ser apresentado dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Como deve ser apresentado dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Como deve ser apresentado estrutura das notas?",
+    "resposta": "Base de elaboração, políticas materiais, informações requeridas e outras relevantes.",
+    "categoria": "Estrutura das notas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Como deve ser apresentado políticas contábeis materiais?",
+    "resposta": "Devem ser divulgadas quando necessárias para compreender as demonstrações.",
+    "categoria": "Políticas contábeis materiais",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Como deve ser apresentado julgamentos?",
+    "resposta": "Devem ser divulgados julgamentos relevantes na aplicação das políticas.",
+    "categoria": "Julgamentos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Como deve ser apresentado incerteza de estimativas?",
+    "resposta": "Devem ser divulgadas premissas com risco significativo de ajuste material.",
+    "categoria": "Incerteza de estimativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Como deve ser apresentado capital?",
+    "resposta": "A entidade divulga objetivos, políticas e processos de gestão do capital.",
+    "categoria": "Capital",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Como deve ser apresentado dividendos?",
+    "resposta": "Dividendo proposto ou declarado antes da autorização e não reconhecido deve ser divulgado.",
+    "categoria": "Dividendos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Como deve ser apresentado domicílio?",
+    "resposta": "Devem ser divulgados domicílio, forma jurídica, país e endereço da sede.",
+    "categoria": "Domicílio",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Como deve ser apresentado prazo de duração?",
+    "resposta": "Deve ser divulgado quando a entidade tiver prazo de duração limitado.",
+    "categoria": "Prazo de duração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é a regra essencial sobre demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual é a regra essencial sobre materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é a regra essencial sobre notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual é a regra essencial sobre resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Qual é a regra essencial sobre outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Qual é a regra essencial sobre resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Qual é a regra essencial sobre finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Qual é a regra essencial sobre conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Qual é a regra essencial sobre igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Qual é a regra essencial sobre apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Qual é a regra essencial sobre declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Qual é a regra essencial sobre política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Qual é a regra essencial sobre desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Qual é a regra essencial sobre continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Qual é a regra essencial sobre horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Qual é a regra essencial sobre regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Qual é a regra essencial sobre materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Qual é a regra essencial sobre obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Qual é a regra essencial sobre compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Qual é a regra essencial sobre frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Qual é a regra essencial sobre comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Qual é a regra essencial sobre terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Qual é a regra essencial sobre consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Qual é a regra essencial sobre identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Qual é a regra essencial sobre informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Qual é a regra essencial sobre ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Qual é a regra essencial sobre passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Qual é a regra essencial sobre ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Qual é a regra essencial sobre impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Qual é a regra essencial sobre balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Qual é a regra essencial sobre dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Qual é a regra essencial sobre itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Qual é a regra essencial sobre despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "Qual é a regra essencial sobre dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Qual é a regra essencial sobre dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "Qual é a regra essencial sobre estrutura das notas?",
+    "resposta": "Base de elaboração, políticas materiais, informações requeridas e outras relevantes.",
+    "categoria": "Estrutura das notas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "Qual é a regra essencial sobre políticas contábeis materiais?",
+    "resposta": "Devem ser divulgadas quando necessárias para compreender as demonstrações.",
+    "categoria": "Políticas contábeis materiais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "Qual é a regra essencial sobre julgamentos?",
+    "resposta": "Devem ser divulgados julgamentos relevantes na aplicação das políticas.",
+    "categoria": "Julgamentos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "Qual é a regra essencial sobre incerteza de estimativas?",
+    "resposta": "Devem ser divulgadas premissas com risco significativo de ajuste material.",
+    "categoria": "Incerteza de estimativas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "Qual é a regra essencial sobre capital?",
+    "resposta": "A entidade divulga objetivos, políticas e processos de gestão do capital.",
+    "categoria": "Capital",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "Qual é a regra essencial sobre dividendos?",
+    "resposta": "Dividendo proposto ou declarado antes da autorização e não reconhecido deve ser divulgado.",
+    "categoria": "Dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "Qual é a regra essencial sobre domicílio?",
+    "resposta": "Devem ser divulgados domicílio, forma jurídica, país e endereço da sede.",
+    "categoria": "Domicílio",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "Qual é a regra essencial sobre prazo de duração?",
+    "resposta": "Deve ser divulgado quando a entidade tiver prazo de duração limitado.",
+    "categoria": "Prazo de duração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "Em prova, qual afirmação correta se aplica a demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "Em prova, qual afirmação correta se aplica a materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "Em prova, qual afirmação correta se aplica a notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "Em prova, qual afirmação correta se aplica a outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "Em prova, qual afirmação correta se aplica a finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "Em prova, qual afirmação correta se aplica a conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "Em prova, qual afirmação correta se aplica a igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "Em prova, qual afirmação correta se aplica a apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "Em prova, qual afirmação correta se aplica a declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "Em prova, qual afirmação correta se aplica a política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "Em prova, qual afirmação correta se aplica a desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "Em prova, qual afirmação correta se aplica a continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "Em prova, qual afirmação correta se aplica a horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "Em prova, qual afirmação correta se aplica a regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "Em prova, qual afirmação correta se aplica a materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "Em prova, qual afirmação correta se aplica a obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "Em prova, qual afirmação correta se aplica a compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "Em prova, qual afirmação correta se aplica a frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "Em prova, qual afirmação correta se aplica a comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "Em prova, qual afirmação correta se aplica a terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Em prova, qual afirmação correta se aplica a consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "Em prova, qual afirmação correta se aplica a identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "Em prova, qual afirmação correta se aplica a informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "Em prova, qual afirmação correta se aplica a passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "Em prova, qual afirmação correta se aplica a ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "Em prova, qual afirmação correta se aplica a balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "Em prova, qual afirmação correta se aplica a itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "Em prova, qual afirmação correta se aplica a despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "Em prova, qual afirmação correta se aplica a estrutura das notas?",
+    "resposta": "Base de elaboração, políticas materiais, informações requeridas e outras relevantes.",
+    "categoria": "Estrutura das notas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "Em prova, qual afirmação correta se aplica a políticas contábeis materiais?",
+    "resposta": "Devem ser divulgadas quando necessárias para compreender as demonstrações.",
+    "categoria": "Políticas contábeis materiais",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "Em prova, qual afirmação correta se aplica a julgamentos?",
+    "resposta": "Devem ser divulgados julgamentos relevantes na aplicação das políticas.",
+    "categoria": "Julgamentos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "Em prova, qual afirmação correta se aplica a incerteza de estimativas?",
+    "resposta": "Devem ser divulgadas premissas com risco significativo de ajuste material.",
+    "categoria": "Incerteza de estimativas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "Em prova, qual afirmação correta se aplica a capital?",
+    "resposta": "A entidade divulga objetivos, políticas e processos de gestão do capital.",
+    "categoria": "Capital",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dividendos?",
+    "resposta": "Dividendo proposto ou declarado antes da autorização e não reconhecido deve ser divulgado.",
+    "categoria": "Dividendos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "Em prova, qual afirmação correta se aplica a domicílio?",
+    "resposta": "Devem ser divulgados domicílio, forma jurídica, país e endereço da sede.",
+    "categoria": "Domicílio",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "Em prova, qual afirmação correta se aplica a prazo de duração?",
+    "resposta": "Deve ser divulgado quando a entidade tiver prazo de duração limitado.",
+    "categoria": "Prazo de duração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "O que o CPC 26 determina sobre objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "O que o CPC 26 determina sobre demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "O que o CPC 26 determina sobre materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "O que o CPC 26 determina sobre notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "O que o CPC 26 determina sobre resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "O que o CPC 26 determina sobre outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "O que o CPC 26 determina sobre resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "O que o CPC 26 determina sobre finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "O que o CPC 26 determina sobre conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "O que o CPC 26 determina sobre igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "O que o CPC 26 determina sobre apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "O que o CPC 26 determina sobre declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "O que o CPC 26 determina sobre política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "O que o CPC 26 determina sobre desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "O que o CPC 26 determina sobre continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "O que o CPC 26 determina sobre horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "O que o CPC 26 determina sobre regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "O que o CPC 26 determina sobre materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "O que o CPC 26 determina sobre obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "O que o CPC 26 determina sobre compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "O que o CPC 26 determina sobre frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "O que o CPC 26 determina sobre comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "O que o CPC 26 determina sobre terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "O que o CPC 26 determina sobre consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "O que o CPC 26 determina sobre identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "O que o CPC 26 determina sobre informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "O que o CPC 26 determina sobre ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "O que o CPC 26 determina sobre passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "O que o CPC 26 determina sobre ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "O que o CPC 26 determina sobre impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "O que o CPC 26 determina sobre balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "O que o CPC 26 determina sobre dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "O que o CPC 26 determina sobre itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "O que o CPC 26 determina sobre despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "O que o CPC 26 determina sobre dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "O que o CPC 26 determina sobre dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "O que o CPC 26 determina sobre estrutura das notas?",
+    "resposta": "Base de elaboração, políticas materiais, informações requeridas e outras relevantes.",
+    "categoria": "Estrutura das notas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "O que o CPC 26 determina sobre políticas contábeis materiais?",
+    "resposta": "Devem ser divulgadas quando necessárias para compreender as demonstrações.",
+    "categoria": "Políticas contábeis materiais",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "O que o CPC 26 determina sobre julgamentos?",
+    "resposta": "Devem ser divulgados julgamentos relevantes na aplicação das políticas.",
+    "categoria": "Julgamentos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "O que o CPC 26 determina sobre incerteza de estimativas?",
+    "resposta": "Devem ser divulgadas premissas com risco significativo de ajuste material.",
+    "categoria": "Incerteza de estimativas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "O que o CPC 26 determina sobre capital?",
+    "resposta": "A entidade divulga objetivos, políticas e processos de gestão do capital.",
+    "categoria": "Capital",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "O que o CPC 26 determina sobre dividendos?",
+    "resposta": "Dividendo proposto ou declarado antes da autorização e não reconhecido deve ser divulgado.",
+    "categoria": "Dividendos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "O que o CPC 26 determina sobre domicílio?",
+    "resposta": "Devem ser divulgados domicílio, forma jurídica, país e endereço da sede.",
+    "categoria": "Domicílio",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "O que o CPC 26 determina sobre prazo de duração?",
+    "resposta": "Deve ser divulgado quando a entidade tiver prazo de duração limitado.",
+    "categoria": "Prazo de duração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Como deve ser apresentado objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Como deve ser apresentado demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Como deve ser apresentado materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Como deve ser apresentado notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Como deve ser apresentado resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Como deve ser apresentado outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Como deve ser apresentado resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Como deve ser apresentado finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Como deve ser apresentado conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Como deve ser apresentado igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Como deve ser apresentado apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Como deve ser apresentado declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Como deve ser apresentado política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Como deve ser apresentado desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Como deve ser apresentado continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Como deve ser apresentado horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Como deve ser apresentado regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Como deve ser apresentado materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Como deve ser apresentado obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Como deve ser apresentado compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "Como deve ser apresentado frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "Como deve ser apresentado comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "Como deve ser apresentado terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "Como deve ser apresentado consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "Como deve ser apresentado identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "Como deve ser apresentado informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "Como deve ser apresentado ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "Como deve ser apresentado passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "Como deve ser apresentado ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "Como deve ser apresentado impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "Como deve ser apresentado balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "Como deve ser apresentado dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "Como deve ser apresentado itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "Como deve ser apresentado despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "Como deve ser apresentado dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "Como deve ser apresentado dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "Como deve ser apresentado estrutura das notas?",
+    "resposta": "Base de elaboração, políticas materiais, informações requeridas e outras relevantes.",
+    "categoria": "Estrutura das notas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "Como deve ser apresentado políticas contábeis materiais?",
+    "resposta": "Devem ser divulgadas quando necessárias para compreender as demonstrações.",
+    "categoria": "Políticas contábeis materiais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "Como deve ser apresentado julgamentos?",
+    "resposta": "Devem ser divulgados julgamentos relevantes na aplicação das políticas.",
+    "categoria": "Julgamentos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "Como deve ser apresentado incerteza de estimativas?",
+    "resposta": "Devem ser divulgadas premissas com risco significativo de ajuste material.",
+    "categoria": "Incerteza de estimativas",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "Como deve ser apresentado capital?",
+    "resposta": "A entidade divulga objetivos, políticas e processos de gestão do capital.",
+    "categoria": "Capital",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "Como deve ser apresentado dividendos?",
+    "resposta": "Dividendo proposto ou declarado antes da autorização e não reconhecido deve ser divulgado.",
+    "categoria": "Dividendos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "Como deve ser apresentado domicílio?",
+    "resposta": "Devem ser divulgados domicílio, forma jurídica, país e endereço da sede.",
+    "categoria": "Domicílio",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "Como deve ser apresentado prazo de duração?",
+    "resposta": "Deve ser divulgado quando a entidade tiver prazo de duração limitado.",
+    "categoria": "Prazo de duração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "Qual é a regra essencial sobre objetivo?",
+    "resposta": "Definir a base de apresentação para assegurar comparabilidade entre períodos e entre entidades.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "Qual é a regra essencial sobre demonstrações de propósito geral?",
+    "resposta": "Atendem usuários externos que não podem exigir relatórios personalizados.",
+    "categoria": "Demonstrações de propósito geral",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "Qual é a regra essencial sobre materialidade?",
+    "resposta": "Informação é material quando sua omissão, distorção ou obscuridade pode influenciar decisões.",
+    "categoria": "Materialidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "Qual é a regra essencial sobre notas explicativas?",
+    "resposta": "Trazem descrições, desagregações e informações sobre itens não reconhecidos nas demonstrações.",
+    "categoria": "Notas explicativas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "Qual é a regra essencial sobre resultado do período?",
+    "resposta": "Total das receitas menos despesas, exceto itens reconhecidos em outros resultados abrangentes.",
+    "categoria": "Resultado do período",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "Qual é a regra essencial sobre outros resultados abrangentes?",
+    "resposta": "Receitas e despesas não reconhecidas no resultado conforme exigido ou permitido pelos CPCs.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "Qual é a regra essencial sobre resultado abrangente?",
+    "resposta": "Mutação no patrimônio líquido não decorrente de transações com proprietários.",
+    "categoria": "Resultado abrangente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "Qual é a regra essencial sobre finalidade das demonstrações?",
+    "resposta": "Informar posição financeira, desempenho, fluxos de caixa e atuação da administração.",
+    "categoria": "Finalidade das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "Qual é a regra essencial sobre conjunto completo?",
+    "resposta": "BP, DRE, DRA, DMPL, DFC, notas, comparativos, balanço de abertura quando exigido e DVA quando aplicável.",
+    "categoria": "Conjunto completo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "Qual é a regra essencial sobre igual importância?",
+    "resposta": "Todas as demonstrações do conjunto completo devem receber igual destaque.",
+    "categoria": "Igual importância",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "Qual é a regra essencial sobre apresentação apropriada?",
+    "resposta": "Exige representação fidedigna e conformidade com os pronunciamentos aplicáveis.",
+    "categoria": "Apresentação apropriada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "Qual é a regra essencial sobre declaração de conformidade?",
+    "resposta": "Deve ser explícita e sem reservas somente quando todos os requisitos forem cumpridos.",
+    "categoria": "Declaração de conformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "Qual é a regra essencial sobre política inadequada?",
+    "resposta": "Não pode ser corrigida apenas por nota explicativa.",
+    "categoria": "Política inadequada",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "Qual é a regra essencial sobre desvio extremamente raro?",
+    "resposta": "Pode ocorrer quando cumprir requisito geraria apresentação enganosa, observada a regulação.",
+    "categoria": "Desvio extremamente raro",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "Qual é a regra essencial sobre continuidade?",
+    "resposta": "Demonstrações usam continuidade, salvo intenção ou necessidade de liquidar ou encerrar.",
+    "categoria": "Continuidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Qual é a regra essencial sobre horizonte de continuidade?",
+    "resposta": "A avaliação considera, no mínimo, doze meses após a data do balanço.",
+    "categoria": "Horizonte de continuidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Qual é a regra essencial sobre regime de competência?",
+    "resposta": "Aplica-se a todas as demonstrações, exceto à DFC.",
+    "categoria": "Regime de competência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Qual é a regra essencial sobre materialidade e agregação?",
+    "resposta": "Classes materiais são separadas; itens imateriais podem ser agregados.",
+    "categoria": "Materialidade e agregação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Qual é a regra essencial sobre obscuridade?",
+    "resposta": "Informação material não deve ser escondida por linguagem vaga, dispersão ou agregação inadequada.",
+    "categoria": "Obscuridade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Qual é a regra essencial sobre compensação?",
+    "resposta": "Ativos e passivos, receitas e despesas não são compensados salvo permissão ou exigência específica.",
+    "categoria": "Compensação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Qual é a regra essencial sobre frequência?",
+    "resposta": "O conjunto completo é apresentado pelo menos anualmente.",
+    "categoria": "Frequência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Qual é a regra essencial sobre comparativos?",
+    "resposta": "Devem ser apresentados para o período anterior.",
+    "categoria": "Comparativos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Qual é a regra essencial sobre terceiro balanço?",
+    "resposta": "É exigido quando aplicação retrospectiva, reapresentação ou reclassificação tem efeito material no saldo de abertura.",
+    "categoria": "Terceiro balanço",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Qual é a regra essencial sobre consistência?",
+    "resposta": "Apresentação e classificação são mantidas entre períodos, salvo mudança mais relevante ou exigência normativa.",
+    "categoria": "Consistência",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Qual é a regra essencial sobre identificação?",
+    "resposta": "Cada demonstração e nota deve ser claramente identificada.",
+    "categoria": "Identificação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Qual é a regra essencial sobre informações de identificação?",
+    "resposta": "Nome, individual ou grupo, período, moeda e nível de arredondamento.",
+    "categoria": "Informações de identificação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Qual é a regra essencial sobre ativo circulante?",
+    "resposta": "Realizável no ciclo, mantido para negociação, realizado em até 12 meses ou caixa sem restrição superior a 12 meses.",
+    "categoria": "Ativo circulante",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Qual é a regra essencial sobre passivo circulante?",
+    "resposta": "Liquidado no ciclo, mantido para negociação, vencido em até 12 meses ou sem direito de diferir por pelo menos 12 meses.",
+    "categoria": "Passivo circulante",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Qual é a regra essencial sobre ordem de liquidez?",
+    "resposta": "Pode substituir circulante/não circulante quando for mais confiável e relevante.",
+    "categoria": "Ordem de liquidez",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Qual é a regra essencial sobre impostos diferidos?",
+    "resposta": "Não são classificados como circulantes quando há separação circulante/não circulante.",
+    "categoria": "Impostos diferidos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Qual é a regra essencial sobre balanço patrimonial?",
+    "resposta": "Apresenta contas mínimas, além de contas e subtotais relevantes.",
+    "categoria": "Balanço patrimonial",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Qual é a regra essencial sobre dre e dra?",
+    "resposta": "Apresentam resultado e outros resultados abrangentes, em demonstrações separadas ou seções permitidas.",
+    "categoria": "DRE e DRA",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Qual é a regra essencial sobre itens extraordinários?",
+    "resposta": "Não podem ser apresentados como itens extraordinários.",
+    "categoria": "Itens extraordinários",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Qual é a regra essencial sobre despesas?",
+    "resposta": "Podem ser classificadas por natureza ou função, conforme informação mais confiável e relevante.",
+    "categoria": "Despesas",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Qual é a regra essencial sobre dmpl?",
+    "resposta": "Evidencia resultado abrangente, transações com proprietários e conciliações do patrimônio líquido.",
+    "categoria": "DMPL",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Qual é a regra essencial sobre dfc?",
+    "resposta": "Segue o CPC 03 e integra o conjunto completo.",
+    "categoria": "DFC",
+    "dificuldade": "Difícil"
+  }
+]

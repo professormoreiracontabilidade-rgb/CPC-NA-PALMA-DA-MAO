@@ -235,12 +235,21 @@ window.CPCS = [
   {
     "numero": "26",
     "nome": "Apresentação das Demonstrações Contábeis",
-    "palavras": [
-      "demonstrações contábeis",
-      "balanço",
-      "dre",
-      "apresentação"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-26-R1-Apresentacao-Demonstracoes-Contabeis.pdf",
+    "resumo": "./resumos/cpc26-resumo.html",
+    "mapa": "./mapas/cpc26-mapa.html",
+    "casos": "./casos/cpc26-casos.html",
+    "dicionario": "./resumos/cpc26-dicionario.html",
+    "flashcards": "./resumos/cpc26-flashcards.html",
+    "quizzes": "./quizzes/cpc26-index.html",
+    "comentarios": "./comentarios/cpc26-questoes.html",
+    "banco": "./questoes/cpc26-banco.html",
+    "simulado": "./quizzes/cpc26-simulado.html",
+    "macetes": "./resumos/cpc26-macetes.html",
+    "erros": "./resumos/cpc26-erros.html",
+    "checklist": "./resumos/cpc26-checklist.html",
+    "palavras": ["demonstrações contábeis", "balanço patrimonial", "dre", "dra", "dmpl", "notas explicativas", "materialidade", "continuidade", "comparativos"]
   },
   {
     "numero": "27",

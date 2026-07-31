@@ -88,3 +88,7 @@ Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 2
 
 ## CPC 25 — Provisões, Passivos Contingentes e Ativos Contingentes
 Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 26 (R1) — Apresentação das Demonstrações Contábeis
+Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
