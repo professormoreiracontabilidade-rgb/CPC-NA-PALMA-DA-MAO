@@ -349,11 +349,21 @@ window.CPCS = [
   {
     "numero": "46",
     "nome": "Mensuração do Valor Justo",
-    "palavras": [
-      "valor justo",
-      "hierarquia",
-      "mensuração"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-46-Mensuracao-Valor-Justo.pdf",
+    "resumo": "./resumos/cpc46-resumo.html",
+    "mapa": "./mapas/cpc46-mapa.html",
+    "casos": "./casos/cpc46-casos.html",
+    "dicionario": "./resumos/cpc46-dicionario.html",
+    "flashcards": "./resumos/cpc46-flashcards.html",
+    "quizzes": "./quizzes/cpc46-index.html",
+    "comentarios": "./comentarios/cpc46-questoes.html",
+    "banco": "./questoes/cpc46-banco.html",
+    "simulado": "./quizzes/cpc46-simulado.html",
+    "macetes": "./resumos/cpc46-macetes.html",
+    "erros": "./resumos/cpc46-erros.html",
+    "checklist": "./resumos/cpc46-checklist.html",
+    "palavras": ["valor justo", "preço de saída", "mercado principal", "mercado mais vantajoso", "melhor uso possível", "nível 1", "nível 2", "nível 3", "técnica de avaliação"]
   },
   {
     "numero": "47",
