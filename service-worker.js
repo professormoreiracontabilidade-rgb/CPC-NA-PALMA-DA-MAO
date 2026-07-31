@@ -1,4 +1,4 @@
-const CACHE_NAME = "cpc-na-palma-v26";
+const CACHE_NAME = "cpc-na-palma-v27";
 const APP_SHELL = [
   "./",
   "./service-worker.js",

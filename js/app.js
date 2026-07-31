@@ -119,7 +119,7 @@ function renderMiniList(containerId, numbers) {
 
 function refreshSections() {
   const favorites = read(STORAGE.favorites);
-  const recent = read(STORAGE.recent);
+  const recent = read(STORAGE.recent).slice(0, 1);
   renderMiniList("#favoritesList", favorites);
   renderMiniList("#recentList", recent);
   $("#favoritesSection").classList.toggle("hidden", favorites.length === 0);
@@ -166,9 +166,7 @@ function toggleFavorite(number) {
 }
 
 function addRecent(number) {
-  const recent = read(STORAGE.recent).filter(n => n !== number);
-  recent.unshift(number);
-  write(STORAGE.recent, recent.slice(0, 5));
+  write(STORAGE.recent, [number]);
   refreshSections();
 }
 

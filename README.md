@@ -134,3 +134,7 @@ Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 2
 - CPC 28 recuperado e reposicionado entre os CPCs 27 e 31.
 - Cartões dos CPCs 45, 46, 47 e 48 ocultados temporariamente.
 - Os arquivos internos desses CPCs foram preservados.
+
+
+## Último acesso
+- A área “Últimos acessados” agora exibe somente o último CPC aberto pelo aluno.
