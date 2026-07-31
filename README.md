@@ -80,3 +80,11 @@ Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 2
 
 ## CPC 23 — Políticas Contábeis, Mudança de Estimativa e Retificação de Erro
 Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 24 — Evento Subsequente
+Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.
+
+
+## CPC 25 — Provisões, Passivos Contingentes e Ativos Contingentes
+Módulo completo com PDF, resumo, mapa, 30 casos, dicionário, 300 flashcards, 20 quizzes, 200 questões comentadas, banco, simulado, macetes, erros e checklist.

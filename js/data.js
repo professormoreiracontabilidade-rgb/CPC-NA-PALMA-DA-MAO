@@ -197,20 +197,40 @@ window.CPCS = [
   {
     "numero": "24",
     "nome": "Evento Subsequente",
-    "palavras": [
-      "evento subsequente",
-      "ajuste",
-      "divulgação"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-24-Evento-Subsequente.pdf",
+    "resumo": "./resumos/cpc24-resumo.html",
+    "mapa": "./mapas/cpc24-mapa.html",
+    "casos": "./casos/cpc24-casos.html",
+    "dicionario": "./resumos/cpc24-dicionario.html",
+    "flashcards": "./resumos/cpc24-flashcards.html",
+    "quizzes": "./quizzes/cpc24-index.html",
+    "comentarios": "./comentarios/cpc24-questoes.html",
+    "banco": "./questoes/cpc24-banco.html",
+    "simulado": "./quizzes/cpc24-simulado.html",
+    "macetes": "./resumos/cpc24-macetes.html",
+    "erros": "./resumos/cpc24-erros.html",
+    "checklist": "./resumos/cpc24-checklist.html",
+    "palavras": ["evento subsequente", "ajuste", "não ajuste", "data de autorização", "dividendos", "continuidade", "divulgação"]
   },
   {
     "numero": "25",
     "nome": "Provisões, Passivos Contingentes e Ativos Contingentes",
-    "palavras": [
-      "provisão",
-      "passivo contingente",
-      "ativo contingente"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-25-Provisoes-Contingencias.pdf",
+    "resumo": "./resumos/cpc25-resumo.html",
+    "mapa": "./mapas/cpc25-mapa.html",
+    "casos": "./casos/cpc25-casos.html",
+    "dicionario": "./resumos/cpc25-dicionario.html",
+    "flashcards": "./resumos/cpc25-flashcards.html",
+    "quizzes": "./quizzes/cpc25-index.html",
+    "comentarios": "./comentarios/cpc25-questoes.html",
+    "banco": "./questoes/cpc25-banco.html",
+    "simulado": "./quizzes/cpc25-simulado.html",
+    "macetes": "./resumos/cpc25-macetes.html",
+    "erros": "./resumos/cpc25-erros.html",
+    "checklist": "./resumos/cpc25-checklist.html",
+    "palavras": ["provisão", "passivo contingente", "ativo contingente", "obrigação presente", "contrato oneroso", "reestruturação", "reembolso"]
   },
   {
     "numero": "26",
