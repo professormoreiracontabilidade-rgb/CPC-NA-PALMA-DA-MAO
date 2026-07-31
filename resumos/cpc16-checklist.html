@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Checklist de Revisão | Professor Moreira</title>
+<link rel="stylesheet" href="../assets/cpc16.css">
+</head>
+<body>
+<header><div class="wrap">
+<div class="brand">CPC NA PALMA DA MÃO • PROFESSOR MOREIRA</div>
+<h1>Checklist de Revisão</h1>
+<p>CPC 16 (R1) — Estoques</p>
+</div></header>
+<nav><a href="../index.html">⌂ Aplicativo</a><a href="../resumos/cpc16-resumo.html">Resumo</a><a href="../mapas/cpc16-mapa.html">Mapa</a><a href="../casos/cpc16-casos.html">Casos</a><a href="../resumos/cpc16-flashcards.html">Flashcards</a><a href="../quizzes/cpc16-index.html">Quizzes</a><a href="../comentarios/cpc16-questoes.html">Questões</a><a href="../questoes/cpc16-banco.html">Banco</a></nav>
+<main><section class="card"><h2>Checklist de revisão</h2><div id="checks"><label class="check"><input type="checkbox" data-k="0"> Objetivo</label><label class="check"><input type="checkbox" data-k="1"> Definição de estoque</label><label class="check"><input type="checkbox" data-k="2"> Regra de mensuração</label><label class="check"><input type="checkbox" data-k="3"> Custo de aquisição</label><label class="check"><input type="checkbox" data-k="4"> Descontos e abatimentos</label><label class="check"><input type="checkbox" data-k="5"> Custos de transformação</label><label class="check"><input type="checkbox" data-k="6"> Capacidade normal</label><label class="check"><input type="checkbox" data-k="7"> Ociosidade anormal</label><label class="check"><input type="checkbox" data-k="8"> Produção anormalmente alta</label><label class="check"><input type="checkbox" data-k="9"> Produtos conjuntos</label><label class="check"><input type="checkbox" data-k="10"> Subprodutos imateriais</label><label class="check"><input type="checkbox" data-k="11"> Outros custos</label><label class="check"><input type="checkbox" data-k="12"> Desperdício anormal</label><label class="check"><input type="checkbox" data-k="13"> Armazenagem</label><label class="check"><input type="checkbox" data-k="14"> Despesa administrativa</label><label class="check"><input type="checkbox" data-k="15"> Despesa de comercialização</label><label class="check"><input type="checkbox" data-k="16"> Financiamento embutido</label><label class="check"><input type="checkbox" data-k="17"> Produto agrícola colhido</label><label class="check"><input type="checkbox" data-k="18"> Custo-padrão</label><label class="check"><input type="checkbox" data-k="19"> Método de varejo</label><label class="check"><input type="checkbox" data-k="20"> Identificação específica</label><label class="check"><input type="checkbox" data-k="21"> PEPS</label><label class="check"><input type="checkbox" data-k="22"> Custo médio ponderado</label><label class="check"><input type="checkbox" data-k="23"> Uniformidade</label><label class="check"><input type="checkbox" data-k="24"> Valor realizável líquido</label><label class="check"><input type="checkbox" data-k="25"> VRL versus valor justo</label><label class="check"><input type="checkbox" data-k="26"> Redução ao VRL</label><label class="check"><input type="checkbox" data-k="27"> Avaliação item a item</label><label class="check"><input type="checkbox" data-k="28"> Reversão</label><label class="check"><input type="checkbox" data-k="29"> Reconhecimento no resultado</label><label class="check"><input type="checkbox" data-k="30"> Divulgação</label></div><button id="clear">Limpar marcações</button></section></main>
+<footer>Curso de Contabilidade Professor Moreira • WhatsApp 61 985323574</footer>
+<script>
+const key='cpc16-check',state=JSON.parse(localStorage.getItem(key)||'{}');
+document.querySelectorAll('[data-k]').forEach(c=>{c.checked=!!state[c.dataset.k];c.onchange=()=>{state[c.dataset.k]=c.checked;localStorage.setItem(key,JSON.stringify(state))}});
+clear.onclick=()=>{localStorage.removeItem(key);location.reload()};
+</script>
+</body>
+</html>

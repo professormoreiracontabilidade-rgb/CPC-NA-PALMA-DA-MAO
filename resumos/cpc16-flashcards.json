@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 16 determina sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 16 determina sobre definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 16 determina sobre regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 16 determina sobre custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 16 determina sobre descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 16 determina sobre custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 16 determina sobre capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 16 determina sobre ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 16 determina sobre produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 16 determina sobre produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 16 determina sobre subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 16 determina sobre outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 16 determina sobre desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 16 determina sobre armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 16 determina sobre despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 16 determina sobre despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 16 determina sobre financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 16 determina sobre produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 16 determina sobre custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 16 determina sobre método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 16 determina sobre identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 16 determina sobre peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 16 determina sobre custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 16 determina sobre uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 16 determina sobre valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 16 determina sobre vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 16 determina sobre redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 16 determina sobre avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 16 determina sobre reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 16 determina sobre reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "O que o CPC 16 determina sobre divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "Como deve ser tratado definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "Como deve ser tratado regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "Como deve ser tratado custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "Como deve ser tratado descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "Como deve ser tratado custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "Como deve ser tratado capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "Como deve ser tratado ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como deve ser tratado produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Como deve ser tratado produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Como deve ser tratado subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "Como deve ser tratado outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como deve ser tratado desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como deve ser tratado armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como deve ser tratado despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como deve ser tratado despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como deve ser tratado financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como deve ser tratado produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como deve ser tratado custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como deve ser tratado método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como deve ser tratado identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como deve ser tratado peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como deve ser tratado custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como deve ser tratado uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como deve ser tratado valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como deve ser tratado vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como deve ser tratado redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como deve ser tratado avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como deve ser tratado reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Como deve ser tratado reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual é a regra essencial relativa a objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual é a regra essencial relativa a definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual é a regra essencial relativa a regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Qual é a regra essencial relativa a custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Qual é a regra essencial relativa a descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Qual é a regra essencial relativa a custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Qual é a regra essencial relativa a capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Qual é a regra essencial relativa a ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Qual é a regra essencial relativa a produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual é a regra essencial relativa a produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual é a regra essencial relativa a subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Qual é a regra essencial relativa a outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Qual é a regra essencial relativa a desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Qual é a regra essencial relativa a armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual é a regra essencial relativa a despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual é a regra essencial relativa a despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual é a regra essencial relativa a financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual é a regra essencial relativa a produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual é a regra essencial relativa a custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual é a regra essencial relativa a método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual é a regra essencial relativa a identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual é a regra essencial relativa a peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual é a regra essencial relativa a custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual é a regra essencial relativa a uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual é a regra essencial relativa a valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual é a regra essencial relativa a vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual é a regra essencial relativa a redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é a regra essencial relativa a avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Qual é a regra essencial relativa a reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Qual é a regra essencial relativa a reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Qual é a regra essencial relativa a divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "O que o CPC 16 determina sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "O que o CPC 16 determina sobre definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "O que o CPC 16 determina sobre regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "O que o CPC 16 determina sobre custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "O que o CPC 16 determina sobre descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "O que o CPC 16 determina sobre custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "O que o CPC 16 determina sobre capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "O que o CPC 16 determina sobre ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "O que o CPC 16 determina sobre produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "O que o CPC 16 determina sobre produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "O que o CPC 16 determina sobre subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "O que o CPC 16 determina sobre outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "O que o CPC 16 determina sobre desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "O que o CPC 16 determina sobre armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "O que o CPC 16 determina sobre despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "O que o CPC 16 determina sobre despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "O que o CPC 16 determina sobre financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "O que o CPC 16 determina sobre produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "O que o CPC 16 determina sobre custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "O que o CPC 16 determina sobre método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "O que o CPC 16 determina sobre identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "O que o CPC 16 determina sobre peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "O que o CPC 16 determina sobre custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "O que o CPC 16 determina sobre uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "O que o CPC 16 determina sobre valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "O que o CPC 16 determina sobre vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "O que o CPC 16 determina sobre redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "O que o CPC 16 determina sobre avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "O que o CPC 16 determina sobre reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "O que o CPC 16 determina sobre reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "O que o CPC 16 determina sobre divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "Como deve ser tratado definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "Como deve ser tratado regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "Como deve ser tratado custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "Como deve ser tratado descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "Como deve ser tratado custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "Como deve ser tratado capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "Como deve ser tratado ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "Como deve ser tratado produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "Como deve ser tratado produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "Como deve ser tratado subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "Como deve ser tratado outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "Como deve ser tratado desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "Como deve ser tratado armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "Como deve ser tratado despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "Como deve ser tratado despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "Como deve ser tratado financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "Como deve ser tratado produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "Como deve ser tratado custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "Como deve ser tratado método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "Como deve ser tratado identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "Como deve ser tratado peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "Como deve ser tratado custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "Como deve ser tratado uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "Como deve ser tratado valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "Como deve ser tratado vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "Como deve ser tratado redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "Como deve ser tratado avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "Como deve ser tratado reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "Como deve ser tratado reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "Como deve ser tratado divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "Qual é a regra essencial relativa a objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "Qual é a regra essencial relativa a definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "Qual é a regra essencial relativa a regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "Qual é a regra essencial relativa a custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "Qual é a regra essencial relativa a descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "Qual é a regra essencial relativa a custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "Qual é a regra essencial relativa a capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "Qual é a regra essencial relativa a ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "Qual é a regra essencial relativa a produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "Qual é a regra essencial relativa a produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "Qual é a regra essencial relativa a subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "Qual é a regra essencial relativa a outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "Qual é a regra essencial relativa a desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "Qual é a regra essencial relativa a armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "Qual é a regra essencial relativa a despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual é a regra essencial relativa a despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual é a regra essencial relativa a financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "Qual é a regra essencial relativa a produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "Qual é a regra essencial relativa a custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "Qual é a regra essencial relativa a método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "Qual é a regra essencial relativa a identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "Qual é a regra essencial relativa a peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "Qual é a regra essencial relativa a custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "Qual é a regra essencial relativa a uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "Qual é a regra essencial relativa a valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "Qual é a regra essencial relativa a vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "Qual é a regra essencial relativa a redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "Qual é a regra essencial relativa a avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "Qual é a regra essencial relativa a reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "Qual é a regra essencial relativa a reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "Qual é a regra essencial relativa a divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "Em uma prova, qual afirmação correta se aplica a divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "O que o CPC 16 determina sobre objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "O que o CPC 16 determina sobre definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "O que o CPC 16 determina sobre regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "O que o CPC 16 determina sobre custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "O que o CPC 16 determina sobre descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "O que o CPC 16 determina sobre custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "O que o CPC 16 determina sobre capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "O que o CPC 16 determina sobre ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "O que o CPC 16 determina sobre produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "O que o CPC 16 determina sobre produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "O que o CPC 16 determina sobre subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "O que o CPC 16 determina sobre outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "O que o CPC 16 determina sobre desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "O que o CPC 16 determina sobre armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "O que o CPC 16 determina sobre despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "O que o CPC 16 determina sobre despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "O que o CPC 16 determina sobre financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "O que o CPC 16 determina sobre produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "O que o CPC 16 determina sobre custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "O que o CPC 16 determina sobre método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "O que o CPC 16 determina sobre identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "O que o CPC 16 determina sobre peps?",
+    "resposta": "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+    "categoria": "PEPS",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "O que o CPC 16 determina sobre custo médio ponderado?",
+    "resposta": "Determina o custo pela média ponderada dos itens semelhantes.",
+    "categoria": "Custo médio ponderado",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "O que o CPC 16 determina sobre uniformidade?",
+    "resposta": "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+    "categoria": "Uniformidade",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "O que o CPC 16 determina sobre valor realizável líquido?",
+    "resposta": "Preço estimado de venda menos custos estimados de conclusão e venda.",
+    "categoria": "Valor realizável líquido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "O que o CPC 16 determina sobre vrl versus valor justo?",
+    "resposta": "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+    "categoria": "VRL versus valor justo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "O que o CPC 16 determina sobre redução ao vrl?",
+    "resposta": "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+    "categoria": "Redução ao VRL",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "O que o CPC 16 determina sobre avaliação item a item?",
+    "resposta": "Em regra, a redução ao VRL é feita item a item.",
+    "categoria": "Avaliação item a item",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "O que o CPC 16 determina sobre reversão?",
+    "resposta": "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+    "categoria": "Reversão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "O que o CPC 16 determina sobre reconhecimento no resultado?",
+    "resposta": "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+    "categoria": "Reconhecimento no resultado",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "O que o CPC 16 determina sobre divulgação?",
+    "resposta": "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+    "categoria": "Divulgação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Como deve ser tratado objetivo?",
+    "resposta": "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Como deve ser tratado definição de estoque?",
+    "resposta": "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+    "categoria": "Definição de estoque",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Como deve ser tratado regra de mensuração?",
+    "resposta": "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+    "categoria": "Regra de mensuração",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Como deve ser tratado custo de aquisição?",
+    "resposta": "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+    "categoria": "Custo de aquisição",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Como deve ser tratado descontos e abatimentos?",
+    "resposta": "Reduzem o custo de aquisição dos estoques.",
+    "categoria": "Descontos e abatimentos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Como deve ser tratado custos de transformação?",
+    "resposta": "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+    "categoria": "Custos de transformação",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Como deve ser tratado capacidade normal?",
+    "resposta": "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+    "categoria": "Capacidade normal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Como deve ser tratado ociosidade anormal?",
+    "resposta": "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+    "categoria": "Ociosidade anormal",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Como deve ser tratado produção anormalmente alta?",
+    "resposta": "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+    "categoria": "Produção anormalmente alta",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Como deve ser tratado produtos conjuntos?",
+    "resposta": "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+    "categoria": "Produtos conjuntos",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Como deve ser tratado subprodutos imateriais?",
+    "resposta": "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+    "categoria": "Subprodutos imateriais",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Como deve ser tratado outros custos?",
+    "resposta": "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+    "categoria": "Outros custos",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Como deve ser tratado desperdício anormal?",
+    "resposta": "É despesa do período, não custo do estoque.",
+    "categoria": "Desperdício anormal",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Como deve ser tratado armazenagem?",
+    "resposta": "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+    "categoria": "Armazenagem",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Como deve ser tratado despesa administrativa?",
+    "resposta": "Não integra o estoque se não contribuir para local e condição atuais.",
+    "categoria": "Despesa administrativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Como deve ser tratado despesa de comercialização?",
+    "resposta": "Não integra o custo dos estoques.",
+    "categoria": "Despesa de comercialização",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Como deve ser tratado financiamento embutido?",
+    "resposta": "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+    "categoria": "Financiamento embutido",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Como deve ser tratado produto agrícola colhido?",
+    "resposta": "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+    "categoria": "Produto agrícola colhido",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Como deve ser tratado custo-padrão?",
+    "resposta": "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+    "categoria": "Custo-padrão",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Como deve ser tratado método de varejo?",
+    "resposta": "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+    "categoria": "Método de varejo",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Como deve ser tratado identificação específica?",
+    "resposta": "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+    "categoria": "Identificação específica",
+    "dificuldade": "Difícil"
+  }
+]

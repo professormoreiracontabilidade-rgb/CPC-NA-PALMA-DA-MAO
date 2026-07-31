@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 2,
+    "tema": "Definição de estoque",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 3,
+    "tema": "Regra de mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 4,
+    "tema": "Custo de aquisição",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 5,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Reduzem o custo de aquisição dos estoques."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 6,
+    "tema": "Custos de transformação",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 7,
+    "tema": "Capacidade normal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 8,
+    "tema": "Ociosidade anormal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 9,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 10,
+    "tema": "Produtos conjuntos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 11,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 12,
+    "tema": "Outros custos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 13,
+    "tema": "Desperdício anormal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "É despesa do período, não custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 14,
+    "tema": "Armazenagem",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 15,
+    "tema": "Despesa administrativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa administrativa.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Não integra o estoque se não contribuir para local e condição atuais."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o estoque se não contribuir para local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 16,
+    "tema": "Despesa de comercialização",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa de comercialização.",
+    "alternativas": [
+      "Não integra o custo dos estoques.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o custo dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 17,
+    "tema": "Financiamento embutido",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre financiamento embutido.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 18,
+    "tema": "Produto agrícola colhido",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produto agrícola colhido.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 19,
+    "tema": "Custo-padrão",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo-padrão.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado se aproximar-se do custo e deve ser revisto regularmente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 20,
+    "tema": "Método de varejo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre método de varejo.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado em itens numerosos, de giro rápido e margens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 21,
+    "tema": "Identificação específica",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre identificação específica.",
+    "alternativas": [
+      "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Aplica-se a itens não intercambiáveis ou segregados para projetos específicos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 22,
+    "tema": "PEPS",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre peps.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 23,
+    "tema": "Custo médio ponderado",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo médio ponderado.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Determina o custo pela média ponderada dos itens semelhantes.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Determina o custo pela média ponderada dos itens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 24,
+    "tema": "Uniformidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre uniformidade.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 25,
+    "tema": "Valor realizável líquido",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre valor realizável líquido.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Preço estimado de venda menos custos estimados de conclusão e venda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Preço estimado de venda menos custos estimados de conclusão e venda. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 26,
+    "tema": "VRL versus valor justo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre vrl versus valor justo.",
+    "alternativas": [
+      "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: O VRL é específico da entidade; o valor justo é baseado no mercado. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 27,
+    "tema": "Redução ao VRL",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre redução ao vrl.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 28,
+    "tema": "Avaliação item a item",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre avaliação item a item.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Em regra, a redução ao VRL é feita item a item.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Em regra, a redução ao VRL é feita item a item. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 29,
+    "tema": "Reversão",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reversão.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É permitida quando as causas da redução deixam de existir, limitada à perda original. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 30,
+    "tema": "Reconhecimento no resultado",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reconhecimento no resultado.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 31,
+    "tema": "Divulgação",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre divulgação.",
+    "alternativas": [
+      "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 32,
+    "tema": "Objetivo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 33,
+    "tema": "Definição de estoque",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 34,
+    "tema": "Regra de mensuração",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 35,
+    "tema": "Custo de aquisição",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 36,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "Reduzem o custo de aquisição dos estoques.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 37,
+    "tema": "Custos de transformação",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 38,
+    "tema": "Capacidade normal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 39,
+    "tema": "Ociosidade anormal",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 40,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 41,
+    "tema": "Produtos conjuntos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 42,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 43,
+    "tema": "Outros custos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 44,
+    "tema": "Desperdício anormal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "É despesa do período, não custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 45,
+    "tema": "Armazenagem",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 46,
+    "tema": "Despesa administrativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa administrativa.",
+    "alternativas": [
+      "Não integra o estoque se não contribuir para local e condição atuais.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o estoque se não contribuir para local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 47,
+    "tema": "Despesa de comercialização",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa de comercialização.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Não integra o custo dos estoques.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o custo dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 48,
+    "tema": "Financiamento embutido",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre financiamento embutido.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 49,
+    "tema": "Produto agrícola colhido",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produto agrícola colhido.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 50,
+    "tema": "Custo-padrão",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo-padrão.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado se aproximar-se do custo e deve ser revisto regularmente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 51,
+    "tema": "Método de varejo",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre método de varejo.",
+    "alternativas": [
+      "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado em itens numerosos, de giro rápido e margens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 52,
+    "tema": "Identificação específica",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre identificação específica.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Aplica-se a itens não intercambiáveis ou segregados para projetos específicos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 53,
+    "tema": "PEPS",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre peps.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 54,
+    "tema": "Custo médio ponderado",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo médio ponderado.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Determina o custo pela média ponderada dos itens semelhantes.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Determina o custo pela média ponderada dos itens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 55,
+    "tema": "Uniformidade",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre uniformidade.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 56,
+    "tema": "Valor realizável líquido",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre valor realizável líquido.",
+    "alternativas": [
+      "Preço estimado de venda menos custos estimados de conclusão e venda.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Preço estimado de venda menos custos estimados de conclusão e venda. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 57,
+    "tema": "VRL versus valor justo",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre vrl versus valor justo.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: O VRL é específico da entidade; o valor justo é baseado no mercado. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 58,
+    "tema": "Redução ao VRL",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre redução ao vrl.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 59,
+    "tema": "Avaliação item a item",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre avaliação item a item.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Em regra, a redução ao VRL é feita item a item.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Em regra, a redução ao VRL é feita item a item. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 60,
+    "tema": "Reversão",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reversão.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "É permitida quando as causas da redução deixam de existir, limitada à perda original."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: É permitida quando as causas da redução deixam de existir, limitada à perda original. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 61,
+    "tema": "Reconhecimento no resultado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reconhecimento no resultado.",
+    "alternativas": [
+      "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 62,
+    "tema": "Divulgação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre divulgação.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 63,
+    "tema": "Objetivo",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 64,
+    "tema": "Definição de estoque",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 65,
+    "tema": "Regra de mensuração",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 66,
+    "tema": "Custo de aquisição",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 67,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Reduzem o custo de aquisição dos estoques.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 68,
+    "tema": "Custos de transformação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 69,
+    "tema": "Capacidade normal",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 70,
+    "tema": "Ociosidade anormal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 71,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 72,
+    "tema": "Produtos conjuntos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 73,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 74,
+    "tema": "Outros custos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 75,
+    "tema": "Desperdício anormal",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "É despesa do período, não custo do estoque."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 76,
+    "tema": "Armazenagem",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 77,
+    "tema": "Despesa administrativa",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa administrativa.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Não integra o estoque se não contribuir para local e condição atuais.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o estoque se não contribuir para local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 78,
+    "tema": "Despesa de comercialização",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa de comercialização.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Não integra o custo dos estoques.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o custo dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 79,
+    "tema": "Financiamento embutido",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre financiamento embutido.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 80,
+    "tema": "Produto agrícola colhido",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produto agrícola colhido.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 81,
+    "tema": "Custo-padrão",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo-padrão.",
+    "alternativas": [
+      "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado se aproximar-se do custo e deve ser revisto regularmente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 82,
+    "tema": "Método de varejo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre método de varejo.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado em itens numerosos, de giro rápido e margens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 83,
+    "tema": "Identificação específica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre identificação específica.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Aplica-se a itens não intercambiáveis ou segregados para projetos específicos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 84,
+    "tema": "PEPS",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre peps.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 85,
+    "tema": "Custo médio ponderado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo médio ponderado.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Determina o custo pela média ponderada dos itens semelhantes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Determina o custo pela média ponderada dos itens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 86,
+    "tema": "Uniformidade",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre uniformidade.",
+    "alternativas": [
+      "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 87,
+    "tema": "Valor realizável líquido",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre valor realizável líquido.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Preço estimado de venda menos custos estimados de conclusão e venda.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Preço estimado de venda menos custos estimados de conclusão e venda. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 88,
+    "tema": "VRL versus valor justo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre vrl versus valor justo.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: O VRL é específico da entidade; o valor justo é baseado no mercado. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 89,
+    "tema": "Redução ao VRL",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre redução ao vrl.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 90,
+    "tema": "Avaliação item a item",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre avaliação item a item.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Em regra, a redução ao VRL é feita item a item."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Em regra, a redução ao VRL é feita item a item. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 91,
+    "tema": "Reversão",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reversão.",
+    "alternativas": [
+      "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: É permitida quando as causas da redução deixam de existir, limitada à perda original. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 92,
+    "tema": "Reconhecimento no resultado",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reconhecimento no resultado.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 93,
+    "tema": "Divulgação",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre divulgação.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 94,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 95,
+    "tema": "Definição de estoque",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 96,
+    "tema": "Regra de mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 97,
+    "tema": "Custo de aquisição",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 98,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Reduzem o custo de aquisição dos estoques.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 99,
+    "tema": "Custos de transformação",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 100,
+    "tema": "Capacidade normal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 101,
+    "tema": "Ociosidade anormal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Desperdício anormal deve ser capitalizado no estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 102,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 103,
+    "tema": "Produtos conjuntos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 104,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 105,
+    "tema": "Outros custos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 106,
+    "tema": "Desperdício anormal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "É despesa do período, não custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 107,
+    "tema": "Armazenagem",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 108,
+    "tema": "Despesa administrativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa administrativa.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Não integra o estoque se não contribuir para local e condição atuais.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o estoque se não contribuir para local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 109,
+    "tema": "Despesa de comercialização",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa de comercialização.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Não integra o custo dos estoques.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o custo dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 110,
+    "tema": "Financiamento embutido",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre financiamento embutido.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 111,
+    "tema": "Produto agrícola colhido",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produto agrícola colhido.",
+    "alternativas": [
+      "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 112,
+    "tema": "Custo-padrão",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo-padrão.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado se aproximar-se do custo e deve ser revisto regularmente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 113,
+    "tema": "Método de varejo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre método de varejo.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado em itens numerosos, de giro rápido e margens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 114,
+    "tema": "Identificação específica",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre identificação específica.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Aplica-se a itens não intercambiáveis ou segregados para projetos específicos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 115,
+    "tema": "PEPS",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre peps.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 116,
+    "tema": "Custo médio ponderado",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo médio ponderado.",
+    "alternativas": [
+      "Determina o custo pela média ponderada dos itens semelhantes.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Determina o custo pela média ponderada dos itens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 117,
+    "tema": "Uniformidade",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre uniformidade.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 118,
+    "tema": "Valor realizável líquido",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre valor realizável líquido.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Preço estimado de venda menos custos estimados de conclusão e venda.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Preço estimado de venda menos custos estimados de conclusão e venda. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 119,
+    "tema": "VRL versus valor justo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre vrl versus valor justo.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: O VRL é específico da entidade; o valor justo é baseado no mercado. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 120,
+    "tema": "Redução ao VRL",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre redução ao vrl.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 121,
+    "tema": "Avaliação item a item",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre avaliação item a item.",
+    "alternativas": [
+      "Em regra, a redução ao VRL é feita item a item.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Em regra, a redução ao VRL é feita item a item. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 122,
+    "tema": "Reversão",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reversão.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: É permitida quando as causas da redução deixam de existir, limitada à perda original. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 123,
+    "tema": "Reconhecimento no resultado",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reconhecimento no resultado.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 124,
+    "tema": "Divulgação",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre divulgação.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 125,
+    "tema": "Objetivo",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 126,
+    "tema": "Definição de estoque",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 127,
+    "tema": "Regra de mensuração",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 128,
+    "tema": "Custo de aquisição",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 129,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Reduzem o custo de aquisição dos estoques.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 130,
+    "tema": "Custos de transformação",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 131,
+    "tema": "Capacidade normal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 132,
+    "tema": "Ociosidade anormal",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 133,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 134,
+    "tema": "Produtos conjuntos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 135,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 136,
+    "tema": "Outros custos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 137,
+    "tema": "Desperdício anormal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "É despesa do período, não custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 138,
+    "tema": "Armazenagem",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 139,
+    "tema": "Despesa administrativa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa administrativa.",
+    "alternativas": [
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Não integra o estoque se não contribuir para local e condição atuais.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o estoque se não contribuir para local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 140,
+    "tema": "Despesa de comercialização",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa de comercialização.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Não integra o custo dos estoques."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o custo dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 141,
+    "tema": "Financiamento embutido",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre financiamento embutido.",
+    "alternativas": [
+      "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 142,
+    "tema": "Produto agrícola colhido",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produto agrícola colhido.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 143,
+    "tema": "Custo-padrão",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo-padrão.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado se aproximar-se do custo e deve ser revisto regularmente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 144,
+    "tema": "Método de varejo",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre método de varejo.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado em itens numerosos, de giro rápido e margens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 145,
+    "tema": "Identificação específica",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre identificação específica.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Aplica-se a itens não intercambiáveis ou segregados para projetos específicos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 146,
+    "tema": "PEPS",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre peps.",
+    "alternativas": [
+      "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 147,
+    "tema": "Custo médio ponderado",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo médio ponderado.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Determina o custo pela média ponderada dos itens semelhantes.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Determina o custo pela média ponderada dos itens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 148,
+    "tema": "Uniformidade",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre uniformidade.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 149,
+    "tema": "Valor realizável líquido",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre valor realizável líquido.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Preço estimado de venda menos custos estimados de conclusão e venda.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Preço estimado de venda menos custos estimados de conclusão e venda. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 150,
+    "tema": "VRL versus valor justo",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre vrl versus valor justo.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O VRL é específico da entidade; o valor justo é baseado no mercado."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: O VRL é específico da entidade; o valor justo é baseado no mercado. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 151,
+    "tema": "Redução ao VRL",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre redução ao vrl.",
+    "alternativas": [
+      "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 152,
+    "tema": "Avaliação item a item",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre avaliação item a item.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Em regra, a redução ao VRL é feita item a item.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Em regra, a redução ao VRL é feita item a item. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 153,
+    "tema": "Reversão",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reversão.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: É permitida quando as causas da redução deixam de existir, limitada à perda original. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 154,
+    "tema": "Reconhecimento no resultado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reconhecimento no resultado.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 155,
+    "tema": "Divulgação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre divulgação.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 156,
+    "tema": "Objetivo",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 157,
+    "tema": "Definição de estoque",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 158,
+    "tema": "Regra de mensuração",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 159,
+    "tema": "Custo de aquisição",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 160,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Reduzem o custo de aquisição dos estoques."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 161,
+    "tema": "Custos de transformação",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 162,
+    "tema": "Capacidade normal",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 163,
+    "tema": "Ociosidade anormal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 164,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 165,
+    "tema": "Produtos conjuntos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 166,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 167,
+    "tema": "Outros custos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 168,
+    "tema": "Desperdício anormal",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "É despesa do período, não custo do estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 169,
+    "tema": "Armazenagem",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 170,
+    "tema": "Despesa administrativa",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa administrativa.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Não integra o estoque se não contribuir para local e condição atuais."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o estoque se não contribuir para local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 171,
+    "tema": "Despesa de comercialização",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre despesa de comercialização.",
+    "alternativas": [
+      "Não integra o custo dos estoques.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Não integra o custo dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 172,
+    "tema": "Financiamento embutido",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre financiamento embutido.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: A diferença entre preço normal e valor a prazo é despesa de juros ao longo do financiamento. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 173,
+    "tema": "Produto agrícola colhido",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produto agrícola colhido.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: No reconhecimento inicial, o valor justo menos gastos no ponto de venda torna-se o custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 174,
+    "tema": "Custo-padrão",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo-padrão.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Pode ser usado se aproximar-se do custo e deve ser revisto regularmente.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado se aproximar-se do custo e deve ser revisto regularmente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 175,
+    "tema": "Método de varejo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre método de varejo.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Pode ser usado em itens numerosos, de giro rápido e margens semelhantes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Pode ser usado em itens numerosos, de giro rápido e margens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 176,
+    "tema": "Identificação específica",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre identificação específica.",
+    "alternativas": [
+      "Aplica-se a itens não intercambiáveis ou segregados para projetos específicos.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Aplica-se a itens não intercambiáveis ou segregados para projetos específicos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 177,
+    "tema": "PEPS",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre peps.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "A reversão de perda pode superar a redução originalmente reconhecida."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Pressupõe que os itens comprados ou produzidos primeiro são vendidos primeiro. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 178,
+    "tema": "Custo médio ponderado",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo médio ponderado.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Determina o custo pela média ponderada dos itens semelhantes.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Determina o custo pela média ponderada dos itens semelhantes. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 179,
+    "tema": "Uniformidade",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre uniformidade.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Estoques de natureza e uso semelhantes devem usar o mesmo critério de valoração. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 180,
+    "tema": "Valor realizável líquido",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre valor realizável líquido.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Preço estimado de venda menos custos estimados de conclusão e venda."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Preço estimado de venda menos custos estimados de conclusão e venda. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 181,
+    "tema": "VRL versus valor justo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre vrl versus valor justo.",
+    "alternativas": [
+      "O VRL é específico da entidade; o valor justo é baseado no mercado.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: O VRL é específico da entidade; o valor justo é baseado no mercado. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 182,
+    "tema": "Redução ao VRL",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre redução ao vrl.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: É reconhecida quando custo não é recuperável por dano, obsolescência, queda de preço ou aumento de custos. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 183,
+    "tema": "Avaliação item a item",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre avaliação item a item.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Em regra, a redução ao VRL é feita item a item.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Em regra, a redução ao VRL é feita item a item. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 184,
+    "tema": "Reversão",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reversão.",
+    "alternativas": [
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "É permitida quando as causas da redução deixam de existir, limitada à perda original.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É permitida quando as causas da redução deixam de existir, limitada à perda original. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 185,
+    "tema": "Reconhecimento no resultado",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre reconhecimento no resultado.",
+    "alternativas": [
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Quando vendido, o custo do estoque é reconhecido como despesa no mesmo período da receita. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 186,
+    "tema": "Divulgação",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre divulgação.",
+    "alternativas": [
+      "Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui políticas contábeis, critérios de valoração, saldos, despesas, reduções, reversões e estoques dados em garantia. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 187,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Estabelecer o tratamento contábil dos estoques, incluindo mensuração do custo, reconhecimento como despesa e redução ao valor realizável líquido. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 188,
+    "tema": "Definição de estoque",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre definição de estoque.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Ativo mantido para venda, em processo de produção para venda ou na forma de materiais e suprimentos a consumir ou transformar. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 189,
+    "tema": "Regra de mensuração",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre regra de mensuração.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor.",
+      "O método UEPS é o critério obrigatório do CPC 16."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Os estoques são mensurados pelo custo ou pelo valor realizável líquido, dos dois o menor. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 190,
+    "tema": "Custo de aquisição",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custo de aquisição.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: Inclui preço de compra, impostos não recuperáveis, transporte, seguro, manuseio e outros gastos diretamente atribuíveis. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 191,
+    "tema": "Descontos e abatimentos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre descontos e abatimentos.",
+    "alternativas": [
+      "Reduzem o custo de aquisição dos estoques.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Reduzem o custo de aquisição dos estoques. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 192,
+    "tema": "Custos de transformação",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre custos de transformação.",
+    "alternativas": [
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Incluem mão de obra direta e alocação sistemática de custos indiretos fixos e variáveis de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 193,
+    "tema": "Capacidade normal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre capacidade normal.",
+    "alternativas": [
+      "Despesa de comercialização integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "A alocação dos custos fixos deve basear-se na capacidade normal de produção.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Valor realizável líquido e valor justo são necessariamente iguais."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: A alocação dos custos fixos deve basear-se na capacidade normal de produção. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 194,
+    "tema": "Ociosidade anormal",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre ociosidade anormal.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa.",
+      "Despesa de comercialização integra o custo do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos fixos não alocados por baixo volume ou ociosidade são reconhecidos diretamente como despesa. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 195,
+    "tema": "Produção anormalmente alta",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produção anormalmente alta.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "Tributos recuperáveis sempre integram o custo de aquisição.",
+      "O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: O custo fixo por unidade deve ser reduzido para evitar estoque acima do custo. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 196,
+    "tema": "Produtos conjuntos",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre produtos conjuntos.",
+    "alternativas": [
+      "Custos não identificáveis separadamente são atribuídos em base racional e consistente.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 16: Custos não identificáveis separadamente são atribuídos em base racional e consistente. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 197,
+    "tema": "Subprodutos imateriais",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre subprodutos imateriais.",
+    "alternativas": [
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "O estoque deve ser mensurado sempre pelo maior entre custo e VRL."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 16: Podem ser mensurados pelo valor realizável líquido, deduzido do custo do produto principal. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 198,
+    "tema": "Outros custos",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre outros custos.",
+    "alternativas": [
+      "O método UEPS é o critério obrigatório do CPC 16.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Só entram no estoque se forem necessários para trazer o item ao local e condição atuais.",
+      "A reversão de perda pode superar a redução originalmente reconhecida.",
+      "Todo gasto administrativo integra o custo do estoque."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 16: Só entram no estoque se forem necessários para trazer o item ao local e condição atuais. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 199,
+    "tema": "Desperdício anormal",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre desperdício anormal.",
+    "alternativas": [
+      "Desperdício anormal deve ser capitalizado no estoque.",
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Despesa de comercialização integra o custo do estoque.",
+      "É despesa do período, não custo do estoque.",
+      "Ociosidade anormal aumenta o custo unitário do estoque."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa do período, não custo do estoque. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  },
+  {
+    "id": 200,
+    "tema": "Armazenagem",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 16 (R1), assinale a alternativa correta sobre armazenagem.",
+    "alternativas": [
+      "O custo só é reconhecido como despesa quando o caixa da venda é recebido.",
+      "Ociosidade anormal aumenta o custo unitário do estoque.",
+      "Valor realizável líquido e valor justo são necessariamente iguais.",
+      "Todo gasto administrativo integra o custo do estoque.",
+      "É despesa, salvo quando necessária ao processo produtivo entre etapas."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 16: É despesa, salvo quando necessária ao processo produtivo entre etapas. As demais opções contrariam os critérios de mensuração, custeio, redução ao VRL ou reconhecimento."
+  }
+]

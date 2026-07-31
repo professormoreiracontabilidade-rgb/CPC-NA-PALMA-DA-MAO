@@ -140,12 +140,21 @@ window.CPCS = [
   {
     "numero": "16",
     "nome": "Estoques",
-    "palavras": [
-      "estoques",
-      "custo médio",
-      "peps",
-      "valor realizável líquido"
-    ]
+    "ativo": true,
+    "pdf": "./pdf/CPC-16-R1-Estoques.pdf",
+    "resumo": "./resumos/cpc16-resumo.html",
+    "mapa": "./mapas/cpc16-mapa.html",
+    "casos": "./casos/cpc16-casos.html",
+    "dicionario": "./resumos/cpc16-dicionario.html",
+    "flashcards": "./resumos/cpc16-flashcards.html",
+    "quizzes": "./quizzes/cpc16-index.html",
+    "comentarios": "./comentarios/cpc16-questoes.html",
+    "banco": "./questoes/cpc16-banco.html",
+    "simulado": "./quizzes/cpc16-simulado.html",
+    "macetes": "./resumos/cpc16-macetes.html",
+    "erros": "./resumos/cpc16-erros.html",
+    "checklist": "./resumos/cpc16-checklist.html",
+    "palavras": ["estoques", "custo", "valor realizável líquido", "vrl", "peps", "custo médio", "capacidade normal", "desperdício", "obsolescência"]
   },
   {
     "numero": "18",
