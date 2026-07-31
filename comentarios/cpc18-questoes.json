@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O goodwill deve ser amortizado.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 2,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "O investimento não está sujeito a impairment.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 3,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 4,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 5,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 6,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "20% sempre significa controle.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 7,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "Joint venture significa controle individual.",
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 8,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "20% sempre significa controle.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 9,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Transações upstream nunca exigem eliminação.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 10,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 11,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual.",
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 12,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "O investimento não está sujeito a impairment.",
+      "O goodwill deve ser amortizado.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 13,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 14,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle.",
+      "Joint venture significa controle individual.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 15,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 16,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 17,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 18,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 19,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 20,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 21,
+    "tema": "Goodwill",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre goodwill.",
+    "alternativas": [
+      "Integra o valor contábil do investimento e não é amortizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Integra o valor contábil do investimento e não é amortizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 22,
+    "tema": "Compra vantajosa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre compra vantajosa.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+      "Joint venture significa controle individual.",
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 23,
+    "tema": "Data das demonstrações",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre data das demonstrações.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Usa-se a demonstração mais recente da investida.",
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Usa-se a demonstração mais recente da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 24,
+    "tema": "Defasagem máxima",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre defasagem máxima.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "A diferença entre datas de encerramento não pode superar três meses.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: A diferença entre datas de encerramento não pode superar três meses. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 25,
+    "tema": "Políticas uniformes",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre políticas uniformes.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Devem ser ajustadas para práticas contábeis uniformes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser ajustadas para práticas contábeis uniformes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 26,
+    "tema": "Prejuízos além do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre prejuízos além do investimento.",
+    "alternativas": [
+      "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 27,
+    "tema": "Retomada de lucros",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre retomada de lucros.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Só ocorre após compensar perdas não reconhecidas.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Só ocorre após compensar perdas não reconhecidas. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 28,
+    "tema": "Impairment",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Dividendos aumentam o investimento.",
+      "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+      "Transações upstream nunca exigem eliminação.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Após o MEP, avalia-se evidência objetiva de perda no investimento líquido. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 29,
+    "tema": "Teste do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre teste do investimento.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O investimento líquido, incluindo goodwill, é testado como um único ativo. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 30,
+    "tema": "Demonstrações separadas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre demonstrações separadas.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "O investimento não está sujeito a impairment.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Seguem o CPC 35 para a contabilização do investimento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Seguem o CPC 35 para a contabilização do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 31,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "O goodwill deve ser amortizado.",
+      "Dividendos aumentam o investimento.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 32,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 33,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "20% sempre significa controle.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 34,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 35,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Transações upstream nunca exigem eliminação.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 36,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "Joint venture significa controle individual.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 37,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "O goodwill deve ser amortizado.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 38,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "20% sempre significa controle.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 39,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O investimento não está sujeito a impairment.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 40,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 41,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 42,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 43,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 44,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 45,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 46,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O goodwill deve ser amortizado.",
+      "Joint venture significa controle individual.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 47,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 48,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "O goodwill deve ser amortizado.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 49,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 50,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Transações upstream nunca exigem eliminação.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 51,
+    "tema": "Goodwill",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre goodwill.",
+    "alternativas": [
+      "Integra o valor contábil do investimento e não é amortizado.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Integra o valor contábil do investimento e não é amortizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 52,
+    "tema": "Compra vantajosa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre compra vantajosa.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 53,
+    "tema": "Data das demonstrações",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre data das demonstrações.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual.",
+      "Usa-se a demonstração mais recente da investida.",
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Usa-se a demonstração mais recente da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 54,
+    "tema": "Defasagem máxima",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre defasagem máxima.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "A diferença entre datas de encerramento não pode superar três meses.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: A diferença entre datas de encerramento não pode superar três meses. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 55,
+    "tema": "Políticas uniformes",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre políticas uniformes.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado.",
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Devem ser ajustadas para práticas contábeis uniformes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser ajustadas para práticas contábeis uniformes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 56,
+    "tema": "Prejuízos além do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre prejuízos além do investimento.",
+    "alternativas": [
+      "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+      "20% sempre significa controle.",
+      "O investimento não está sujeito a impairment.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 57,
+    "tema": "Retomada de lucros",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre retomada de lucros.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Só ocorre após compensar perdas não reconhecidas.",
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Só ocorre após compensar perdas não reconhecidas. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 58,
+    "tema": "Impairment",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Após o MEP, avalia-se evidência objetiva de perda no investimento líquido. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 59,
+    "tema": "Teste do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre teste do investimento.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O investimento líquido, incluindo goodwill, é testado como um único ativo. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 60,
+    "tema": "Demonstrações separadas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre demonstrações separadas.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Seguem o CPC 35 para a contabilização do investimento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Seguem o CPC 35 para a contabilização do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 61,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "20% sempre significa controle.",
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 62,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Dividendos aumentam o investimento.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 63,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 64,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Dividendos aumentam o investimento.",
+      "20% sempre significa controle.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 65,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "20% sempre significa controle.",
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 66,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 67,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "Joint venture significa controle individual.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 68,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "20% sempre significa controle.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 69,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 70,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Joint venture significa controle individual.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 71,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 72,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 73,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "O investimento não está sujeito a impairment.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 74,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 75,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação.",
+      "O goodwill deve ser amortizado.",
+      "Dividendos aumentam o investimento.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 76,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 77,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "O goodwill deve ser amortizado.",
+      "Joint venture significa controle individual.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 78,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 79,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 80,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 81,
+    "tema": "Goodwill",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre goodwill.",
+    "alternativas": [
+      "Integra o valor contábil do investimento e não é amortizado.",
+      "20% sempre significa controle.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Integra o valor contábil do investimento e não é amortizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 82,
+    "tema": "Compra vantajosa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre compra vantajosa.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 83,
+    "tema": "Data das demonstrações",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre data das demonstrações.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Usa-se a demonstração mais recente da investida.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Usa-se a demonstração mais recente da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 84,
+    "tema": "Defasagem máxima",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre defasagem máxima.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A diferença entre datas de encerramento não pode superar três meses.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: A diferença entre datas de encerramento não pode superar três meses. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 85,
+    "tema": "Políticas uniformes",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre políticas uniformes.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O investimento não está sujeito a impairment.",
+      "Transações upstream nunca exigem eliminação.",
+      "Devem ser ajustadas para práticas contábeis uniformes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser ajustadas para práticas contábeis uniformes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 86,
+    "tema": "Prejuízos além do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre prejuízos além do investimento.",
+    "alternativas": [
+      "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 87,
+    "tema": "Retomada de lucros",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre retomada de lucros.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Só ocorre após compensar perdas não reconhecidas.",
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Só ocorre após compensar perdas não reconhecidas. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 88,
+    "tema": "Impairment",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Após o MEP, avalia-se evidência objetiva de perda no investimento líquido. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 89,
+    "tema": "Teste do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre teste do investimento.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "O goodwill deve ser amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O investimento líquido, incluindo goodwill, é testado como um único ativo. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 90,
+    "tema": "Demonstrações separadas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre demonstrações separadas.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment.",
+      "Seguem o CPC 35 para a contabilização do investimento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Seguem o CPC 35 para a contabilização do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 91,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 92,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 93,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 94,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 95,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Dividendos aumentam o investimento.",
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 96,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 97,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "O goodwill deve ser amortizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 98,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 99,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 100,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 101,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "O MEP reconhece somente dividendos.",
+      "Joint venture significa controle individual.",
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 102,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "Joint venture significa controle individual.",
+      "O goodwill deve ser amortizado.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 103,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Joint venture significa controle individual.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 104,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 105,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Joint venture significa controle individual.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 106,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O MEP reconhece somente dividendos.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 107,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 108,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "O investimento não está sujeito a impairment.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 109,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O goodwill deve ser amortizado.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 110,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Joint venture significa controle individual.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 111,
+    "tema": "Goodwill",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre goodwill.",
+    "alternativas": [
+      "Integra o valor contábil do investimento e não é amortizado.",
+      "O goodwill deve ser amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Integra o valor contábil do investimento e não é amortizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 112,
+    "tema": "Compra vantajosa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre compra vantajosa.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 113,
+    "tema": "Data das demonstrações",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre data das demonstrações.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "O investimento não está sujeito a impairment.",
+      "Usa-se a demonstração mais recente da investida.",
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Usa-se a demonstração mais recente da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 114,
+    "tema": "Defasagem máxima",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre defasagem máxima.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O investimento não está sujeito a impairment.",
+      "20% sempre significa controle.",
+      "A diferença entre datas de encerramento não pode superar três meses.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: A diferença entre datas de encerramento não pode superar três meses. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 115,
+    "tema": "Políticas uniformes",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre políticas uniformes.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Joint venture significa controle individual.",
+      "Devem ser ajustadas para práticas contábeis uniformes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser ajustadas para práticas contábeis uniformes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 116,
+    "tema": "Prejuízos além do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre prejuízos além do investimento.",
+    "alternativas": [
+      "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+      "Dividendos aumentam o investimento.",
+      "O investimento não está sujeito a impairment.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 117,
+    "tema": "Retomada de lucros",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre retomada de lucros.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "Só ocorre após compensar perdas não reconhecidas.",
+      "O goodwill deve ser amortizado.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Só ocorre após compensar perdas não reconhecidas. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 118,
+    "tema": "Impairment",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "20% sempre significa controle.",
+      "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Após o MEP, avalia-se evidência objetiva de perda no investimento líquido. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 119,
+    "tema": "Teste do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre teste do investimento.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O investimento líquido, incluindo goodwill, é testado como um único ativo. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 120,
+    "tema": "Demonstrações separadas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre demonstrações separadas.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual.",
+      "Dividendos aumentam o investimento.",
+      "Seguem o CPC 35 para a contabilização do investimento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Seguem o CPC 35 para a contabilização do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 121,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "Joint venture significa controle individual.",
+      "Transações upstream nunca exigem eliminação.",
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 122,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 123,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "O goodwill deve ser amortizado.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "Dividendos aumentam o investimento.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 124,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 125,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 126,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "O goodwill deve ser amortizado.",
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 127,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "O MEP reconhece somente dividendos.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 128,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 129,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "O MEP reconhece somente dividendos.",
+      "O goodwill deve ser amortizado.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 130,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Joint venture significa controle individual.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 131,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O MEP reconhece somente dividendos.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 132,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "Dividendos aumentam o investimento.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 133,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 134,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado.",
+      "Transações upstream nunca exigem eliminação.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 135,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 136,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Dividendos aumentam o investimento.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 137,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 138,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 139,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual.",
+      "20% sempre significa controle.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 140,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Joint venture significa controle individual.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 141,
+    "tema": "Goodwill",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre goodwill.",
+    "alternativas": [
+      "Integra o valor contábil do investimento e não é amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "Joint venture significa controle individual.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Integra o valor contábil do investimento e não é amortizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 142,
+    "tema": "Compra vantajosa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre compra vantajosa.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "20% sempre significa controle.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 143,
+    "tema": "Data das demonstrações",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre data das demonstrações.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Usa-se a demonstração mais recente da investida.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Usa-se a demonstração mais recente da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 144,
+    "tema": "Defasagem máxima",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre defasagem máxima.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A diferença entre datas de encerramento não pode superar três meses.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: A diferença entre datas de encerramento não pode superar três meses. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 145,
+    "tema": "Políticas uniformes",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre políticas uniformes.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Devem ser ajustadas para práticas contábeis uniformes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser ajustadas para práticas contábeis uniformes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 146,
+    "tema": "Prejuízos além do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre prejuízos além do investimento.",
+    "alternativas": [
+      "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Dividendos aumentam o investimento.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 147,
+    "tema": "Retomada de lucros",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre retomada de lucros.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Só ocorre após compensar perdas não reconhecidas.",
+      "Joint venture significa controle individual.",
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Só ocorre após compensar perdas não reconhecidas. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 148,
+    "tema": "Impairment",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O MEP reconhece somente dividendos.",
+      "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+      "Transações upstream nunca exigem eliminação.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Após o MEP, avalia-se evidência objetiva de perda no investimento líquido. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 149,
+    "tema": "Teste do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre teste do investimento.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "Dividendos aumentam o investimento.",
+      "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O investimento líquido, incluindo goodwill, é testado como um único ativo. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 150,
+    "tema": "Demonstrações separadas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre demonstrações separadas.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "20% sempre significa controle.",
+      "O MEP reconhece somente dividendos.",
+      "Seguem o CPC 35 para a contabilização do investimento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Seguem o CPC 35 para a contabilização do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 151,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "Transações upstream nunca exigem eliminação.",
+      "O goodwill deve ser amortizado.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 152,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "Dividendos aumentam o investimento.",
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 153,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 154,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Joint venture significa controle individual.",
+      "O goodwill deve ser amortizado.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 155,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "20% sempre significa controle.",
+      "O goodwill deve ser amortizado.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 156,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Dividendos aumentam o investimento.",
+      "Transações upstream nunca exigem eliminação.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 157,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 158,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 159,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "O MEP reconhece somente dividendos.",
+      "Transações upstream nunca exigem eliminação.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 160,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 161,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "20% sempre significa controle.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 162,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O investimento não está sujeito a impairment.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 163,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Transações upstream nunca exigem eliminação.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "O investimento não está sujeito a impairment.",
+      "20% sempre significa controle."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 164,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O investimento não está sujeito a impairment.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 165,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 166,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 167,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "O MEP reconhece somente dividendos.",
+      "Dividendos aumentam o investimento.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 168,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "20% sempre significa controle.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 169,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle.",
+      "O goodwill deve ser amortizado.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 170,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O goodwill deve ser amortizado.",
+      "Dividendos aumentam o investimento.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 171,
+    "tema": "Goodwill",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre goodwill.",
+    "alternativas": [
+      "Integra o valor contábil do investimento e não é amortizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "20% sempre significa controle.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Integra o valor contábil do investimento e não é amortizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 172,
+    "tema": "Compra vantajosa",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre compra vantajosa.",
+    "alternativas": [
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 173,
+    "tema": "Data das demonstrações",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre data das demonstrações.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "O MEP reconhece somente dividendos.",
+      "Usa-se a demonstração mais recente da investida.",
+      "Transações upstream nunca exigem eliminação.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Usa-se a demonstração mais recente da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 174,
+    "tema": "Defasagem máxima",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre defasagem máxima.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "O investimento não está sujeito a impairment.",
+      "Transações upstream nunca exigem eliminação.",
+      "A diferença entre datas de encerramento não pode superar três meses.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: A diferença entre datas de encerramento não pode superar três meses. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 175,
+    "tema": "Políticas uniformes",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre políticas uniformes.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "20% sempre significa controle.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Devem ser ajustadas para práticas contábeis uniformes."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser ajustadas para práticas contábeis uniformes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 176,
+    "tema": "Prejuízos além do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre prejuízos além do investimento.",
+    "alternativas": [
+      "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+      "O investimento não está sujeito a impairment.",
+      "Joint venture significa controle individual.",
+      "O MEP reconhece somente dividendos.",
+      "20% sempre significa controle."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 177,
+    "tema": "Retomada de lucros",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre retomada de lucros.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Só ocorre após compensar perdas não reconhecidas.",
+      "20% sempre significa controle.",
+      "O MEP reconhece somente dividendos.",
+      "A defasagem entre datas pode ser ilimitada."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Só ocorre após compensar perdas não reconhecidas. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 178,
+    "tema": "Impairment",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre impairment.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+      "O MEP reconhece somente dividendos.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Após o MEP, avalia-se evidência objetiva de perda no investimento líquido. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 179,
+    "tema": "Teste do investimento",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre teste do investimento.",
+    "alternativas": [
+      "O MEP reconhece somente dividendos.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado.",
+      "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+      "Joint venture significa controle individual."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O investimento líquido, incluindo goodwill, é testado como um único ativo. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 180,
+    "tema": "Demonstrações separadas",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre demonstrações separadas.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos.",
+      "Seguem o CPC 35 para a contabilização do investimento."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Seguem o CPC 35 para a contabilização do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 181,
+    "tema": "Objetivo",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre objetivo.",
+    "alternativas": [
+      "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Políticas contábeis diferentes não precisam de ajuste."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 182,
+    "tema": "Coligada",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre coligada.",
+    "alternativas": [
+      "A defasagem entre datas pode ser ilimitada.",
+      "Entidade sobre a qual o investidor exerce influência significativa.",
+      "O goodwill deve ser amortizado.",
+      "Joint venture significa controle individual.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Entidade sobre a qual o investidor exerce influência significativa. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 183,
+    "tema": "Influência significativa",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre influência significativa.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Dividendos aumentam o investimento.",
+      "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+      "Joint venture significa controle individual.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 184,
+    "tema": "Presunção de 20%",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre presunção de 20%.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "O MEP reconhece somente dividendos.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+      "20% sempre significa controle."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 185,
+    "tema": "Evidências de influência",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre evidências de influência.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "O investimento não está sujeito a impairment.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "20% sempre significa controle.",
+      "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 186,
+    "tema": "Potenciais direitos de voto",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre potenciais direitos de voto.",
+    "alternativas": [
+      "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+      "Dividendos aumentam o investimento.",
+      "Transações upstream nunca exigem eliminação.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "20% sempre significa controle."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Devem ser considerados quando prontamente exercíveis ou conversíveis. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 187,
+    "tema": "Joint venture",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre joint venture.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+      "Joint venture significa controle individual.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Negócio conjunto em que as partes têm direitos sobre os ativos líquidos. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 188,
+    "tema": "Controle conjunto",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre controle conjunto.",
+    "alternativas": [
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 189,
+    "tema": "Método da equivalência patrimonial",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre método da equivalência patrimonial.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "O MEP reconhece somente dividendos.",
+      "Dividendos aumentam o investimento.",
+      "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+      "O goodwill deve ser amortizado."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 190,
+    "tema": "Resultado da investida",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre resultado da investida.",
+    "alternativas": [
+      "Joint venture significa controle individual.",
+      "O investimento não está sujeito a impairment.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O goodwill deve ser amortizado.",
+      "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 191,
+    "tema": "Dividendos recebidos",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre dividendos recebidos.",
+    "alternativas": [
+      "Reduzem o valor contábil do investimento.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Reduzem o valor contábil do investimento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 192,
+    "tema": "Outros resultados abrangentes",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre outros resultados abrangentes.",
+    "alternativas": [
+      "20% sempre significa controle.",
+      "A participação do investidor nas variações da investida é reconhecida em ORA.",
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: A participação do investidor nas variações da investida é reconhecida em ORA. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 193,
+    "tema": "Mantido para venda",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mantido para venda.",
+    "alternativas": [
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Transações upstream nunca exigem eliminação."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: A parcela que atende ao CPC 31 segue esse pronunciamento. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 194,
+    "tema": "Descontinuidade do MEP",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre descontinuidade do mep.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Transações upstream nunca exigem eliminação.",
+      "A defasagem entre datas pode ser ilimitada.",
+      "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+      "O MEP reconhece somente dividendos."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 195,
+    "tema": "Tornar-se controlada",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre tornar-se controlada.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Aplica-se CPC 15 e CPC 36."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Aplica-se CPC 15 e CPC 36. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 196,
+    "tema": "Participação remanescente",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre participação remanescente.",
+    "alternativas": [
+      "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+      "Prejuízos continuam indefinidamente abaixo de zero.",
+      "O MEP reconhece somente dividendos.",
+      "Dividendos aumentam o investimento.",
+      "O investimento não está sujeito a impairment."
+    ],
+    "correta": 0,
+    "comentario": "A alternativa correta decorre do CPC 18: Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 197,
+    "tema": "Mudança coligada/joint venture",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre mudança coligada/joint venture.",
+    "alternativas": [
+      "O goodwill deve ser amortizado.",
+      "Mantém-se o MEP, sem remensuração da participação retida.",
+      "Transações upstream nunca exigem eliminação.",
+      "O investimento não está sujeito a impairment.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 1,
+    "comentario": "A alternativa correta decorre do CPC 18: Mantém-se o MEP, sem remensuração da participação retida. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 198,
+    "tema": "Transações upstream",
+    "nivel": "Difícil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações upstream.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Políticas contábeis diferentes não precisam de ajuste.",
+      "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+      "Joint venture significa controle individual.",
+      "Dividendos aumentam o investimento."
+    ],
+    "correta": 2,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 199,
+    "tema": "Transações downstream",
+    "nivel": "Fácil",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre transações downstream.",
+    "alternativas": [
+      "Dividendos aumentam o investimento.",
+      "O goodwill deve ser amortizado.",
+      "20% sempre significa controle.",
+      "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+      "Prejuízos continuam indefinidamente abaixo de zero."
+    ],
+    "correta": 3,
+    "comentario": "A alternativa correta decorre do CPC 18: Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  },
+  {
+    "id": 200,
+    "tema": "Negócio em transação downstream",
+    "nivel": "Médio",
+    "enunciado": "De acordo com o CPC 18 (R3), assinale a alternativa correta sobre negócio em transação downstream.",
+    "alternativas": [
+      "O investimento não está sujeito a impairment.",
+      "Transações upstream nunca exigem eliminação.",
+      "Dividendos aumentam o investimento.",
+      "Joint venture significa controle individual.",
+      "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente."
+    ],
+    "correta": 4,
+    "comentario": "A alternativa correta decorre do CPC 18: Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente. As demais opções confundem influência significativa, MEP, dividendos, transações ou impairment."
+  }
+]

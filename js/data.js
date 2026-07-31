@@ -158,13 +158,22 @@ window.CPCS = [
   },
   {
     "numero": "18",
-    "nome": "Investimento em Coligada, em Controlada e em Empreendimento Controlado em Conjunto",
-    "palavras": [
-      "coligada",
-      "controlada",
-      "mep",
-      "equivalência patrimonial"
-    ]
+    "nome": "Investimento em Coligada e em Empreendimento Controlado em Conjunto",
+    "ativo": true,
+    "pdf": "./pdf/CPC-18-R3-Coligadas-Joint-Ventures.pdf",
+    "resumo": "./resumos/cpc18-resumo.html",
+    "mapa": "./mapas/cpc18-mapa.html",
+    "casos": "./casos/cpc18-casos.html",
+    "dicionario": "./resumos/cpc18-dicionario.html",
+    "flashcards": "./resumos/cpc18-flashcards.html",
+    "quizzes": "./quizzes/cpc18-index.html",
+    "comentarios": "./comentarios/cpc18-questoes.html",
+    "banco": "./questoes/cpc18-banco.html",
+    "simulado": "./quizzes/cpc18-simulado.html",
+    "macetes": "./resumos/cpc18-macetes.html",
+    "erros": "./resumos/cpc18-erros.html",
+    "checklist": "./resumos/cpc18-checklist.html",
+    "palavras": ["coligada", "influência significativa", "mep", "equivalência patrimonial", "joint venture", "upstream", "downstream", "goodwill", "impairment"]
   },
   {
     "numero": "23",

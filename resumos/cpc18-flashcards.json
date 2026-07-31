@@ -1,0 +1,2102 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que o CPC 18 determina sobre objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 2,
+    "pergunta": "O que o CPC 18 determina sobre coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que o CPC 18 determina sobre influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 4,
+    "pergunta": "O que o CPC 18 determina sobre presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 5,
+    "pergunta": "O que o CPC 18 determina sobre evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 6,
+    "pergunta": "O que o CPC 18 determina sobre potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 7,
+    "pergunta": "O que o CPC 18 determina sobre joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 8,
+    "pergunta": "O que o CPC 18 determina sobre controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 9,
+    "pergunta": "O que o CPC 18 determina sobre método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que o CPC 18 determina sobre resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 11,
+    "pergunta": "O que o CPC 18 determina sobre dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 12,
+    "pergunta": "O que o CPC 18 determina sobre outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 13,
+    "pergunta": "O que o CPC 18 determina sobre mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 14,
+    "pergunta": "O que o CPC 18 determina sobre descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o CPC 18 determina sobre tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 16,
+    "pergunta": "O que o CPC 18 determina sobre participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 17,
+    "pergunta": "O que o CPC 18 determina sobre mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que o CPC 18 determina sobre transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 19,
+    "pergunta": "O que o CPC 18 determina sobre transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 20,
+    "pergunta": "O que o CPC 18 determina sobre negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 21,
+    "pergunta": "O que o CPC 18 determina sobre goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 22,
+    "pergunta": "O que o CPC 18 determina sobre compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que o CPC 18 determina sobre data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 24,
+    "pergunta": "O que o CPC 18 determina sobre defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 25,
+    "pergunta": "O que o CPC 18 determina sobre políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 26,
+    "pergunta": "O que o CPC 18 determina sobre prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 27,
+    "pergunta": "O que o CPC 18 determina sobre retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 28,
+    "pergunta": "O que o CPC 18 determina sobre impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 29,
+    "pergunta": "O que o CPC 18 determina sobre teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 30,
+    "pergunta": "O que o CPC 18 determina sobre demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 31,
+    "pergunta": "Como objetivo é tratado pelo MEP?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 32,
+    "pergunta": "Como coligada é tratado pelo MEP?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 33,
+    "pergunta": "Como influência significativa é tratado pelo MEP?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 34,
+    "pergunta": "Como presunção de 20% é tratado pelo MEP?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 35,
+    "pergunta": "Como evidências de influência é tratado pelo MEP?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 36,
+    "pergunta": "Como potenciais direitos de voto é tratado pelo MEP?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 37,
+    "pergunta": "Como joint venture é tratado pelo MEP?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 38,
+    "pergunta": "Como controle conjunto é tratado pelo MEP?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 39,
+    "pergunta": "Como método da equivalência patrimonial é tratado pelo MEP?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 40,
+    "pergunta": "Como resultado da investida é tratado pelo MEP?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 41,
+    "pergunta": "Como dividendos recebidos é tratado pelo MEP?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Como outros resultados abrangentes é tratado pelo MEP?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 43,
+    "pergunta": "Como mantido para venda é tratado pelo MEP?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 44,
+    "pergunta": "Como descontinuidade do mep é tratado pelo MEP?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Como tornar-se controlada é tratado pelo MEP?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 46,
+    "pergunta": "Como participação remanescente é tratado pelo MEP?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 47,
+    "pergunta": "Como mudança coligada/joint venture é tratado pelo MEP?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Como transações upstream é tratado pelo MEP?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 49,
+    "pergunta": "Como transações downstream é tratado pelo MEP?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 50,
+    "pergunta": "Como negócio em transação downstream é tratado pelo MEP?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Como goodwill é tratado pelo MEP?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 52,
+    "pergunta": "Como compra vantajosa é tratado pelo MEP?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 53,
+    "pergunta": "Como data das demonstrações é tratado pelo MEP?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Como defasagem máxima é tratado pelo MEP?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 55,
+    "pergunta": "Como políticas uniformes é tratado pelo MEP?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 56,
+    "pergunta": "Como prejuízos além do investimento é tratado pelo MEP?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Como retomada de lucros é tratado pelo MEP?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 58,
+    "pergunta": "Como impairment é tratado pelo MEP?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 59,
+    "pergunta": "Como teste do investimento é tratado pelo MEP?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Como demonstrações separadas é tratado pelo MEP?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 61,
+    "pergunta": "Qual a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 62,
+    "pergunta": "Qual a regra essencial sobre coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Qual a regra essencial sobre influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 64,
+    "pergunta": "Qual a regra essencial sobre presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 65,
+    "pergunta": "Qual a regra essencial sobre evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Qual a regra essencial sobre potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 67,
+    "pergunta": "Qual a regra essencial sobre joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 68,
+    "pergunta": "Qual a regra essencial sobre controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Qual a regra essencial sobre método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 70,
+    "pergunta": "Qual a regra essencial sobre resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 71,
+    "pergunta": "Qual a regra essencial sobre dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual a regra essencial sobre outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual a regra essencial sobre mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 74,
+    "pergunta": "Qual a regra essencial sobre descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Qual a regra essencial sobre tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 76,
+    "pergunta": "Qual a regra essencial sobre participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual a regra essencial sobre mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Qual a regra essencial sobre transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual a regra essencial sobre transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual a regra essencial sobre negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Qual a regra essencial sobre goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual a regra essencial sobre compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual a regra essencial sobre data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual a regra essencial sobre defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual a regra essencial sobre políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual a regra essencial sobre prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual a regra essencial sobre retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual a regra essencial sobre impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual a regra essencial sobre teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual a regra essencial sobre demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 91,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 92,
+    "pergunta": "Em prova, qual afirmação correta se aplica a coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Em prova, qual afirmação correta se aplica a influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 94,
+    "pergunta": "Em prova, qual afirmação correta se aplica a presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 95,
+    "pergunta": "Em prova, qual afirmação correta se aplica a evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Em prova, qual afirmação correta se aplica a potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 97,
+    "pergunta": "Em prova, qual afirmação correta se aplica a joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 98,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 100,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 101,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Em prova, qual afirmação correta se aplica a outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 103,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 104,
+    "pergunta": "Em prova, qual afirmação correta se aplica a descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Em prova, qual afirmação correta se aplica a tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 106,
+    "pergunta": "Em prova, qual afirmação correta se aplica a participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 108,
+    "pergunta": "Em prova, qual afirmação correta se aplica a transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Em prova, qual afirmação correta se aplica a transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Em prova, qual afirmação correta se aplica a negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 111,
+    "pergunta": "Em prova, qual afirmação correta se aplica a goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Em prova, qual afirmação correta se aplica a compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Em prova, qual afirmação correta se aplica a data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 114,
+    "pergunta": "Em prova, qual afirmação correta se aplica a defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Em prova, qual afirmação correta se aplica a políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Em prova, qual afirmação correta se aplica a prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 117,
+    "pergunta": "Em prova, qual afirmação correta se aplica a retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Em prova, qual afirmação correta se aplica a teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 120,
+    "pergunta": "Em prova, qual afirmação correta se aplica a demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 121,
+    "pergunta": "O que o CPC 18 determina sobre objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 122,
+    "pergunta": "O que o CPC 18 determina sobre coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 123,
+    "pergunta": "O que o CPC 18 determina sobre influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 124,
+    "pergunta": "O que o CPC 18 determina sobre presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 125,
+    "pergunta": "O que o CPC 18 determina sobre evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 126,
+    "pergunta": "O que o CPC 18 determina sobre potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 127,
+    "pergunta": "O que o CPC 18 determina sobre joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 128,
+    "pergunta": "O que o CPC 18 determina sobre controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 129,
+    "pergunta": "O que o CPC 18 determina sobre método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 130,
+    "pergunta": "O que o CPC 18 determina sobre resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 131,
+    "pergunta": "O que o CPC 18 determina sobre dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 132,
+    "pergunta": "O que o CPC 18 determina sobre outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 133,
+    "pergunta": "O que o CPC 18 determina sobre mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 134,
+    "pergunta": "O que o CPC 18 determina sobre descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 135,
+    "pergunta": "O que o CPC 18 determina sobre tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 136,
+    "pergunta": "O que o CPC 18 determina sobre participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 137,
+    "pergunta": "O que o CPC 18 determina sobre mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 138,
+    "pergunta": "O que o CPC 18 determina sobre transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 139,
+    "pergunta": "O que o CPC 18 determina sobre transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 140,
+    "pergunta": "O que o CPC 18 determina sobre negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 141,
+    "pergunta": "O que o CPC 18 determina sobre goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 142,
+    "pergunta": "O que o CPC 18 determina sobre compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 143,
+    "pergunta": "O que o CPC 18 determina sobre data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 144,
+    "pergunta": "O que o CPC 18 determina sobre defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 145,
+    "pergunta": "O que o CPC 18 determina sobre políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 146,
+    "pergunta": "O que o CPC 18 determina sobre prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 147,
+    "pergunta": "O que o CPC 18 determina sobre retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 148,
+    "pergunta": "O que o CPC 18 determina sobre impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 149,
+    "pergunta": "O que o CPC 18 determina sobre teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 150,
+    "pergunta": "O que o CPC 18 determina sobre demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 151,
+    "pergunta": "Como objetivo é tratado pelo MEP?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 152,
+    "pergunta": "Como coligada é tratado pelo MEP?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 153,
+    "pergunta": "Como influência significativa é tratado pelo MEP?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 154,
+    "pergunta": "Como presunção de 20% é tratado pelo MEP?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 155,
+    "pergunta": "Como evidências de influência é tratado pelo MEP?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 156,
+    "pergunta": "Como potenciais direitos de voto é tratado pelo MEP?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 157,
+    "pergunta": "Como joint venture é tratado pelo MEP?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 158,
+    "pergunta": "Como controle conjunto é tratado pelo MEP?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 159,
+    "pergunta": "Como método da equivalência patrimonial é tratado pelo MEP?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 160,
+    "pergunta": "Como resultado da investida é tratado pelo MEP?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 161,
+    "pergunta": "Como dividendos recebidos é tratado pelo MEP?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 162,
+    "pergunta": "Como outros resultados abrangentes é tratado pelo MEP?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 163,
+    "pergunta": "Como mantido para venda é tratado pelo MEP?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 164,
+    "pergunta": "Como descontinuidade do mep é tratado pelo MEP?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 165,
+    "pergunta": "Como tornar-se controlada é tratado pelo MEP?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 166,
+    "pergunta": "Como participação remanescente é tratado pelo MEP?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 167,
+    "pergunta": "Como mudança coligada/joint venture é tratado pelo MEP?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 168,
+    "pergunta": "Como transações upstream é tratado pelo MEP?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 169,
+    "pergunta": "Como transações downstream é tratado pelo MEP?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 170,
+    "pergunta": "Como negócio em transação downstream é tratado pelo MEP?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 171,
+    "pergunta": "Como goodwill é tratado pelo MEP?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 172,
+    "pergunta": "Como compra vantajosa é tratado pelo MEP?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 173,
+    "pergunta": "Como data das demonstrações é tratado pelo MEP?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 174,
+    "pergunta": "Como defasagem máxima é tratado pelo MEP?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 175,
+    "pergunta": "Como políticas uniformes é tratado pelo MEP?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 176,
+    "pergunta": "Como prejuízos além do investimento é tratado pelo MEP?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 177,
+    "pergunta": "Como retomada de lucros é tratado pelo MEP?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 178,
+    "pergunta": "Como impairment é tratado pelo MEP?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 179,
+    "pergunta": "Como teste do investimento é tratado pelo MEP?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 180,
+    "pergunta": "Como demonstrações separadas é tratado pelo MEP?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 181,
+    "pergunta": "Qual a regra essencial sobre objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 182,
+    "pergunta": "Qual a regra essencial sobre coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 183,
+    "pergunta": "Qual a regra essencial sobre influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 184,
+    "pergunta": "Qual a regra essencial sobre presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 185,
+    "pergunta": "Qual a regra essencial sobre evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 186,
+    "pergunta": "Qual a regra essencial sobre potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 187,
+    "pergunta": "Qual a regra essencial sobre joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 188,
+    "pergunta": "Qual a regra essencial sobre controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 189,
+    "pergunta": "Qual a regra essencial sobre método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 190,
+    "pergunta": "Qual a regra essencial sobre resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 191,
+    "pergunta": "Qual a regra essencial sobre dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 192,
+    "pergunta": "Qual a regra essencial sobre outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 193,
+    "pergunta": "Qual a regra essencial sobre mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 194,
+    "pergunta": "Qual a regra essencial sobre descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 195,
+    "pergunta": "Qual a regra essencial sobre tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 196,
+    "pergunta": "Qual a regra essencial sobre participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 197,
+    "pergunta": "Qual a regra essencial sobre mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 198,
+    "pergunta": "Qual a regra essencial sobre transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 199,
+    "pergunta": "Qual a regra essencial sobre transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 200,
+    "pergunta": "Qual a regra essencial sobre negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 201,
+    "pergunta": "Qual a regra essencial sobre goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 202,
+    "pergunta": "Qual a regra essencial sobre compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 203,
+    "pergunta": "Qual a regra essencial sobre data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 204,
+    "pergunta": "Qual a regra essencial sobre defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 205,
+    "pergunta": "Qual a regra essencial sobre políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 206,
+    "pergunta": "Qual a regra essencial sobre prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 207,
+    "pergunta": "Qual a regra essencial sobre retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 208,
+    "pergunta": "Qual a regra essencial sobre impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 209,
+    "pergunta": "Qual a regra essencial sobre teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 210,
+    "pergunta": "Qual a regra essencial sobre demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 211,
+    "pergunta": "Em prova, qual afirmação correta se aplica a objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 212,
+    "pergunta": "Em prova, qual afirmação correta se aplica a coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 213,
+    "pergunta": "Em prova, qual afirmação correta se aplica a influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 214,
+    "pergunta": "Em prova, qual afirmação correta se aplica a presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 215,
+    "pergunta": "Em prova, qual afirmação correta se aplica a evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 216,
+    "pergunta": "Em prova, qual afirmação correta se aplica a potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 217,
+    "pergunta": "Em prova, qual afirmação correta se aplica a joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 218,
+    "pergunta": "Em prova, qual afirmação correta se aplica a controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 219,
+    "pergunta": "Em prova, qual afirmação correta se aplica a método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 220,
+    "pergunta": "Em prova, qual afirmação correta se aplica a resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 221,
+    "pergunta": "Em prova, qual afirmação correta se aplica a dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 222,
+    "pergunta": "Em prova, qual afirmação correta se aplica a outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 223,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 224,
+    "pergunta": "Em prova, qual afirmação correta se aplica a descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 225,
+    "pergunta": "Em prova, qual afirmação correta se aplica a tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 226,
+    "pergunta": "Em prova, qual afirmação correta se aplica a participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 227,
+    "pergunta": "Em prova, qual afirmação correta se aplica a mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 228,
+    "pergunta": "Em prova, qual afirmação correta se aplica a transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 229,
+    "pergunta": "Em prova, qual afirmação correta se aplica a transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 230,
+    "pergunta": "Em prova, qual afirmação correta se aplica a negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 231,
+    "pergunta": "Em prova, qual afirmação correta se aplica a goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 232,
+    "pergunta": "Em prova, qual afirmação correta se aplica a compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 233,
+    "pergunta": "Em prova, qual afirmação correta se aplica a data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 234,
+    "pergunta": "Em prova, qual afirmação correta se aplica a defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 235,
+    "pergunta": "Em prova, qual afirmação correta se aplica a políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 236,
+    "pergunta": "Em prova, qual afirmação correta se aplica a prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 237,
+    "pergunta": "Em prova, qual afirmação correta se aplica a retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 238,
+    "pergunta": "Em prova, qual afirmação correta se aplica a impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 239,
+    "pergunta": "Em prova, qual afirmação correta se aplica a teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 240,
+    "pergunta": "Em prova, qual afirmação correta se aplica a demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 241,
+    "pergunta": "O que o CPC 18 determina sobre objetivo?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 242,
+    "pergunta": "O que o CPC 18 determina sobre coligada?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 243,
+    "pergunta": "O que o CPC 18 determina sobre influência significativa?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 244,
+    "pergunta": "O que o CPC 18 determina sobre presunção de 20%?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 245,
+    "pergunta": "O que o CPC 18 determina sobre evidências de influência?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 246,
+    "pergunta": "O que o CPC 18 determina sobre potenciais direitos de voto?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 247,
+    "pergunta": "O que o CPC 18 determina sobre joint venture?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 248,
+    "pergunta": "O que o CPC 18 determina sobre controle conjunto?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 249,
+    "pergunta": "O que o CPC 18 determina sobre método da equivalência patrimonial?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 250,
+    "pergunta": "O que o CPC 18 determina sobre resultado da investida?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 251,
+    "pergunta": "O que o CPC 18 determina sobre dividendos recebidos?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 252,
+    "pergunta": "O que o CPC 18 determina sobre outros resultados abrangentes?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 253,
+    "pergunta": "O que o CPC 18 determina sobre mantido para venda?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 254,
+    "pergunta": "O que o CPC 18 determina sobre descontinuidade do mep?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 255,
+    "pergunta": "O que o CPC 18 determina sobre tornar-se controlada?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 256,
+    "pergunta": "O que o CPC 18 determina sobre participação remanescente?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 257,
+    "pergunta": "O que o CPC 18 determina sobre mudança coligada/joint venture?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 258,
+    "pergunta": "O que o CPC 18 determina sobre transações upstream?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 259,
+    "pergunta": "O que o CPC 18 determina sobre transações downstream?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 260,
+    "pergunta": "O que o CPC 18 determina sobre negócio em transação downstream?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 261,
+    "pergunta": "O que o CPC 18 determina sobre goodwill?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 262,
+    "pergunta": "O que o CPC 18 determina sobre compra vantajosa?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 263,
+    "pergunta": "O que o CPC 18 determina sobre data das demonstrações?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 264,
+    "pergunta": "O que o CPC 18 determina sobre defasagem máxima?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 265,
+    "pergunta": "O que o CPC 18 determina sobre políticas uniformes?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 266,
+    "pergunta": "O que o CPC 18 determina sobre prejuízos além do investimento?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 267,
+    "pergunta": "O que o CPC 18 determina sobre retomada de lucros?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 268,
+    "pergunta": "O que o CPC 18 determina sobre impairment?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 269,
+    "pergunta": "O que o CPC 18 determina sobre teste do investimento?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 270,
+    "pergunta": "O que o CPC 18 determina sobre demonstrações separadas?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 271,
+    "pergunta": "Como objetivo é tratado pelo MEP?",
+    "resposta": "Estabelecer a contabilização de investimentos em coligadas e os requisitos de aplicação do método da equivalência patrimonial em coligadas e joint ventures.",
+    "categoria": "Objetivo",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 272,
+    "pergunta": "Como coligada é tratado pelo MEP?",
+    "resposta": "Entidade sobre a qual o investidor exerce influência significativa.",
+    "categoria": "Coligada",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 273,
+    "pergunta": "Como influência significativa é tratado pelo MEP?",
+    "resposta": "Poder de participar das decisões financeiras e operacionais sem controlar individual ou conjuntamente.",
+    "categoria": "Influência significativa",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 274,
+    "pergunta": "Como presunção de 20% é tratado pelo MEP?",
+    "resposta": "Com 20% ou mais do poder de voto presume-se influência significativa, salvo prova em contrário.",
+    "categoria": "Presunção de 20%",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 275,
+    "pergunta": "Como evidências de influência é tratado pelo MEP?",
+    "resposta": "Conselho, participação em políticas, operações materiais, intercâmbio de gestores e informação técnica essencial.",
+    "categoria": "Evidências de influência",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 276,
+    "pergunta": "Como potenciais direitos de voto é tratado pelo MEP?",
+    "resposta": "Devem ser considerados quando prontamente exercíveis ou conversíveis.",
+    "categoria": "Potenciais direitos de voto",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 277,
+    "pergunta": "Como joint venture é tratado pelo MEP?",
+    "resposta": "Negócio conjunto em que as partes têm direitos sobre os ativos líquidos.",
+    "categoria": "Joint venture",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 278,
+    "pergunta": "Como controle conjunto é tratado pelo MEP?",
+    "resposta": "Compartilhamento contratual de controle que exige consentimento unânime sobre atividades relevantes.",
+    "categoria": "Controle conjunto",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 279,
+    "pergunta": "Como método da equivalência patrimonial é tratado pelo MEP?",
+    "resposta": "Reconhece inicialmente pelo custo e ajusta pela participação do investidor nas mudanças dos ativos líquidos da investida.",
+    "categoria": "Método da equivalência patrimonial",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 280,
+    "pergunta": "Como resultado da investida é tratado pelo MEP?",
+    "resposta": "A participação no lucro ou prejuízo da investida é reconhecida no resultado do investidor.",
+    "categoria": "Resultado da investida",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 281,
+    "pergunta": "Como dividendos recebidos é tratado pelo MEP?",
+    "resposta": "Reduzem o valor contábil do investimento.",
+    "categoria": "Dividendos recebidos",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 282,
+    "pergunta": "Como outros resultados abrangentes é tratado pelo MEP?",
+    "resposta": "A participação do investidor nas variações da investida é reconhecida em ORA.",
+    "categoria": "Outros resultados abrangentes",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 283,
+    "pergunta": "Como mantido para venda é tratado pelo MEP?",
+    "resposta": "A parcela que atende ao CPC 31 segue esse pronunciamento.",
+    "categoria": "Mantido para venda",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 284,
+    "pergunta": "Como descontinuidade do mep é tratado pelo MEP?",
+    "resposta": "O método deixa de ser usado quando o investimento deixa de ser coligada ou joint venture.",
+    "categoria": "Descontinuidade do MEP",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 285,
+    "pergunta": "Como tornar-se controlada é tratado pelo MEP?",
+    "resposta": "Aplica-se CPC 15 e CPC 36.",
+    "categoria": "Tornar-se controlada",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 286,
+    "pergunta": "Como participação remanescente é tratado pelo MEP?",
+    "resposta": "Se virar ativo financeiro, é mensurada ao valor justo segundo CPC 48.",
+    "categoria": "Participação remanescente",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 287,
+    "pergunta": "Como mudança coligada/joint venture é tratado pelo MEP?",
+    "resposta": "Mantém-se o MEP, sem remensuração da participação retida.",
+    "categoria": "Mudança coligada/joint venture",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 288,
+    "pergunta": "Como transações upstream é tratado pelo MEP?",
+    "resposta": "Venda da investida para o investidor; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações upstream",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 289,
+    "pergunta": "Como transações downstream é tratado pelo MEP?",
+    "resposta": "Venda do investidor para a investida; elimina-se a parcela do investidor no resultado não realizado.",
+    "categoria": "Transações downstream",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 290,
+    "pergunta": "Como negócio em transação downstream é tratado pelo MEP?",
+    "resposta": "Se os ativos constituem negócio, o ganho ou perda pode ser reconhecido integralmente.",
+    "categoria": "Negócio em transação downstream",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 291,
+    "pergunta": "Como goodwill é tratado pelo MEP?",
+    "resposta": "Integra o valor contábil do investimento e não é amortizado.",
+    "categoria": "Goodwill",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 292,
+    "pergunta": "Como compra vantajosa é tratado pelo MEP?",
+    "resposta": "Excedente da participação no valor justo líquido sobre o custo é reconhecido como receita.",
+    "categoria": "Compra vantajosa",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 293,
+    "pergunta": "Como data das demonstrações é tratado pelo MEP?",
+    "resposta": "Usa-se a demonstração mais recente da investida.",
+    "categoria": "Data das demonstrações",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 294,
+    "pergunta": "Como defasagem máxima é tratado pelo MEP?",
+    "resposta": "A diferença entre datas de encerramento não pode superar três meses.",
+    "categoria": "Defasagem máxima",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 295,
+    "pergunta": "Como políticas uniformes é tratado pelo MEP?",
+    "resposta": "Devem ser ajustadas para práticas contábeis uniformes.",
+    "categoria": "Políticas uniformes",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 296,
+    "pergunta": "Como prejuízos além do investimento é tratado pelo MEP?",
+    "resposta": "O reconhecimento é interrompido quando a participação chega a zero, salvo obrigações ou pagamentos em nome da investida.",
+    "categoria": "Prejuízos além do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 297,
+    "pergunta": "Como retomada de lucros é tratado pelo MEP?",
+    "resposta": "Só ocorre após compensar perdas não reconhecidas.",
+    "categoria": "Retomada de lucros",
+    "dificuldade": "Difícil"
+  },
+  {
+    "id": 298,
+    "pergunta": "Como impairment é tratado pelo MEP?",
+    "resposta": "Após o MEP, avalia-se evidência objetiva de perda no investimento líquido.",
+    "categoria": "Impairment",
+    "dificuldade": "Fácil"
+  },
+  {
+    "id": 299,
+    "pergunta": "Como teste do investimento é tratado pelo MEP?",
+    "resposta": "O investimento líquido, incluindo goodwill, é testado como um único ativo.",
+    "categoria": "Teste do investimento",
+    "dificuldade": "Médio"
+  },
+  {
+    "id": 300,
+    "pergunta": "Como demonstrações separadas é tratado pelo MEP?",
+    "resposta": "Seguem o CPC 35 para a contabilização do investimento.",
+    "categoria": "Demonstrações separadas",
+    "dificuldade": "Difícil"
+  }
+]
